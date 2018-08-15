@@ -42,12 +42,16 @@ Warning: Read all the instructions before you attempt an upload.
 | * |  Find the **upload files** button  |
 | * |  Find the **gr-drains.csv** file in that easy to find folder on your computer  |
 
-* Upload (Read all before you start pressing buttons)
-    * Click on the **adopt-a-drain** folder link. Warning: once clicked these instructions will disappear, so commit the next few lines to memory
-    * Once in the **adopt-a-drain** folder, you may see previous copies of **gr_drains.csv**... not a problem
-    * Click on the **update files** button, the page will change to allow uploading files.  _Follow instructions on the upload page_
-    * Click on the " Create a new branch for this commit and start a pull request" radio button in the Commit Section, 
-    * Click on the **Propose Changes** button, the page will change to the **Open a pull request** page
+### Upload (Read all before you start pressing buttons)
+    1. Click on the **adopt-a-drain** folder link. 
+        * Warning: once clicked these instructions will disappear, so commit the next few lines to memory
+        * Ignore any copies of **gr_drains.csv** int the folder, this is not a problem
+    3. Click on the **update files** button 
+        * an upload page will appear
+        *_Follow instructions on the upload page_
+    4. Click on the " Create a new branch for this commit and start a pull request" radio button in the Commit Section
+        * you can ignore text in the  
+    5. Click on the **Propose Changes** button, the page will change to the **Open a pull request** page
 
 ## <a id="notify-developer">Notify Developer (aka Pull Request)</a>
 Notification occurs during what GitHub call a **pull request.**  Is what it is.  
