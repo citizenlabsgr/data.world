@@ -47,17 +47,17 @@ Read all before you start pressing buttons
 
 | Step |  Task |
 | :- | :- |
-| 1. | Click on the **adopt-a-drain** folder link.  |
+| 1. | **Click on the _adopt-a-drain_ folder link.**  |
 |   | _Warning: once clicked these instructions will disappear, so commit the next few lines to memory_ |
 |   | _Ignore any copies of **gr_drains.csv** int the folder, this is not a problem_ |
-| 2. | Click on the **update files** button  |
+| 2. | **Click on the _update files_ button**  |
 |   | _An upload page will appear_ |
 |   | _Follow instructions on the upload page_ |
-| 3. | Click on the **Create a new branch for this commit and start a pull request** radio button in the Commit Section |
+| 3. | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button in the Commit Section** |
 |   | _You can ignore text in the_   |
-| 4. | Click on the **Propose Changes** button |
-|   | _The page will change to the **Open a pull request** page_ |
-| 5. | Move on to **Notify Developer** below|
+| 4. | **Click on the _Propose Changes_ button** |
+|   | _The page will change to the Open a **pull request** page_ |
+| 5. | **Move on to **Notify Developer** below|
 
 
 ## <a id="notify-developer">Notify Developer (aka Pull Request)</a>
