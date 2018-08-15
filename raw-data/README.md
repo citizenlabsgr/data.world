@@ -34,13 +34,13 @@ You are reading this so your browser is in the raw-data folder
     Check Sheet - GitHub Upload
 ```
     * GitHub - Check Sheet 
- 
-    |    |  Check or confirm  |
-    | :- | :- |
-    | * |  confirm you are in the **raw-data** folder   |
-    | * |  find the **adopt-a-drain** folder  |
-    | * |  find the **upload files** button  |
-    | * |  find the **dr-drains.csv** file in that easy to find folder on your computer  |
+
+|    |  Check or confirm  |
+| :- | :- |
+| * |  confirm you are in the **raw-data** folder   |
+| * |  find the **adopt-a-drain** folder  |
+| * |  find the **upload files** button  |
+| * |  find the **dr-drains.csv** file in that easy to find folder on your computer  |
 
 ```    
 * Upload
