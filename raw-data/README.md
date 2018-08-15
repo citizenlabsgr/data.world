@@ -51,15 +51,15 @@ Read all before you start pressing buttons
 |   | _Warning: once clicked these instructions will disappear, so commit the next few lines to memory_ |
 |   | _Ignore any copies of **gr_drains.csv** int the folder, this is not a problem_ |
 | 2. | **Click on the _update files_ button**  |
-|   | _An upload page will appear_ |
+|   | _Opens upload page_ |
 |   | _Follow instructions on the upload page_ |
 | 3. | **Commit Section** |
 |   | _Safe to ignore "file via update"_   |
 |   | _Safe to ignore "add an optional extended description"_   |
 |   | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button** |
 |   | _Accept the default pull request name (aka branch name)_
-| 4. | **Click on the _Propose Changes_ button** |
-|   | _The page will change to the Open a **pull request** page_ |
+| 4. | **Click on the _"Propose Changes"_ button** |
+|   | _Opens **pull request** page_ |
 | 5. | **Move on to **Notify Developer** below|
 
 
@@ -71,9 +71,19 @@ Notification occurs during what GitHub call a **pull request.**  Is what it is.
 |    | Notification Checks |
 | :- | :- |
 | * | You should be on the **Open a pull request** page after uploading **gr_drains.csv.**  |
-| * |    |
-| * |    |
-| * |    |
+| * |  Find the "Assignees" link  |
+| * |  Find the "Create pull request" button |
+
+### Notification 
+Read all before you start pressing buttons
+
+| Step |  Task |
+| :- | :- |
+| 1. | **Click on the "Assignees" link** |
+|   | **Select a Developer** (i.e, James Wilfong) |
+| 2. | Ignore
+| 3. | **Click "Create pull request** button |
+
 
 ## <a id="clone-repo">Clone/Pull Repo</a>
 TBD
