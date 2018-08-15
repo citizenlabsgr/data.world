@@ -81,7 +81,8 @@ Read all before you start pressing buttons
 | :- | :- |
 | 1. | **Click on the "Assignees" link** |
 |   | **Select a Developer** (i.e, James Wilfong) |
-| 2. | Ignore
+| 2. | Ignore "Add files via upload" |
+|   | Ignore "Leave a comment" |
 | 3. | **Click "Create pull request** button |
 
 
