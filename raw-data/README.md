@@ -53,8 +53,11 @@ Read all before you start pressing buttons
 | 2. | **Click on the _update files_ button**  |
 |   | _An upload page will appear_ |
 |   | _Follow instructions on the upload page_ |
-| 3. | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button in the Commit Section** |
-|   | _You can ignore text in the_   |
+| 3. | **Commit Section** |
+|   | _Safe to ignore "file via update"_   |
+|   | _Safe to ignore "add an optional extended description"_   |
+|   | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button** |
+|   | _Accept the default pull request name_
 | 4. | **Click on the _Propose Changes_ button** |
 |   | _The page will change to the Open a **pull request** page_ |
 | 5. | **Move on to **Notify Developer** below|
