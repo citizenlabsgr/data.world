@@ -57,7 +57,7 @@ Read all before you start pressing buttons
 |   | _Safe to ignore "file via update"_   |
 |   | _Safe to ignore "add an optional extended description"_   |
 |   | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button** |
-|   | _Accept the default pull request name_
+|   | _Accept the default pull request name (aka branch name)_
 | 4. | **Click on the _Propose Changes_ button** |
 |   | _The page will change to the Open a **pull request** page_ |
 | 5. | **Move on to **Notify Developer** below|
