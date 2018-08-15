@@ -18,19 +18,20 @@
 ## <a id="prepare-dataset">Prepare Dataset</a>
 At this point, you have a spreadsheet with drain data.
     
-**Dataset - Check Sheet** 
+### Dataset - Check Sheet
 
 |    | Checks |
 | :- | :- |
-| * | Convert spreadsheet to CSV format (if needed)  |
+| * | Convert spreadsheet to a CSV file (if needed)  |
 | * | CSV File Name: **gr-drains.csv**  |
-| * | Columns: SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
+| * | CSV File Columns: SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
 | * | Put **dr-drains.csv** in a folder you can easily find |
     
 ## <a id="upload-dataset">Upload Dataset</a>
 
-**GitHub - Check Sheet** 
-You need to do a litte reconisance before you upload gr-drain.  Finding links and buttons in GitHub can be challenging.
+### GitHub - Check Sheet 
+ Finding links and buttons in GitHub can be challenging.  You need to do a litte reconnaissance before you upload gr-drain.csv. 
+ 
 |    | Checks |
 | :- | :- |
 | * |  Confirm you are in the **raw-data** folder   |
