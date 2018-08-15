@@ -32,7 +32,6 @@ You are reading this so your browser is in the raw-data folder
     * find the **dr-drains.csv** file in that easy to find folder on your computer
     
     Check Sheet - GitHub Upload
-```
     * GitHub - Check Sheet 
 
 |    |  Check or confirm  |
@@ -42,7 +41,6 @@ You are reading this so your browser is in the raw-data folder
 | * |  find the **upload files** button  |
 | * |  find the **dr-drains.csv** file in that easy to find folder on your computer  |
 
-```    
 * Upload
     * click on the **adopt-a-drain** folder link. Warning: once clicked these instructions will disappear, so commit the next few lines to memory
     * once in the **adopt-a-drain** folder, you may see previous copies of **gr_drains.csv**... not a problem
