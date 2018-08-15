@@ -45,16 +45,16 @@ Warning: Read all the instructions before you attempt an upload.
 ### Upload (Read all before you start pressing buttons)
 |  |  |
 | :- | :- |
-| 1.  | Click on the **adopt-a-drain** folder link.  |
-| * | Warning: once clicked these instructions will disappear, so commit the next few lines to memory |
-|   | * Ignore any copies of **gr_drains.csv** int the folder, this is not a problem |
+| 1. | Click on the **adopt-a-drain** folder link.  |
+|   | - Warning: once clicked these instructions will disappear, so commit the next few lines to memory |
+|   | - Ignore any copies of **gr_drains.csv** int the folder, this is not a problem |
 | 2. | Click on the **update files** button  |
-| * | - An upload page will appear |
-| * |  _Follow instructions on the upload page_ |
+|   | - An upload page will appear |
+|   | - _Follow instructions on the upload page_ |
 | 3. | Click on the **Create a new branch for this commit and start a pull request** radio button in the Commit Section |
-| * | You can ignore text in the   |
+| * | - You can ignore text in the   |
 | 4. | Click on the **Propose Changes** button |
-| * | The page will change to the **Open a pull request** page|
+|   | - The page will change to the **Open a pull request** page|
 | 5. | Move on to **Notify Developer** below|
 
 
