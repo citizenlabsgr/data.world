@@ -35,39 +35,30 @@ Warning: Read all the instructions before you attempt an upload.
 ### GitHub - Check Sheet 
  Finding links and buttons in GitHub can be challenging.  You need to do a litte reconnaissance before you upload gr-drain.csv. 
  
-|    | Checks |
+|    | GitHub Checks |
 | :- | :- |
 | * |  Confirm you are in the **raw-data** GitHub folder   |
 | * |  Find the **adopt-a-drain** folder link  |
 | * |  Find the **upload files** button  |
 | * |  Find the **gr-drains.csv** file in that easy to find folder on your computer  |
 
-### Upload (Read all before you start pressing buttons)
-|  |  |
+### Upload Dataset
+Read all before you start pressing buttons
+
+| Step |  Task |
 | :- | :- |
 | 1. | Click on the **adopt-a-drain** folder link.  |
-|   | - Warning: once clicked these instructions will disappear, so commit the next few lines to memory |
-|   | - Ignore any copies of **gr_drains.csv** int the folder, this is not a problem |
+|   | _Warning: once clicked these instructions will disappear, so commit the next few lines to memory_ |
+|   | - _Ignore any copies of **gr_drains.csv** int the folder, this is not a problem_ |
 | 2. | Click on the **update files** button  |
-|   | - An upload page will appear |
+|   | - _An upload page will appear_ |
 |   | - _Follow instructions on the upload page_ |
 | 3. | Click on the **Create a new branch for this commit and start a pull request** radio button in the Commit Section |
-| * | - You can ignore text in the   |
+|   | - _You can ignore text in the_   |
 | 4. | Click on the **Propose Changes** button |
-|   | - The page will change to the **Open a pull request** page|
+|   | - _The page will change to the **Open a pull request** page_ |
 | 5. | Move on to **Notify Developer** below|
 
-
-    
-  
-
-    
-   
-
-  
-
-  
-  
 
 ## <a id="notify-developer">Notify Developer (aka Pull Request)</a>
 Notification occurs during what GitHub call a **pull request.**  Is what it is.  
