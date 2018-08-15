@@ -17,11 +17,15 @@
 
 ## <a id="prepare-dataset">Prepare Dataset</a>
 At this point, you have a spreadsheet with drain data.
-* Check Sheet for Data Prep
-    * Convert: Spreadsheet to CSV format (if needed)
-    * CSV File Name: **gr-drains.csv** 
-    * Columns: SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y 
-    * put **dr-drains.csv** in a folder you can easily find
+    
+**Dataset - Check Sheet** 
+
+|    | Checks |
+| :- | :- |
+| * | Convert: Spreadsheet to CSV format (if needed)  |
+| * | CSV File Name: **gr-drains.csv**  |
+| * | Columns: SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
+| * | put **dr-drains.csv** in a folder you can easily find |
     
 ## <a id="upload-dataset">Upload Dataset</a>
 You are reading this so your browser is in the raw-data folder 
@@ -31,10 +35,10 @@ You are reading this so your browser is in the raw-data folder
     * find the **upload files** button (on the right and a few lines down from the top of the page)
     * find the **dr-drains.csv** file in that easy to find folder on your computer
     
-    Check Sheet - GitHub Upload
-    * GitHub - Check Sheet 
 
-|    |  Check or confirm  |
+    **GitHub - Check Sheet** 
+
+|    | Checks |
 | :- | :- |
 | * |  confirm you are in the **raw-data** folder   |
 | * |  find the **adopt-a-drain** folder  |
