@@ -7,7 +7,6 @@ The Adopt a Drain application will need to add and remove drains over time.
 ### Curator Instructions:
 * [Prepare Dataset](#prepare-dataset)
 * [Upload Dataset](#upload-dataset)
-* [Create GIT Pull Request](#pull-request)
 * [Notifiy Developer](#notify-developer)
 
 ### Developer Instructions:
@@ -16,6 +15,8 @@ The Adopt a Drain application will need to add and remove drains over time.
 * [Setup Environment Variables](#env-variables)
 * [Write/Update Scripts](#scripting)
 * [Notify Maintainer](#notify-maintainer)
+
+# Curator Instructions
 
 ## <a id="prepare-dataset">Prepare Dataset</a>
 At this point, you have a spreadsheet with drain data.
@@ -87,6 +88,7 @@ Read all before you start pressing buttons
 
 ### Done
 
+# Developer Instructions
 ## <a id="clone-repo">Clone/Pull Repo</a>
 TBD
 
