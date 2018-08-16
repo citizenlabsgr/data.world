@@ -1,7 +1,9 @@
 # Data.World
 **SLACK CHANNEL: TBD**
-# Conventions and Expectation:
+# Conventions and Expectations:
 Conventions and Expectations
+Very few absolutes are found in computer systems.  Something new is always brewing.  
+
 ### Open Data Portals
 An Open Data Portal stores digital versions of places, things, and ideas.
 * Using third party Open Data Portal is preferred to hosting open data in Citizen Labs' open data portal, Using the Citizen Labs’ open data portal is preferred using nothing

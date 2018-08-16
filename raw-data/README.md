@@ -75,7 +75,7 @@ Notification occurs during what GitHub call a **pull request.**  Is what it is.
 | * |  Find the "Assignees" link  |
 | * |  Find the "Create pull request" button |
 
-### Notification 
+### Notification Steps
 Read all before you start pressing buttons
 
 | Step |  Task |
@@ -89,8 +89,15 @@ Read all before you start pressing buttons
 ### Done
 
 # Developer Instructions
+The goal  is running a successful script.
+
+Goto GitHub [citizenlabsgr/data.world](https://github.com/citizenlabsgr/data.world/tree/master/raw-data#notify-developer)
+
 ## <a id="clone-repo">Clone/Pull Repo</a>
-TBD
+
+```
+git clone https://github.com/citizenlabsgr/data.world
+```
 
 ## <a id="env-variables">Setup Environment Variables</a>
 TBD
