@@ -57,7 +57,7 @@ Declares the duties of members.
 |                          | Creates GIT pull request      |  |
 |                          | Adds raw-data  sub-folders    |  |
 
-## <a id="prerequisites">Provisioning</a>
+## <a id="prerequisites">Member Provisioning</a>
 **Curators** 
 * GitHub account
 * a Citizen Labs Membership 
@@ -73,14 +73,6 @@ Declares the duties of members.
 * a Citizen Labs Membership
 * Citizenlabs (https://data.world account)
 * Jupyter Notebook
-
-## Applications
-For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application
-As applications, and therefore datasets, are added the developers will add new repo folders to help organize the files for both users and scripting.  For instance, the "Adopt a Drain" application was added to the repo by adding several "adopt-a-drain" folders as follows
-* raw-data/adopt-a-drain
-* clean-data/adopt-a-drain
-* scripts/adopt-a-drain
-Follow this pattern when adding future datasets. 
 
 ## Applications & Datasets
 For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application
