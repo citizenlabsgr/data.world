@@ -50,12 +50,12 @@ Declares the duties of members.
 | Curates dataset(s)       | Writes/Updates scripts        | Puts data into production |
 | Loads raw dataset to GIT | Tests dataset load            | Removes data from production |
 | Creates GIT pull request | Maintains GIT scripts folder  |  | 
-| Signoff on Prod dataset load  | Maintains GIT tmp-data folder | Maintains the GIT master branch |
-|                          | Maintains clean-data folder   | Maintains the Prod Environment |
-|                          | Creates clean-data set        |  |
-|                          | Maintains Dev Environment     |  |
-|                          | Creates GIT pull request      |  |
-|                          | Adds raw-data  sub-folders    |  |
+| Signoff on Prod dataset load  | Maintains clean-data folder | Maintains the GIT master branch |
+|                          |  Creates clean-data set  | Maintains the Prod Environment |
+|                          | Maintains Dev Environment        |  |
+|                          | Creates GIT pull request     |  |
+|                          | Adds raw-data  sub-folders      |  |
+
 
 ## <a id="prerequisites">Member Provisioning</a>
 
