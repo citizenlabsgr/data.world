@@ -9,7 +9,8 @@ With some effort, we can create a repository of data and scripts to facilitate f
 ### Table of Contents
 * [Definitions](#definitions)        
 * [Members](#members)
-* [Prerequisites](#prerequisites)
+* [Member Roles & Responsibilities](#process-roles)
+* [Member Provisioning](#prerequisites)
 * [Process Roles](#process-roles)
 * [Applications](#applications)
 * [Raw-data](raw-data/)
@@ -18,7 +19,6 @@ With some effort, we can create a repository of data and scripts to facilitate f
 * [API](#api)
 * [Installation](#installation)
 * [Data Deployment](#data-deployment)
-* [Process Roles](#process-roles)
 * [Data Flow](#data-flow)
 * [Process Overview](#process-overview)
 * [Data Processing](#data-processing)
@@ -57,7 +57,7 @@ Declares the duties of members.
 |                          | Creates GIT pull request      |  |
 |                          | Adds raw-data  sub-folders    |  |
 
-## <a id="prerequisites">Prerequisites</a>
+## <a id="prerequisites">Provisioning</a>
 **Curators** 
 * GitHub account
 * a Citizen Labs Membership 
@@ -81,6 +81,11 @@ As applications, and therefore datasets, are added the developers will add new r
 * clean-data/adopt-a-drain
 * scripts/adopt-a-drain
 Follow this pattern when adding future datasets. 
+## Applications & Datasets
+For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application
+| Dataset | Application |
+| :-- | :-- |
+| [gr_drains](raw-data/adopt-a-drain) | [Adopt a Drain](https://github.com/citizenlabsgr/adopt-a-drain) |
 
 ## Raw-data 
 Raw data (raw-data) is the original data provided by a client (aka, curator).  
