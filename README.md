@@ -68,6 +68,7 @@ Declares the duties of members.
 * CL Membership is Citizen Labs Membership
 * DDW Account is Development Data.World Account. This is the Develpers personal account.
 * CLDW Account is Citizen Labs Data.World Account 
+* X is a link to more info or install instructions
 
 ## <a id="applications">Applications & Datasets</a>
 For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application.
@@ -146,13 +147,16 @@ This is a best case scenario with no failures. Use as a guide to a successful co
 |                                  |    | Test Load Data             |    |                              |
 |                                  |    | Test Application           |    |                              |
 |                                  |    | Notify Maintainer          | >  | Download refresh-data Branch | 
-|                         |    |                            |    | Setup Prod Data Environment  | 
-|                         |    |                            |    | Deploy to Production         |
-|                         |    |                            |    | Deployment Check             |
+|                                  |    |                            |    | Setup Prod Data Environment  | 
+|                                  |    |                            |    | Deploy to Production         |
+|                                  |    |                            |    | Deployment Check             |
 | Deployment Check        |    |                            | <  | Notify Curator               |
 | Approve Deployment      |    |                            |    |                              |
 | Notify Maintainer       | >  |                            |    | Update master Branch         |
 
+
+
+copy
 | Curator                 |    | Developer                  |    | Maintainer                   |
 | :---------------------- | :- | :------------------------- | :- | :--------------------------- |
 | Prepare Dataset  |     |    |                            |    |                              |
