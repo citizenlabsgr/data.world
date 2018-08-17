@@ -140,22 +140,39 @@ This is a best case scenario with no failures. Use as a guide to a successful co
 
 | Curator                 |    | Developer                  |    | Maintainer                   |
 | :---------------------- | :- | :------------------------- | :- | :--------------------------- |
-| Prepare Dataset |     |    |                            |    |                              |
-| Upload Dataset          |    |                            |    |                              | 
-| Notify Developer        | >  | Download Repo              |    |                              |
-|                         |    | Setup Environment Variables |    |                             |
-|                         |    | Write/Update Script        |    |                              |
-|                         |    | Test Script                |    |                              |
-|                         |    | Test Data Load             |    |                              |
-|                         |    | Test Application           |    |                              |
-|                         |    | Upload Branch              |    |                              |
-|                         |    | Notify Maintainer          | >  | Download refresh-data Branch | 
+| Prepare Dataset |     |    |                                      |    |                              |
+| Upload Dataset        |    |                                      |    |                              | 
+| Notify Developer      | > | Validate Raw Data        |    |                              |
+|                                  |    | Test Load Data             |    |                              |
+|                                  |    | Test Application           |    |                              |
+|                                  |    | Notify Maintainer          | >  | Download refresh-data Branch | 
 |                         |    |                            |    | Setup Prod Data Environment  | 
 |                         |    |                            |    | Deploy to Production         |
 |                         |    |                            |    | Deployment Check             |
 | Deployment Check        |    |                            | <  | Notify Curator               |
 | Approve Deployment      |    |                            |    |                              |
 | Notify Maintainer       | >  |                            |    | Update master Branch         |
+
+| Curator                 |    | Developer                  |    | Maintainer                   |
+| :---------------------- | :- | :------------------------- | :- | :--------------------------- |
+| Prepare Dataset  |     |    |                            |    |                              |
+| Upload Dataset   |    |                            |    |                              | 
+| Notify Developer | >  | Download Repo              |    |                              |
+|                             |    | Setup Environment Variables |    |                             |
+|                             |    | Write/Update Script        |    |                              |
+|                             |    | Test Script                |    |                              |
+|                             |    | Test Data Load             |    |                              |
+|                             |    | Test Application           |    |                              |
+|                             |    | Upload Branch              |    |                              |
+|                             |    | Notify Maintainer          | >  | Download refresh-data Branch | 
+|                             |    |                            |    | Setup Prod Data Environment  | 
+|                             |    |                            |    | Deploy to Production         |
+|                             |    |                            |    | Deployment Check             |
+| Deployment Check        |    |                            | <  | Notify Curator               |
+| Approve Deployment      |    |                            |    |                              |
+| Notify Maintainer       | >  |                            |    | Update master Branch         |
+
+
 
 
 
