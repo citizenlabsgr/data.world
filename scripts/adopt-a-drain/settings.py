@@ -20,13 +20,18 @@ from dotenv import load_dotenv
 # junk = os.getenv("junk")
 # print('junk: ', junk, ", environment variable is not set. did you create it in a .env file?")
 
-
+GH_USER = os.getenv("GH_USER")
 DW_USER = os.getenv("DW_USER")
-GH_URL = os.getenv("GH_URL")
-DW_DB_URL = os.getenv("DW_DB_URL")
+# GH_URL = os.getenv("GH_URL")
+print('GH_USER: ', os.getenv("GH_USER"))
+print('DW_USER: ', os.getenv("DW_USER"))
+GH_URL_RAW = "https://raw.githubusercontent.com/%s/data.world/master/raw-data/".replace("%s",os.getenv("GH_USER"))
+GH_URL_CLEAN = "https://raw.githubusercontent.com/%s/data.world/master/clean-data/".replace("%s",os.getenv("GH_USER"))
+# DW_DB_URL = os.getenv("DW_DB_URL")
+DW_DB_URL = "https://api.data.world/v0/datasets/%s/".replace("%s", os.getenv("DW_USER"))
 DW_AUTH_TOKEN = os.getenv("DW_AUTH_TOKEN")
-# DW_DB_RW_TOKEN = os.getenv("DW_DB_RW_TOKEN")
 
+assert GH_USER != None, ", environment variable is not set. did you create it in a .env file?"
 assert DW_USER != None, ", environment variable is not set. did you create it in a .env file?"
 # assert GH_URL != None, ", environment variable is not set. did you create it in a .env file?"
 # assert DW_DB_URL != None, ", environment variable is not set. did you create it in a .env file?"

@@ -13,11 +13,11 @@
 ## Clone citizenlabsgr/data.world repo
 * Setup Environment Variables
 ```
-# clone 
-# change dir to data.world
-
+# clone to local
+git clone https://github.com/citizenlabsgr/data.world/tree/master
+cd data.world
 # setup Environment variables
-
+# >> scripts/adopt-a-drain/.env
 # start jupyter notebook
 cd scripts/adopt-a-drain
 jupyter-notebook
