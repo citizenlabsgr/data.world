@@ -74,8 +74,18 @@ Declares the duties of members.
 * Citizenlabs (https://data.world account)
 * Jupyter Notebook
 
+| Role | CL Membership | GitHub Account | DDW Account | CLDW Account | Jupiter Notebook |
+| :--    | :------------------ | :-----------------  | :-------------  | :----------------- | :---------------------|
+| Curator      | X | X |  |  |  |
+| Developer  | X | X | X |  | X | 
+| Maintainer | X | X |  | X | X |
+
+CL Membership is Citizen Labs Membership
+DDW Account is Personal Data.World Account. This is the Develpers personal account.
+CLDW Account is Citizen Labs Data.World Account 
+
 ## Applications & Datasets
-For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application
+For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application.
 
 | Dataset | Application |
 | :-- | :-- |
@@ -85,14 +95,14 @@ For every dataset in the citizenlabs/data.world repo, there exists at least one 
 Raw data (raw-data) is the original data provided by a client (aka, curator).  
 Raw data is expected to contain text, organized in columns and rows, where values are separated by commas. The first row is required to list the name of the columns. 
 The Curator is responsible for putting raw data into the raw-data folder.
-More info about providing raw-data can be found [here](raw-data/)
+More info about providing raw-data can be found [here](raw-data/).
 
 ## Clean-data
 Raw data doesn't always conform to the [expectations](docs/expectations.md) of an application.  
 Cleaning includes: renaming columns, enforcing types, formating dates, removing duplicate rows and outliers.  
 Clean data is stored in the clean-data folder.
 The Developer is responsible for cleaning raw data.
-More info about clean-data can be found [here](clean-data/)
+More info about clean-data can be found [here](clean-data/).
 
 ## Scripts
 Scripts encapuslate the steps to process raw-data into clean-data and finally move data to https://data.world. 
@@ -100,13 +110,13 @@ Each dataset in the raw-data folder has a script to control how it is cleaned an
 * We use python in the form of Jupyter Notebooks to build, document, and run our scripts.
 * The Developer is responsible for writing and testing scripts to clean the raw data.
 * The Maintainer is responsible for running scripts that create or refesh data used by applications.
-More info about scripts can be found [here](scripts/)
+More info about scripts can be found [here](scripts/).
 
 ## API
 Each dataset has an Application Programming Interface (API).  
 APIs are a common point through which to share data and services.
 Once a dataset is loaded into the https://data.world portal, an API is automatically generated.  
-For more information on using a https://data.world API can be found [here](https://apidocs.data.world) 
+For more information on using a https://data.world API can be found [here](https://apidocs.data.world) .
 
 ## Installation 
 The is no public installation of scripts and therefore no public or production installation. 
@@ -117,7 +127,7 @@ Details for local installation can be found [here](docs/INSTALL.md).
 ## Data Deployment
 Data is deployed to the production environment using scripts.
 The Maintainer is responsible for data deployment.
-Details for deployment are found [here](docs/deployment.md)
+Details for deployment are found [here](docs/deployment.md).
 
 # Process
 
