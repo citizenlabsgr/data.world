@@ -9,12 +9,7 @@ The Adopt a Drain application will need to add and remove drains over time.
 * [Upload Dataset](#upload-dataset)
 * [Notifiy Developer](#notify-developer)
 
-### Developer Instructions:
-* [Clone/Pull Repo](#clone-repo)
-* [Check Raw Data](#check-raw-data)
-* [Setup Environment Variables](#env-variables)
-* [Write/Update Scripts](#scripting)
-* [Notify Maintainer](#notify-maintainer)
+
 
 # Curator Instructions
 
