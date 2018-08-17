@@ -140,9 +140,8 @@ This is a best case scenario with no failures. Use as a guide to a successful co
 
 | Curator                 |    | Developer                  |    | Maintainer                   |
 | :---------------------- | :- | :------------------------- | :- | :--------------------------- |
-| Prepare Dataset CSV |     |    |                            |    |                              |
+| Prepare Dataset |     |    |                            |    |                              |
 | Upload Dataset          |    |                            |    |                              | 
-| Create GIT pull request |    |                            |    |                              | 
 | Notify Developer        | >  | Download Repo              |    |                              |
 |                         |    | Setup Environment Variables |    |                             |
 |                         |    | Write/Update Script        |    |                              |
