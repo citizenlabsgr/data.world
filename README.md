@@ -62,8 +62,8 @@ Declares the duties of members.
 | Role | CL Membership | GHF Account | DDW Account | CLDW Account | Jupiter Notebook |
 | :--    | :------------------ | :-----------------  | :-------------  | :----------------- | :---------------------|
 | Curator      | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) |  |  |  |
-| Developer  | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) | [X](https://data.world account) |  | [X](http://jupyter.org/install) | 
-| Maintainer | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) |  | [X](https://data.world account) | [X](http://jupyter.org/install) |
+| Developer  | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) | [X](https://data.world) |  | [X](http://jupyter.org/install) | 
+| Maintainer | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) |  | [X](https://data.world) | [X](http://jupyter.org/install) |
 * GHF Account is GitHub Free Account
 * CL Membership is Citizen Labs Membership
 * DDW Account is Development Data.World Account. This is the Develpers personal account.
