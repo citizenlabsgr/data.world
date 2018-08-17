@@ -81,8 +81,10 @@ As applications, and therefore datasets, are added the developers will add new r
 * clean-data/adopt-a-drain
 * scripts/adopt-a-drain
 Follow this pattern when adding future datasets. 
+
 ## Applications & Datasets
 For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application
+
 | Dataset | Application |
 | :-- | :-- |
 | [gr_drains](raw-data/adopt-a-drain) | [Adopt a Drain](https://github.com/citizenlabsgr/adopt-a-drain) |
