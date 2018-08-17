@@ -9,6 +9,15 @@ With some effort, we can create a repository of data and scripts to facilitate f
 ### Table of Contents
 * [Definitions](#definitions)        
 * [Members](#members)
+* [Prerequisites](#prerequisites)
+* [Process Roles](#process-roles)
+* [Applications](#applications)
+* [Raw-data](raw-data/)
+* [Clean-data](clean-data/)
+* [Scripts](scripts/)
+* [API](#api)
+* [Installation](#installation)
+* [Data Deployment](#data-deployment)
 * [Process Roles](#process-roles)
 * [Data Flow](#data-flow)
 * [Process Overview](#process-overview)
@@ -29,10 +38,26 @@ Members and areas of responsibility.
 | :-              | :-                | :-:              | :-:                |  :-:        |
 | Cara D     | Curator      | [X](raw-data/) | [X](clean-data/)  |     |
 | Eileen B   | Curator      | [X](raw-data/) |    |     |
-| James W | Developer  | [X](raw-data/) | [X](clean-data/) | [X](scripts/)  |
+| James W | Developer  |  | [X](clean-data/) | [X](scripts/)  |
 | Jace B     | Maintainer |    |    |  [X](scripts/)  |
 
-## Prerequisites
+
+## <a id="process-roles">Member Roles & Responsibilities</a>
+Declares the duties of members.
+
+| Curator                  | Developer                     | Maintainer                |
+| :------------------      | :---------------------        | :-----------------------  |
+| Curates dataset(s)       | Writes/Updates scripts        | Puts data into production |
+| Loads raw dataset to GIT | Tests dataset load            | Removes data from production |
+| Creates GIT pull request | Maintains GIT scripts folder  |  | 
+| Signoff on Prod dataset load  | Maintains GIT tmp-data folder | Maintains the GIT master branch |
+|                          | Maintains clean-data folder   | Maintains the Prod Environment |
+|                          | Creates clean-data set        |  |
+|                          | Maintains Dev Environment     |  |
+|                          | Creates GIT pull request      |  |
+|                          | Adds raw-data  sub-folders    |  |
+
+## <a id="prerequisites">Prerequisites</a>
 **Curators** 
 * GitHub account
 * a Citizen Labs Membership 
@@ -95,20 +120,8 @@ Data is deployed to the production environment using scripts.
 The Maintainer is responsible for data deployment.
 Details for deployment are found [here](docs/deployment.md)
 
-## <a id="process-roles">Process Roles</a>
-Declares the duties of members.
+# Process
 
-| Curator                  | Developer                     | Maintainer                |
-| :------------------      | :---------------------        | :-----------------------  |
-| Curates dataset(s)       | Writes/Updates scripts        | Puts data into production |
-| Loads raw dataset to GIT | Tests dataset load            | Removes data from production |
-| Creates GIT pull request | Maintains GIT scripts folder  |  | 
-| Signoff on Prod dataset load  | Maintains GIT tmp-data folder | Maintains the GIT master branch |
-|                          | Maintains clean-data folder   | Maintains the Prod Environment |
-|                          | Creates clean-data set        |  |
-|                          | Maintains Dev Environment     |  |
-|                          | Creates GIT pull request      |  |
-|                          | Adds raw-data  sub-folders    |  |
 
 ## <a id="data-flow">Data Flow</a>
 The path which data moves through the process.
