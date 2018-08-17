@@ -8,9 +8,6 @@ With some effort, we can create a repository of data and scripts to facilitate f
 
 ### Table of Contents
 * [Definitions](#definitions)        
-* [Members](#members)
-* [Member Roles & Responsibilities](#process-roles)
-* [Member Provisioning](#prerequisites)
 * [Applications](#applications)
 * [Raw-data](#raw-data)
 * [Clean-data](#clean-data)
@@ -18,12 +15,15 @@ With some effort, we can create a repository of data and scripts to facilitate f
 * [API](#api)
 * [Installation](#installation)
 * [Data Deployment](#data-deployment)
-* [Data Flow](#data-flow)
-* [Process Overview](#process-overview)
-
 * [Data Processing](#data-processing)
 * [Expectations](docs/expectations.md)
 * [Wrangling](docs/wrangling.md)
+### Diagrams
+* [Members](#members)
+* [Member Roles & Responsibilities](#process-roles)
+* [Member Provisioning](#prerequisites)
+* [Data Flow](#data-flow)
+* [Process Overview](#process-overview)
 
 ### <a id="definitions">Definitions</a> 
 * [Comma Separated Values](https://en.wikipedia.org/wiki/Comma-separated_values) (CSV).  CSV is a method of formatting values in a text file. 
