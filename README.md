@@ -50,38 +50,50 @@ Members and areas of responsibility.
 * Jupyter Notebook
 
 ## Applications
-For every dataset in the citizenlabs/data.world repo at least one application exists.   
-For example: the Grand River Drains data (gr_drains.csv) is part the "Adopt a Drain" application
-
-As applications, and therefore datasets, are added the developers will add new repo folders to help organize the files for both users and scripting.  For example, the "Adopt a Drain" application was added to the repo by the folder "adopt-a-drain" as follows
+For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application
+As applications, and therefore datasets, are added the developers will add new repo folders to help organize the files for both users and scripting.  For instance, the "Adopt a Drain" application was added to the repo by adding several "adopt-a-drain" folders as follows
 * raw-data/adopt-a-drain
 * clean-data/adopt-a-drain
+* scripts/adopt-a-drain
 Follow this pattern when adding future datasets. 
 
 ## Raw-data 
-Raw data (raw-data) is the original data provided by a client (aka, curator).  We expect a file in CSV format where the first row contains column names.  Column names are limited to letters, digits, and underscores (i.e.,  [a-zA-Z0-9_]). 
+Raw data (raw-data) is the original data provided by a client (aka, curator).  
+Raw data is expected to contain text, organized in columns and rows, where values are separated by commas. The first row is required to list the name of the columns. 
+The Curator is responsible for putting raw data into the raw-data folder.
 More info about providing raw-data can be found [here](raw-data/)
 
 ## Clean-data
-Raw-data doesn't always conform to the [expectations](docs/expectations.md) of an application.  Deveopers force the data into conformance and store the "clean" data in the clean-data folder. 
+Raw data doesn't always conform to the [expectations](docs/expectations.md) of an application.  
+Cleaning includes: renaming columns, enforcing types, formating dates, removing duplicate rows and outliers.  
+Clean data is stored in the clean-data folder.
+The Developer is responsible for cleaning raw data.
 More info about clean-data can be found [here](clean-data/)
 
 ## Scripts
 Scripts encapuslate the steps to process raw-data into clean-data and finally move data to https://data.world. 
-We are using Jupyter Notebooks to build, document, and run our python scripts.
-Devleopers create and test the scripts used by Maintainers to move data from the clean-data folder to the https://data.world portal. 
+Each dataset in the raw-data folder has a script to control how it is cleaned and moved into the test or production environments.
+* We use python in the form of Jupyter Notebooks to build, document, and run our scripts.
+* The Developer is responsible for writing and testing scripts to clean the raw data.
+* The Maintainer is responsible for running scripts that create or refesh data used by applications.
 More info about scripts can be found [here](scripts/)
 
 ## API
-Each dataset has an Application Programming Interface (API).  APIs are a common point through which to share data and services.
+Each dataset has an Application Programming Interface (API).  
+APIs are a common point through which to share data and services.
 Once a dataset is loaded into the https://data.world portal, an API is automatically generated.  
-For more information on using a https://data.world API goto 
+For more information on using a https://data.world API can be found [here](https://apidocs.data.world) 
 
+## Installation 
+The is no public installation of scripts and therefore no public or production installation. 
+Both Developers and Maintainers install the scripts locally on their respective computers.
+Scripting does require the installation of Jupiter Notebooks 
+Details for local installation can be found [here](docs/INSTALL.md). 
 
-## Installation & Deployment
-Details for local installation can be found at [INSTALL.md](docs/INSTALL.md). 
-
-
+## Data Deployment
+Data is deployed to the production environment using scripts.
+The Maintainer is responsible for data deployment.
+Details for deployment are found [here](docs/deployment.md)
 
 ## <a id="process-roles">Process Roles</a>
 Declares the duties of members.
