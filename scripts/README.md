@@ -1,5 +1,14 @@
 # Data.World
 **SLACK CHANNEL: TBD**
+
+
+### Developer Instructions:
+* [Clone/Pull Repo](#clone-repo)
+* [Check Raw Data](#check-raw-data)
+* [Setup Environment Variables](#env-variables)
+* [Write/Update Scripts](#scripting)
+* [Notify Maintainer](#notify-maintainer)
+
 # Developer Instructions:
 
 # Maintainer Instructions:
