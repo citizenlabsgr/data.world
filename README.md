@@ -58,30 +58,15 @@ Declares the duties of members.
 |                          | Adds raw-data  sub-folders    |  |
 
 ## <a id="prerequisites">Member Provisioning</a>
-**Curators** 
-* GitHub account
-* a Citizen Labs Membership 
 
-**Developers** 
-* GitHub accounts
-* a Citizen Labs Membership
-* Personal (https://data.world) account
-* Jupyiter Notebook 
-
-**Maintainers**
-* GitHub account
-* a Citizen Labs Membership
-* Citizenlabs (https://data.world account)
-* Jupyter Notebook
-
-| Role | CL Membership | GitHub Account | DDW Account | CLDW Account | Jupiter Notebook |
+| Role | CL Membership | GHF Account | DDW Account | CLDW Account | Jupiter Notebook |
 | :--    | :------------------ | :-----------------  | :-------------  | :----------------- | :---------------------|
-| Curator      | X | X |  |  |  |
-| Developer  | X | X | X |  | X | 
-| Maintainer | X | X |  | X | X |
-
+| Curator      | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) |  |  |  |
+| Developer  | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) | [X](https://data.world account) |  | [X](http://jupyter.org/install) | 
+| Maintainer | [X](https://citizenlabs.org/join_us/) | [X](https://help.github.com/articles/signing-up-for-a-new-github-account/) |  | [X](https://data.world account) | [X](http://jupyter.org/install) |
+* GHF Account is GitHub Free Account
 * CL Membership is Citizen Labs Membership
-* DDW Account is Personal Data.World Account. This is the Develpers personal account.
+* DDW Account is Development Data.World Account. This is the Develpers personal account.
 * CLDW Account is Citizen Labs Data.World Account 
 
 ## Applications & Datasets
