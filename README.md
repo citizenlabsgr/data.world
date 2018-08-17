@@ -80,9 +80,9 @@ Declares the duties of members.
 | Developer  | X | X | X |  | X | 
 | Maintainer | X | X |  | X | X |
 
-CL Membership is Citizen Labs Membership
-DDW Account is Personal Data.World Account. This is the Develpers personal account.
-CLDW Account is Citizen Labs Data.World Account 
+* CL Membership is Citizen Labs Membership
+* DDW Account is Personal Data.World Account. This is the Develpers personal account.
+* CLDW Account is Citizen Labs Data.World Account 
 
 ## Applications & Datasets
 For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application.
