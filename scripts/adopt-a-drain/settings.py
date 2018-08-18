@@ -20,7 +20,9 @@ load_dotenv(dotenv_path=env_path)
 
 # environment variable handler
 from dotenv import load_dotenv
-IMPORT_TABLE_NAME=os.getenv("IMPORT_TABLE_NAME")
+IMP_TABLE_NAME=os.getenv("IMP_TABLE_NAME")
+IMP_TITLE=os.getenv("IMP_TITLE")
+IMP_DESC=os.getenv("IMP_DESC")
 GH_USER = os.getenv("GH_USER")
 DW_USER = os.getenv("DW_USER")
 DW_AUTH_TOKEN = os.getenv("DW_AUTH_TOKEN")
@@ -29,9 +31,15 @@ DW_AUTH_TOKEN = os.getenv("DW_AUTH_TOKEN")
 # print('GH_USER: ', os.getenv("GH_USER"))
 # print('DW_USER: ', os.getenv("DW_USER"))
 
-if IMPORT_TABLE_NAME == None:
+if IMP_TABLE_NAME == None:
     ENV_ERROR = True
     
+if IMP_TITLE == None:
+    ENV_ERROR = True
+
+if IMP_DESC == None:
+    ENV_ERROR = True
+            
 if GH_USER == None:
     ENV_ERROR = True
     
