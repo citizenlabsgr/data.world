@@ -1,36 +1,32 @@
-# Data.World
-**SLACK CHANNEL: TBD**
-## Description:
-The Adopt a Drain application will need to add and remove drains over time. 
+# Data.World - Raw Data Upload Step
 
-### Contents 
-### Curator Instructions:
-* [Prepare Dataset](#prepare-dataset)
-* [Upload Dataset](#upload-dataset)
-* [Notifiy Developer](#notify-developer)
+## Responsibility 
+* **Curator** is responsible for the Raw-Data-Upload Step
 
-### Developer Instructions:
-* [Clone/Pull Repo](#clone-repo)
-* [Check Raw Data](#check-raw-data)
-* [Setup Environment Variables](#env-variables)
-* [Write/Update Scripts](#scripting)
-* [Notify Maintainer](#notify-maintainer)
+## Prerequisites
+* Raw drain data file
+* Citizen Lab Member
+* GitHub account
 
-# Curator Instructions
 
-## <a id="prepare-dataset">Prepare Dataset</a>
-At this point, you have a spreadsheet with drain data.
+# Data Upload Instructions
+
+## Prepare Dataset
+At this point, you have a spreadsheet with drain data.  Use the check sheet below to get yourself organized.
     
 ### Dataset - Check Sheet
 
 |    | Checks |
 | :- | :- |
-| * | Convert spreadsheet to a CSV file (if needed)  |
+| * | Convert spreadsheet (Excel, Numbers, ...) to a CSV file (if needed)  |
 | * | CSV File Name: **gr-drains.csv**  |
 | * | CSV File Columns: SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
-| * | Put **gr-drains.csv** in a folder you can easily find |
+| * | Put **gr-drains.csv** in a local folder on your computer. |
+
+* Column name changes will cause a delay while the developer fixes it.  
     
-## <a id="upload-dataset">Upload Dataset</a>
+## Upload Dataset
+Raw data needs to be uploaded to GitHub. Use the check sheet below to get yourself organized.
 Warning: Read all the instructions before you attempt an upload. 
 
 ### GitHub - Check Sheet 
@@ -64,7 +60,7 @@ Read all before you start pressing buttons
 | 5. | **Move on to **Notify Developer** below|
 
 
-## <a id="notify-developer">Notify Developer (aka Pull Request)</a>
+## Notify Developer (aka Pull Request)
 Notification occurs during what GitHub call a **pull request.**  Is what it is.  
 
 ### Notification - Check Sheet
@@ -86,24 +82,5 @@ Read all before you start pressing buttons
 |   | Ignore "Leave a comment" |
 | 3. | **Click "Create pull request** button |
 
-### Done
+### You should be done at this point. 
 
-# Developer Instructions
-The goal  is running a successful script.
-
-Goto GitHub [citizenlabsgr/data.world](https://github.com/citizenlabsgr/data.world/tree/master/raw-data#notify-developer)
-
-## <a id="clone-repo">Clone/Pull Repo</a>
-
-```
-git clone https://github.com/citizenlabsgr/data.world
-```
-
-## <a id="env-variables">Setup Environment Variables</a>
-TBD
-
-## <a id="scripting">Write/Update Scripts</a>
-TBD
-
-## <a id="notify-maintainer">Notify Maintainer</a>
-TBD
