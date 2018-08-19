@@ -9,7 +9,7 @@ def getBranches():
     '''
     bytelist = subprocess.check_output(["git", "branch"])
     print('bytelist: ', bytelist)
-    ul_list = list(bytelist)
+    ul_list = decode(bytelist)
     # ul_list = ['wilfongjt']
     print("getUserList: ", ul_list)
     return ul_list
