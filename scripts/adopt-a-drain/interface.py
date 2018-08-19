@@ -3,8 +3,19 @@ from datadotworld.client.api import RestApiError
 import datadotworld as dw
 import time
 
+def getBranches():
+    '''
+    return list of user assigned to repo
+    '''
+    output = subprocess.check_output(["git", "branch"])
+    ul_list = ['wilfongjt']
+    print("getUserList: ", output)
+    return ul_list
+    
 def github(df_source, tbl, cell_log):
-    # print('* wrangle github')
+    '''
+    
+    '''
     '''
             run git commands
     '''
