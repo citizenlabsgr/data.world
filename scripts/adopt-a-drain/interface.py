@@ -10,7 +10,7 @@ def getBranches():
     bytelist = subprocess.check_output(["git", "branch"])
     ul_list = list(bytelist)
     ul_list = ['wilfongjt']
-    print("getUserList: ", output)
+    print("getUserList: ", ul_list)
     return ul_list
     
 def github(df_source, tbl, cell_log):
