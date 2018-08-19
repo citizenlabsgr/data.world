@@ -8,7 +8,7 @@ def getBranches():
     return list of user assigned to repo
     '''
     bytelist = subprocess.check_output(["git", "branch"])
-    ul_list = ''.join(bytelist).decode('utf-8')
+    ul_list = list(bytelist)
     ul_list = ['wilfongjt']
     print("getUserList: ", output)
     return ul_list
