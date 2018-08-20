@@ -25,13 +25,17 @@ def getBranchList():
 
 def getContributorList():
     '''
+    %an author name
+    %aN 
     return list of contributors for this repo
     '''
     
-    cmd = 'git log --pretty="%an %ae%n%cn %ce" | sort | uniq'
-    ps = subprocess.Popen(cmd,shell=True,stdout=subprocess.PIPE,stderr=subprocess.STDOUT)
+    cmd = 'git log --pretty="%aN %ae%n%cn %ce" | sort | uniq'
+    cmd = 'git log --pretty="%ae%n%cn %ce" | sort | uniq'
+    cmd = 'git log --pretty="%ce" | sort | uniq'
+    ps = subprocess.Popen(cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     bytelist = ps.communicate()[0]
-    #print('bytelist: ', bytelist)
+    
     _list = bytelist.decode().split() 
     return _list
 
