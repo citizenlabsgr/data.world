@@ -1,4 +1,5 @@
 import subprocess
+
 def showState(cell_log):
     cell_log.collect('GitHub State')
     cell_log.collect('============')
@@ -22,7 +23,7 @@ def getBranchList():
     _list = bytelist.decode().split() 
     return _list
 
-def getContributerList():
+def getContributorList():
     '''
     return list of contributors for this repo
     '''
