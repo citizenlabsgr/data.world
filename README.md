@@ -123,7 +123,6 @@ Details for deployment are found [here](docs/deployment.md).
 
 # Process
 
-
 ## <a id="data-flow">Data Flow</a>
 The path which data moves through the process.
 
@@ -153,31 +152,6 @@ This is a best case scenario with no failures. Use as a guide to a successful co
 | Deployment Check        |    |                            | <  | Notify Curator               |
 | Approve Deployment      |    |                            |    |                              |
 | Notify Maintainer       | >  |                            |    | Update master Branch         |
-
-
-
-copy
-| Curator                 |    | Developer                  |    | Maintainer                   |
-| :---------------------- | :- | :------------------------- | :- | :--------------------------- |
-| Prepare Dataset  |     |    |                            |    |                              |
-| Upload Dataset   |    |                            |    |                              | 
-| Notify Developer | >  | Download Repo              |    |                              |
-|                             |    | Setup Environment Variables |    |                             |
-|                             |    | Write/Update Script        |    |                              |
-|                             |    | Test Script                |    |                              |
-|                             |    | Test Data Load             |    |                              |
-|                             |    | Test Application           |    |                              |
-|                             |    | Upload Branch              |    |                              |
-|                             |    | Notify Maintainer          | >  | Download refresh-data Branch | 
-|                             |    |                            |    | Setup Prod Data Environment  | 
-|                             |    |                            |    | Deploy to Production         |
-|                             |    |                            |    | Deployment Check             |
-| Deployment Check        |    |                            | <  | Notify Curator               |
-| Approve Deployment      |    |                            |    |                              |
-| Notify Maintainer       | >  |                            |    | Update master Branch         |
-
-
-
 
 
 ## <a id="data-processing">Data Processing</a>
