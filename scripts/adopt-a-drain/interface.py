@@ -6,11 +6,12 @@ import time
 
     
 def git_hub(df_source, tbl, cell_log):
-    '''
-    
-    '''
+
     '''
             run git commands
+            git add
+            git commit
+            git push
     '''
     '''
         --------------------------------- GIT Process 
@@ -57,6 +58,11 @@ def data_world(df_source, tbl, cell_log):
     '''
     --------------------------------- Data World Process 
     run import to data.word
+    
+    drop current table
+    wait if dropped
+    load data to data.world
+    
     '''
     # print('* wrangle data world')
     

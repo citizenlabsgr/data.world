@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": 12,
    "metadata": {},
    "outputs": [
     {
@@ -37,7 +37,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": 13,
    "metadata": {
     "collapsed": true
    },
@@ -100,16 +100,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": 14,
    "metadata": {},
    "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "settings\n"
-     ]
-    },
     {
      "data": {
       "text/markdown": [
@@ -120,7 +113,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 4,
+     "execution_count": 14,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -142,7 +135,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 5,
+   "execution_count": 15,
    "metadata": {},
    "outputs": [
     {
@@ -155,7 +148,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 5,
+     "execution_count": 15,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -202,7 +195,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 6,
+   "execution_count": 16,
    "metadata": {},
    "outputs": [
     {
@@ -219,7 +212,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 6,
+     "execution_count": 16,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -278,7 +271,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+   "execution_count": 17,
    "metadata": {},
    "outputs": [
     {
@@ -290,32 +283,32 @@
       "You should consider upgrading via the 'pip install --upgrade pip' command.\u001b[0m\n",
       "Requirement already satisfied: datadotworld[pandas] in /Users/jameswilfong/anaconda/lib/python3.6/site-packages\n",
       "Requirement already satisfied: datapackage<1.0a,>=0.8.8 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
+      "Requirement already satisfied: flake8<3.4.1a,>=2.6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
       "Requirement already satisfied: urllib3<2.0a,>=1.15 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
+      "Requirement already satisfied: click<7.0a,>=6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
+      "Requirement already satisfied: jsontableschema<1.0a,>=0.10.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
       "Requirement already satisfied: python-dateutil<3.0a,>=2.6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
+      "Requirement already satisfied: certifi>=2017.04.17 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
+      "Requirement already satisfied: configparser<4.0a,>=3.5.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
       "Requirement already satisfied: six<2.0a,>=1.5.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
       "Requirement already satisfied: tabulator<=1.4.1 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
-      "Requirement already satisfied: flake8<3.4.1a,>=2.6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
-      "Requirement already satisfied: jsontableschema<1.0a,>=0.10.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
-      "Requirement already satisfied: configparser<4.0a,>=3.5.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
-      "Requirement already satisfied: click<7.0a,>=6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
-      "Requirement already satisfied: certifi>=2017.04.17 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
       "Requirement already satisfied: requests<3.0a,>=2.0.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
       "Requirement already satisfied: pandas<1.0a; extra == \"pandas\" in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datadotworld[pandas])\n",
-      "Requirement already satisfied: unicodecsv<1.0a,>=0.14 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datapackage<1.0a,>=0.8.8->datadotworld[pandas])\n",
       "Requirement already satisfied: jsonschema<3.0a,>=2.5 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datapackage<1.0a,>=0.8.8->datadotworld[pandas])\n",
-      "Requirement already satisfied: openpyxl<3.0,>=2.4 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: cchardet<2.0,>=1.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: jsonlines<2.0,>=1.1 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: linear-tsv<2.0,>=1.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: sqlalchemy<2.0,>=1.1 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: ijson<3.0,>=2.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: xlrd<2.0,>=1.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
-      "Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from flake8<3.4.1a,>=2.6.0->datadotworld[pandas])\n",
-      "Requirement already satisfied: pycodestyle<2.4.0,>=2.0.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from flake8<3.4.1a,>=2.6.0->datadotworld[pandas])\n",
+      "Requirement already satisfied: unicodecsv<1.0a,>=0.14 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from datapackage<1.0a,>=0.8.8->datadotworld[pandas])\n",
       "Requirement already satisfied: pyflakes<1.6.0,>=1.5.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from flake8<3.4.1a,>=2.6.0->datadotworld[pandas])\n",
+      "Requirement already satisfied: pycodestyle<2.4.0,>=2.0.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from flake8<3.4.1a,>=2.6.0->datadotworld[pandas])\n",
+      "Requirement already satisfied: mccabe<0.7.0,>=0.6.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from flake8<3.4.1a,>=2.6.0->datadotworld[pandas])\n",
+      "Requirement already satisfied: rfc3986<1.0,>=0.4 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from jsontableschema<1.0a,>=0.10.0->datadotworld[pandas])\n",
       "Requirement already satisfied: future<1.0,>=0.15 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from jsontableschema<1.0a,>=0.10.0->datadotworld[pandas])\n",
       "Requirement already satisfied: isodate<1.0,>=0.5.4 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from jsontableschema<1.0a,>=0.10.0->datadotworld[pandas])\n",
-      "Requirement already satisfied: rfc3986<1.0,>=0.4 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from jsontableschema<1.0a,>=0.10.0->datadotworld[pandas])\n",
+      "Requirement already satisfied: ijson<3.0,>=2.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
+      "Requirement already satisfied: xlrd<2.0,>=1.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
+      "Requirement already satisfied: openpyxl<3.0,>=2.4 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
+      "Requirement already satisfied: cchardet<2.0,>=1.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
+      "Requirement already satisfied: linear-tsv<2.0,>=1.0 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
+      "Requirement already satisfied: sqlalchemy<2.0,>=1.1 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
+      "Requirement already satisfied: jsonlines<2.0,>=1.1 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from tabulator<=1.4.1->datadotworld[pandas])\n",
       "Requirement already satisfied: chardet<3.1.0,>=3.0.2 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from requests<3.0a,>=2.0.0->datadotworld[pandas])\n",
       "Requirement already satisfied: idna<2.7,>=2.5 in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from requests<3.0a,>=2.0.0->datadotworld[pandas])\n",
       "Requirement already satisfied: pytz>=2011k in /Users/jameswilfong/anaconda/lib/python3.6/site-packages (from pandas<1.0a; extra == \"pandas\"->datadotworld[pandas])\n",
@@ -374,7 +367,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 7,
+     "execution_count": 17,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -427,7 +420,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+   "execution_count": 18,
    "metadata": {
     "scrolled": true
    },
@@ -454,7 +447,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 8,
+     "execution_count": 18,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -525,7 +518,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": 19,
    "metadata": {},
    "outputs": [
     {
@@ -535,7 +528,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 9,
+     "execution_count": 19,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -606,15 +599,15 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 10,
+   "execution_count": 20,
    "metadata": {},
    "outputs": [
     {
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "* clean_column_names: 0.005461215972900391 sec\n",
-      "* remove_obvious_outliers: 0.011101961135864258 sec\n"
+      "* clean_column_names: 0.005112648010253906 sec\n",
+      "* remove_obvious_outliers: 0.01128697395324707 sec\n"
      ]
     },
     {
@@ -632,7 +625,6 @@
        "* outlier: Remove 0 observations too far west or east.\n",
        "* outlier: Remove 0 observations too far north or south.\n",
        "* duplicates: dropped 225 duplicate facility ids\n",
-       "* system: overwrite /Users/jameswilfong/Documents/Github/CitizenLabs/data.world/clean-data/adopt-a-drain/gr_drains.csv \n",
        "* inter-output: columns ['dr_subtype' 'dr_jurisdiction' 'dr_owner' 'dr_local_id' 'dr_facility_id'\n",
        " 'dr_subwatershed' 'dr_lon' 'dr_lat' 'dr_asset_no' 'dr_type' 'dr_sync_id']\n",
        "* inter-output: 39964 obs to /Users/jameswilfong/Documents/Github/CitizenLabs/data.world/clean-data/adopt-a-drain/gr_drains.csv"
@@ -641,7 +633,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 10,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -753,7 +745,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 11,
+   "execution_count": 21,
    "metadata": {},
    "outputs": [
     {
@@ -765,7 +757,7 @@
        "<IPython.core.display.Markdown object>"
       ]
      },
-     "execution_count": 11,
+     "execution_count": 21,
      "metadata": {},
      "output_type": "execute_result"
     }
