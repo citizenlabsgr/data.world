@@ -5,7 +5,7 @@ def showState(cell_log):
     cell_log.collect('============')
     cell_log.collect('* Branch: {}'.format(getBranch()))
     cell_log.collect('* Branches: {}'.format(getBranchList()))
-    cell_log.collect('* Contributors: {}'.format(getContributorList()))
+    # cell_log.collect('* Contributors: {}'.format(getContributorList()))
     
 def getBranch():
     '''
