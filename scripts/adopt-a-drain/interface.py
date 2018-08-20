@@ -5,7 +5,7 @@ import time
 
 
     
-def github(df_source, tbl, cell_log):
+def git_hub(df_source, tbl, cell_log):
     '''
     
     '''
