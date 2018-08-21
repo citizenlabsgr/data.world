@@ -1,4 +1,4 @@
-# Data.World - Validate Data
+# Validate Data
 
 ## Prerequisites
 * a Curator created GitHub branch 
@@ -13,14 +13,13 @@
 ## Setup Repo
 * First time Setup 
 ```
-### First 
+### First Time 
 # clone to local
 git clone https://github.com/citizenlabsgr/data.world.git
 cd data.world
-# setup Environment variables
-### Refresh Repo
-cd data.world
-git pull
+# check that Curator branch was down loaded
+git branch
+
 ```
 ## Setup Environment Variables
 * Open command window in repo folder data.world
