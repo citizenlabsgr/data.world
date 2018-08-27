@@ -138,24 +138,7 @@ The path which data moves through the process.
 ## <a id="process-overview">Process Overview</a>
 This is a best case scenario with no failures. Use as a guide to a successful completion of the process.   
 
-| Curator                 |    | Developer                  |    | Maintainer                   |
-| :---------------------- | :- | :------------------------- | :- | :--------------------------- |
-| Prepare Dataset |     |    |                                      |    |                              |
-| Upload Dataset        |    |                                      |    |                              |
-| Notify Developer      | > | Validate Raw Data        |    |                              |
-|                                  |    | Test Load Data             |    |                              |
-|                                  |    | Test Application           |    |                              |
-|                                  |    | Notify Maintainer          | >  | Download refresh-data Branch |
-|                                  |    |                            |    | Setup Prod Data Environment  |
-|                                  |    |                            |    | Deploy to Production         |
-|                                  |    |                            |    | Deployment Check             |
-| Deployment Check        |    |                            | <  | Notify Curator               |
-| Approve Deployment      |    |                            |    |                              |
-| Notify Maintainer       | >  |                            |    | Update master Branch         |
-
-
-![Alt text](./Data-Processing.png)
-<img src="./Data-Processing.png">
+![Alt text](./Process-Overview.png)
 
 ## <a id="data-processing">Data Processing</a>
 * Curator
