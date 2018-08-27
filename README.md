@@ -34,12 +34,12 @@ With some effort, we can create a repository of data and scripts to facilitate f
 ## <a id="members">Citizen Labs Members</a>
 Members and areas of responsibility.
 
-| Name       | Role           | [Raw-data](raw-data/)  | [Clean-data](clean-data/) | [Scripts](scripts/) |
-| :-              | :-                | :-:              | :-:                |  :-:        |
-| Cara D     | Curator      | [X](raw-data/) | [X](clean-data/)  |     |
-| Eileen B   | Curator      | [X](raw-data/) |    |     |
-| James W | Developer  |  | [X](clean-data/) | [X](scripts/)  |
-| Jace B     | Maintainer |    |    |  [X](scripts/)  |
+| Name       | Role           | [Raw-data](raw-data/) | [Clean-data](clean-data/) | [Scripts](scripts/) | Open Data |
+| :-         | :-             | :-:                   | :-:                       |  :-:                | :-:       |
+| Cara D     | Curator      | [X](raw-data/) |    |     |   |
+| Eileen B   | Curator      | [X](raw-data/) |    |     |   |
+| James W | Developer  |  | [X](clean-data/) | [X](scripts/)  |  |
+| Jace B     | Maintainer |    |    |  [X](scripts/)  | [X](https://data.world/citizenlabs) |
 
 
 ## <a id="process-roles">Member Roles & Responsibilities</a>
