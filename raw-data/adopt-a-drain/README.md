@@ -44,8 +44,8 @@ Read all before you start pressing buttons
 | Step |  Task |
 | :- | :- |
 | 1. | **Press** the "**upload files**" button |
-|   | Opens upload page |
-|   | Follow instructions on the upload page |
+|   | * Opens upload page |
+|   | * Follow instructions on the upload page |
 | 2. | **Commit Section** |
 |   | **Select** the "**Create a new branch for this commit and start a pull request**" radio button |
 |   | Safe to ignore "file via update" |
