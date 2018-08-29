@@ -80,9 +80,9 @@ Declares the duties of members.
 ## <a id="applications">Applications & Datasets</a>
 For every dataset in the citizenlabs/data.world repo, there exists at least one application.  For instance: the Grand River Drains data (gr_drains.csv) is used by the "Adopt a Drain" application.
 
-| Dataset | Application |
+| Application | Dataset |
 | :-- | :-- |
-| [gr_drains](raw-data/adopt-a-drain) | [Adopt a Drain](https://github.com/citizenlabsgr/adopt-a-drain) |
+| [Adopt a Drain](https://github.com/citizenlabsgr/adopt-a-drain) | [gr_drains](raw-data/adopt-a-drain) |
 
 ## <a id="raw-data">Raw-data</a>
 Raw data (raw-data) is the original data provided by a client (aka, curator).  
