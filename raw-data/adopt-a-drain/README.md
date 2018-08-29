@@ -54,11 +54,11 @@ Read all before you start pressing buttons
 |   | _Accept the default pull request name (aka branch name)_
 | 3. | **Click on the _"Propose Changes"_ button** |
 |   | _Opens **pull request** page_ |
-| 4. | **Move on to **Notify Developer** below|
+| 4. | [Notify Developer](#notify-developer)|
 
-
+<a id="notify-developer"></a>
 ## Notify Developer (aka Pull Request)
-Notification occurs during what GitHub call a **pull request.**  Is what it is.  
+Notification occurs during what GitHub calls a **pull request.**  Is what it is.  
 
 ### Notification - Check Sheet
 
@@ -79,4 +79,4 @@ Read all before you start pressing buttons
 |   | Ignore "Leave a comment" |
 | 3. | **Click "Create pull request** button |
 
-### You should be done at this point.
+### That completes the Raw Data Upload process.
