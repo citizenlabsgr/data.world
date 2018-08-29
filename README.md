@@ -18,7 +18,7 @@ With some effort, we can create a repository of data and scripts to facilitate f
 * [Data Deployment](#data-deployment)
 * [Data Processing](#data-processing)
 * [Expectations](docs/expectations.md)
-* [Wrangling](docs/wrangling.md)
+
 ### Diagrams
 * [Citizen Labs Members](#members)
 * [Member Roles & Responsibilities](#process-roles)
@@ -54,7 +54,7 @@ Declares the duties of members.
 | Curator                  | Developer                     | Maintainer                |
 | :------------------      | :---------------------        | :-----------------------  |
 | Curates dataset(s)       | Writes/Updates scripts        | Puts data into production |
-| Loads raw dataset to GIT | Tests dataset load            | Removes data from production |
+| [Loads raw dataset to GitHub](raw-data/) | Tests dataset load            | Removes data from production |
 | Creates GIT pull request | Maintains GIT scripts folder  |  |
 | Signoff on Prod dataset load  | Maintains clean-data folder | Maintains the GIT master branch |
 |                          |  Creates clean-data set  | Maintains the Prod Environment |
@@ -127,7 +127,7 @@ The Maintainer is responsible for data deployment.
 
 Details for deployment are found [here](docs/deployment.md).
 
-# Process
+## <a id="process">Process</a>
 
 ## <a id="data-flow">Data Flow</a>
 The path which data moves through the process.
@@ -145,8 +145,3 @@ The path which data moves through the process.
 This is a best case scenario with no failures. Use as a guide to a successful completion of the process.   
 
 ![Alt text](./Process-Overview.png)
-
-## <a id="data-processing">Data Processing</a>
-* Curator
-* Developer
-* Maintainer
