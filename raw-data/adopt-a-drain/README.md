@@ -34,9 +34,9 @@ Warning: Read all the instructions before you attempt an upload.
 
 |    | GitHub Checks |
 | :- | :- |
-| * |  Confirm you are in the **data.world/raw-data/adopt-a-drain** GitHub folder   |
-| * |  Find the "**upload files**" button  |
-| * |  Find the your **CSV-File** file in that easy to find folder on your computer  |
+| * |  **Confirm** you are in the **data.world/raw-data/adopt-a-drain** GitHub folder   |
+| * |  **Find** the "**upload files**" button  |
+| * |  **Find** the your **CSV-File** file in that easy to find folder on your computer  |
 
 ### Upload Dataset
 Read all before you start pressing buttons
@@ -64,18 +64,18 @@ Notification occurs during what GitHub calls a **pull request.**  Is what it is.
 |    | Notification Checks |
 | :- | :- |
 | * | You should be on the **Open a pull request** page after uploading **CSV-File.**  |
-| * |  Find the "Assignees" link  |
-| * |  Find the "Create pull request" button |
+| * |  **Find** the "**Assignees**" link  |
+| * |  **Find** the "**Create pull request**" button |
 
 ### Notification Steps
 Read all before you start pressing buttons
 
 | Step |  Task |
 | :- | :- |
-| 1. | **Click** on the "Assignees" link |
-|   | **Select** a Developer (e.g., James Wilfong) |
+| 1. | **Click** on the "**Assignees**" link |
+|   | **Select** a **Developer** (e.g., James Wilfong) |
 | 2. | Ignore "Add files via upload" |
 |   | Ignore "Leave a comment" |
-| 3. | **Press** the "Create pull request" button |
+| 3. | **Press** the "**Create pull request**" button |
 
 ### That completes the Raw Data Upload process.
