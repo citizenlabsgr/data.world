@@ -18,6 +18,7 @@ With some effort, we can create a repository of data and scripts to facilitate f
 * [Data Deployment](#data-deployment)
 * [Data Processing](#data-processing)
 * [Expectations](docs/expectations.md)
+* [Process](#process)
 
 ### Diagrams
 * [Citizen Labs Members](#members)
