@@ -1,19 +1,20 @@
 import os
 import pandas as pd
 from lib.p3_ProcessLogger import ProcessLogger
-def exportMaintainerConfig(gh_file_name, gh_file_type, dw_title, dw_desc, dw_table_name):
-    '''
-    write variables to file, used by maintainer in 02.Prod.Process.ipynb 
-    outputs: maintainer-config.json
-    '''   
-    maintainer_config = '"gh_file_name": "{}", "gh_file_type": "{}", "dw_title": "{}", "dw_desc": "{}", "dw_table_name": "{}"'
-    maintainer_config = maintainer_config.format(gh_file_name, gh_file_type, dw_title, dw_desc, dw_table_name )
+'''
+def exportMaintainerConfig(clean_file_name, ext, title, desc):
+    
+    # write variables to file, used by maintainer in 02.Prod.Process.ipynb 
+    # outputs: maintainer-config.json
+    
+    maintainer_config = '"clean_name": "{}", "ext": "{}", "title": "{}", "desc": "{}"'
+    maintainer_config = maintainer_config.format(clean_file_name, ext, title, desc)
     maintainer_config = '{' + maintainer_config + '}'
     
     mantainer_config_file = ProcessLogger('./maintainer/maintainer-config.json')
     mantainer_config_file.kill()
     mantainer_config_file.log(maintainer_config) 
-
+'''
 
 def get_app_name():
     '''
@@ -22,7 +23,8 @@ def get_app_name():
     scripts_path = os.getcwd()
     rc = ''
     pth = scripts_path.split('/')
-    rc = pth[len(pth)-1]
+    
+    rc = pth[len(pth)-2]
     return rc 
 # cell_log.collect('* get_repo_folder( script_folder_name )')
 def get_repo_folder():
