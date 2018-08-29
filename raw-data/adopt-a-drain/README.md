@@ -48,11 +48,11 @@ Read all before you start pressing buttons
 |   | * Follow instructions on the upload page |
 | 2. | **Commit Section** |
 |   | **Select** the "**Create a new branch for this commit and start a pull request**" radio button |
-|   | Safe to ignore "file via update" |
-|   | Safe to ignore "add an optional extended description"   |
-|   | Accept the default pull request name (aka branch name)
+|   | * Safe to ignore "file via update" |
+|   | * Safe to ignore "add an optional extended description"   |
+|   | * Accept the default pull request name (aka branch name)
 | 3. | **Press** on the "**Propose Changes**" button |
-|   | Opens "pull request" page |
+|   | * Opens "pull request" page |
 | 4. | [Notify Developer](#notify-developer)|
 
 <a id="notify-developer"></a>
