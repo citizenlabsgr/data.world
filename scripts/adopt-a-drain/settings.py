@@ -1,3 +1,4 @@
+'''
 import os
 
 from dotenv import load_dotenv
@@ -28,6 +29,8 @@ DW_USER = os.getenv("DW_USER")
 DW_AUTH_TOKEN = os.getenv("DW_AUTH_TOKEN")
 
 # GH_URL = os.getenv("GH_URL")
+print('ENV')
+print('DW_USER: ', os.getenv("DW_USER"))
 # print('GH_USER: ', os.getenv("GH_USER"))
 # print('DW_USER: ', os.getenv("DW_USER"))
 
@@ -73,3 +76,4 @@ def main():
 if __name__ == "__main__":
     # execute only if run as a script
     main()
+'''
