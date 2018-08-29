@@ -1,11 +1,10 @@
 # Adopt a Drain Raw Data Upload Step
-### Table of Contents
 
 ## Responsibility
 * **Curator** is responsible for the Adopt a Drain Raw-Data-Upload Step
 
 ## Prerequisites
-* Raw drain data file in CSV format
+* Raw drain data file
 * Citizen Lab Member
 * GitHub account
 
@@ -31,7 +30,7 @@ Raw data needs to be uploaded to GitHub. Use the check sheet below to get yourse
 Warning: Read all the instructions before you attempt an upload.
 
 ### GitHub - Check Sheet
- Finding links and buttons in GitHub can be challenging.  You need to do a litte reconnaissance before you upload gr-drain.csv.
+ Finding links and buttons in GitHub can be challenging.  You need to do a litte reconnaissance before you upload your CSV-File.
 
 |    | GitHub Checks |
 | :- | :- |
@@ -44,16 +43,16 @@ Read all before you start pressing buttons
 
 | Step |  Task |
 | :- | :- |
-| 1. | **Click on the _update files_ button**  |
+| 1. | **Press** the "_upload files_" button |
 |   | _Opens upload page_ |
 |   | _Follow instructions on the upload page_ |
 | 2. | **Commit Section** |
+|   | **Select** on the _"Create a new branch for this commit and start a pull request"_ radio button |
 |   | _Safe to ignore "file via update"_   |
 |   | _Safe to ignore "add an optional extended description"_   |
-|   | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button** |
 |   | _Accept the default pull request name (aka branch name)_
-| 3. | **Click on the _"Propose Changes"_ button** |
-|   | _Opens **pull request** page_ |
+| 3. | **Press** on the _"Propose Changes"_ button |
+|   | _Opens "pull request" page_ |
 | 4. | [Notify Developer](#notify-developer)|
 
 <a id="notify-developer"></a>
@@ -64,7 +63,7 @@ Notification occurs during what GitHub calls a **pull request.**  Is what it is.
 
 |    | Notification Checks |
 | :- | :- |
-| * | You should be on the **Open a pull request** page after uploading **gr_drains.csv.**  |
+| * | You should be on the **Open a pull request** page after uploading **CSV-File.**  |
 | * |  Find the "Assignees" link  |
 | * |  Find the "Create pull request" button |
 
@@ -73,10 +72,10 @@ Read all before you start pressing buttons
 
 | Step |  Task |
 | :- | :- |
-| 1. | **Click on the "Assignees" link** |
-|   | **Select a Developer** (i.e, James Wilfong) |
+| 1. | **Click** on the "Assignees" link |
+|   | **Select** a Developer (e.g., James Wilfong) |
 | 2. | Ignore "Add files via upload" |
 |   | Ignore "Leave a comment" |
-| 3. | **Click "Create pull request** button |
+| 3. | **Press** the "Create pull request" button |
 
 ### That completes the Raw Data Upload process.
