@@ -1,8 +1,8 @@
-# Data.World - Raw Data Upload Step
+# Adopt a Drain Raw Data Upload Step
 ### Table of Contents
 
 ## Responsibility
-* **Curator** is responsible for the Raw-Data-Upload Step
+* **Curator** is responsible for the Adopt a Drain Raw-Data-Upload Step
 
 ## Prerequisites
 * Raw drain data file in CSV format
@@ -21,7 +21,8 @@ At this point, you have a spreadsheet with drain data.  Use the check sheet belo
 | :- | :- | :- |
 | * | Data Format | Convert spreadsheet (Excel, Numbers, ...) to a CSV-File (if needed)  |
 | * | File Name | e.g., **catch basins 2018.08.csv** or **gr catch basins 2018.08.29.csv** |
-| * | Columns | CSV-File Columns: SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
+| * | Columns | SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
+| * |  | Try to keep column names constant. Don't change them from upload to upload ... bad, bad, very bad |
 | * | Store | Put **CSV-File** somewhere easy to find on your computer. |
 
 
@@ -34,7 +35,7 @@ Warning: Read all the instructions before you attempt an upload.
 
 |    | GitHub Checks |
 | :- | :- |
-| * |  Confirm you are in the **raw-data** GitHub folder   |
+| * |  Confirm you are in the **data.world/raw-data/adopt-a-drain** GitHub folder   |
 | * |  Find the **upload files** button  |
 | * |  Find the your **CSV-File** file in that easy to find folder on your computer  |
 
@@ -43,20 +44,17 @@ Read all before you start pressing buttons
 
 | Step |  Task |
 | :- | :- |
-| 1. | **Click on the _adopt-a-drain_ folder link.**  |
-|   | _Warning: once clicked these instructions will disappear, so commit the next few lines to memory_ |
-|   | _Ignore any copies of **gr_drains.csv** int the folder, this is not a problem_ |
-| 2. | **Click on the _update files_ button**  |
+| 1. | **Click on the _update files_ button**  |
 |   | _Opens upload page_ |
 |   | _Follow instructions on the upload page_ |
-| 3. | **Commit Section** |
+| 2. | **Commit Section** |
 |   | _Safe to ignore "file via update"_   |
 |   | _Safe to ignore "add an optional extended description"_   |
 |   | **Click on the _"Create a new branch for this commit and start a pull request"_ radio button** |
 |   | _Accept the default pull request name (aka branch name)_
-| 4. | **Click on the _"Propose Changes"_ button** |
+| 3. | **Click on the _"Propose Changes"_ button** |
 |   | _Opens **pull request** page_ |
-| 5. | **Move on to **Notify Developer** below|
+| 4. | **Move on to **Notify Developer** below|
 
 
 ## Notify Developer (aka Pull Request)
