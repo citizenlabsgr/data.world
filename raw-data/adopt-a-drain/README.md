@@ -30,12 +30,12 @@ Raw data needs to be uploaded to GitHub. Use the check sheet below to get yourse
 Warning: Read all the instructions before you attempt an upload.
 
 ### GitHub - Check Sheet
- Finding links and buttons in GitHub can be challenging.  You need to do a litte reconnaissance before you upload your CSV-File.
+ Finding links and buttons in GitHub can be challenging.  You need to do a little reconnaissance before you upload your CSV-File.
 
 |    | GitHub Checks |
 | :- | :- |
 | * |  Confirm you are in the **data.world/raw-data/adopt-a-drain** GitHub folder   |
-| * |  Find the **upload files** button  |
+| * |  Find the "**upload files**" button  |
 | * |  Find the your **CSV-File** file in that easy to find folder on your computer  |
 
 ### Upload Dataset
@@ -43,16 +43,16 @@ Read all before you start pressing buttons
 
 | Step |  Task |
 | :- | :- |
-| 1. | **Press** the "_upload files_" button |
-|   | _Opens upload page_ |
-|   | _Follow instructions on the upload page_ |
+| 1. | **Press** the "**upload files**" button |
+|   | Opens upload page |
+|   | Follow instructions on the upload page |
 | 2. | **Commit Section** |
-|   | **Select** on the _"Create a new branch for this commit and start a pull request"_ radio button |
-|   | _Safe to ignore "file via update"_   |
-|   | _Safe to ignore "add an optional extended description"_   |
-|   | _Accept the default pull request name (aka branch name)_
-| 3. | **Press** on the _"Propose Changes"_ button |
-|   | _Opens "pull request" page_ |
+|   | **Select** the "**Create a new branch for this commit and start a pull request**" radio button |
+|   | Safe to ignore "file via update" |
+|   | Safe to ignore "add an optional extended description"   |
+|   | Accept the default pull request name (aka branch name)
+| 3. | **Press** on the "**Propose Changes**" button |
+|   | Opens "pull request" page |
 | 4. | [Notify Developer](#notify-developer)|
 
 <a id="notify-developer"></a>
