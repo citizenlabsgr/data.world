@@ -7,6 +7,7 @@ The idea is a sharable staging area for wrangling data before transfer to an ope
 With some effort, we can create a repository of data and scripts to facilitate future data wrangling and help keep our open data manageable.
 
 ### Table of Contents
+* [Quick Start](#quick-start)
 * [Definitions](#definitions)        
 * [Applications](#applications)
 * [Raw-data](#raw-data)
@@ -24,6 +25,11 @@ With some effort, we can create a repository of data and scripts to facilitate f
 * [Member Provisioning](#prerequisites)
 * [Data Flow](#data-flow)
 * [Process Overview](#process-overview)
+
+## <a id="quick-start">Quick Start</a>
+* [Curator Process](raw-data/), starts in raw-data folder
+* [Developer Process](scripts/)
+* [Maintainer Process](scripts/maintainer/)  
 
 ### <a id="definitions">Definitions</a>
 * [Comma Separated Values](https://en.wikipedia.org/wiki/Comma-separated_values) (CSV).  CSV is a method of formatting values in a text file.
