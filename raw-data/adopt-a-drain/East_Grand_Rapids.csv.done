@@ -1,0 +1,1224 @@
+SUBTYPE,DRAIN_JURISDICTION,DRAIN_OWNER,Soure_ID,LOCAL_ID,FACILITYID,Subwatershed,POINT_X,POINT_Y
+14,City of East Grand Rapids,City of East Grand Rapids,EGR_01,CB2-764,40208317,Direct Drainage to Lower Grand River,-85.6102988883,42.9481700591
+14,City of East Grand Rapids,City of East Grand Rapids,EGR_02,CB2-767,40208316,Direct Drainage to Lower Grand River,-85.6104086108,42.9482764251
+14,City of East Grand Rapids,City of East Grand Rapids,EGR_03,CB2-766,40208309,Direct Drainage to Lower Grand River,-85.610357619,42.9482550349
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_04,CB2-440,40102186,Direct Drainage to Lower Grand River,-85.5931713972,42.9560239292
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_05,CB2-398,40087599,Direct Drainage to Lower Grand River,-85.5985236483,42.9563230587
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_06,CB2-640,40088641,Plaster Creek,-85.6026336052,42.9411162918
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_07,CB2-437,40091874,Direct Drainage to Lower Grand River,-85.5940400928,42.9574517231
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_08,CB4-1301,40110284,Plaster Creek,-85.6142005924,42.9311721323
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_09,CB5-1856,40120534,Plaster Creek,-85.6229931808,42.9442124742
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_10,CB3-849,40083013,Direct Drainage to Lower Grand River,-85.5948717346,42.9400884749
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_11,CB4-1523,40087031,Plaster Creek,-85.6142482835,42.9387053237
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_12,CB5-1751,40087061,Plaster Creek,-85.6282122083,42.9439480015
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_13,CB4-1622,40083536,Plaster Creek,-85.6139549532,42.9409771791
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_14,CB4-1564,40083548,Plaster Creek,-85.6191192649,42.9404463694
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_15,CB4-1592,40083630,Plaster Creek,-85.615067337,42.9396618537
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_16,CB5-1923,40101927,Plaster Creek,-85.6137833027,42.9446960614
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_17,CB2-655,40108241,Plaster Creek,-85.6064041992,42.9411162835
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_18,CB2-539,40109791,Direct Drainage to Lower Grand River,-85.5939649457,42.9411795268
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_19,CB1-2030,40100936,Direct Drainage to Lower Grand River,-85.6161641055,42.9498291987
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_20,CB5-1962,40099196,Plaster Creek,-85.6210754621,42.9435286798
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_21,CB4-1485,40092900,Plaster Creek,-85.6152053169,42.9380633675
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_22,CB3-1259,40113198,Plaster Creek,-85.6046431507,42.9314540429
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_23,CB5-1946,40094959,Plaster Creek,-85.6199524832,42.9445284819
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_24,CB4-1565,40090656,Plaster Creek,-85.6195598179,42.9408885076
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_25,CB1-41,40084096,Direct Drainage to Lower Grand River,-85.6282695131,42.9519183982
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_26,CB4-1454,40085514,Plaster Creek,-85.6121490018,42.9372992914
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_27,CB3-1208,40085544,Plaster Creek,-85.6058958186,42.9322448916
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_28,CB5-1853,40102480,Plaster Creek,-85.6233762991,42.9440625816
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_29,CB5-1806,40083018,Plaster Creek,-85.6278539627,42.9466286514
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_30,CB3-985,40083019,Plaster Creek,-85.6060357603,42.9380051234
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_31,CB1-2032,40119227,Direct Drainage to Lower Grand River,-85.6160637072,42.9497910181
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_32,CB5-1775,40088284,Plaster Creek,-85.6264842097,42.9435639377
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_33,CB1-277,40087835,Plaster Creek,-85.6121276839,42.9472738619
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_34,CB4-1546,40087841,Plaster Creek,-85.6170235492,42.9389684046
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_35,CB4-1441,40087844,Plaster Creek,-85.6123146674,42.9365732583
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_36,CB2-361,40094114,Direct Drainage to Lower Grand River,-85.6003511317,42.9583964764
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_37,CB3-786,40109285,Plaster Creek,-85.6063516378,42.9410115559
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_38,CB2-418,40096361,Direct Drainage to Lower Grand River,-85.5975973829,42.9534095898
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_39,CB3-785,40102996,Plaster Creek,-85.6063938098,42.9410116485
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_40,CB3-1059,40105378,Plaster Creek,-85.6063651411,42.9349931359
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_41,CB4-1640,40105403,Plaster Creek,-85.6163309096,42.9427947891
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_42,CB2-667,40117088,Plaster Creek,-85.6078383921,42.9437181534
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_43,CB3-1284,40097234,Plaster Creek,-85.6094029661,42.9329184301
+15,City of Grand Rapids,City of East Grand Rapids,EGR_44, ,40096590,Plaster Creek,-85.5995737163,42.9322272318
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_45,CB5-1812,40083326,Plaster Creek,-85.6259905598,42.9456816616
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_46,CB2-380,40085801,Direct Drainage to Lower Grand River,-85.6008244869,42.9554581628
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_47,CB3-1258,40091488,Plaster Creek,-85.6044808235,42.9314399077
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_48,CB2-370,40104905,Direct Drainage to Lower Grand River,-85.6017901878,42.9562983598
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_49,CB4-1431,40107927,Plaster Creek,-85.6123181531,42.9356650692
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_50,CB3-980,40100856,Plaster Creek,-85.6079392152,42.937874228
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_51,CB1-16,40114175,Direct Drainage to Lower Grand River,-85.627232419,42.9555747938
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_52,CB3-1033,40114181,Plaster Creek,-85.6024632309,42.9357297166
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_53,CB4-1388,40095868,Plaster Creek,-85.6140404249,42.9337562908
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_54,CB1-2007,40110219,Direct Drainage to Lower Grand River,-85.6249562848,42.9553779884
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_55,CB3-1181,40114047,Plaster Creek,-85.6004811628,42.9331635933
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_56,CB4-1576,40101745,Plaster Creek,-85.617973219,42.9409638853
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_57,CB1-2002,40098674,Direct Drainage to Lower Grand River,-85.6265939727,42.9544934771
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_58,CB5-1958,40089605,Plaster Creek,-85.6223030463,42.942483675
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_59,CB5-1869,40088716,Plaster Creek,-85.6208629787,42.946388527
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_60,CB4-1630,40088890,Plaster Creek,-85.6176732717,42.9420270131
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_61,CB3-1274,40087107,Plaster Creek,-85.6081178564,42.9308024204
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_62,CB3-1263,40113206,Plaster Creek,-85.606087114,42.9314276221
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_63,CB1-111,40093929,Direct Drainage to Lower Grand River,-85.6200037431,42.952847816
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_64,CB3-986,40102939,Plaster Creek,-85.6060645544,42.9378670513
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_65,CB1-214,40106870,Direct Drainage to Lower Grand River,-85.6182465749,42.9521230567
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_66,CB4-1478,40101666,Plaster Creek,-85.6153596063,42.9372102581
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_67,CB5-1787,40101673,Plaster Creek,-85.6246955747,42.945473739
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_68,CB1-96,40101711,Direct Drainage to Lower Grand River,-85.6220787499,42.9510872356
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_69,CB2-615,40108366,Direct Drainage to Lower Grand River,-85.6020552632,42.9429515314
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_70,CB3-1047,40092442,Plaster Creek,-85.6021387168,42.9350737491
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_71,CB4-1468,40091460,Plaster Creek,-85.610069404,42.9373006374
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_72,CB3-1150,40117647,Direct Drainage to Lower Grand River,-85.5965821096,42.9370205477
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_73,CB3-901,40083365,Direct Drainage to Lower Grand River,-85.5916109216,42.9378958901
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_74,CB1-110,40083366,Direct Drainage to Lower Grand River,-85.6200359766,42.9527092089
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_75,CB2-501,40101937,Direct Drainage to Lower Grand River,-85.5944419845,42.9446822802
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_76,CB1-50,40101779,Direct Drainage to Lower Grand River,-85.6255636435,42.9518538659
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_77,CB4-1353,40086063,Plaster Creek,-85.6108059651,42.9335807015
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_78,CB1-63,40091703,Direct Drainage to Lower Grand River,-85.6247962004,42.95252102
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_79,CB4-1420,40100238,Plaster Creek,-85.6154222587,42.9357810058
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_80,CB1-178,40088178,Direct Drainage to Lower Grand River,-85.6232833296,42.9582963944
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_81,CB4-1625,40087323,Plaster Creek,-85.6157515255,42.9409765169
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_82,CB3-1256,40087627,Plaster Creek,-85.6048338842,42.9307826894
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_83,CB1-140,40102589,Direct Drainage to Lower Grand River,-85.6214240448,42.9537714072
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_84,CB2-320,40112400,Direct Drainage to Lower Grand River,-85.6053891965,42.9574222478
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_85,CB4-1358,40099731,Plaster Creek,-85.6107801519,42.93297316
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_86,CB4-1413,40101431,Plaster Creek,-85.6165077398,42.9356634894
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_87,CB5-1756,40110986,Plaster Creek,-85.6278598534,42.9438766877
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_88,CB3-931,40084383,Plaster Creek,-85.5981281269,42.9371114336
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_89,CB4-1452,40098605,Plaster Creek,-85.6123684682,42.9372436674
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_90,CB3-1069,40119225,Plaster Creek,-85.6080226813,42.9350355078
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_91,CB3-1061,40119226,Plaster Creek,-85.6064742229,42.9351434649
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_92,CB5-1822,40118069,Plaster Creek,-85.6292152649,42.9462205489
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_93,CB5-1930,40118538,Plaster Creek,-85.6154447206,42.9445823864
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_94,CB1-2013,40090274,Direct Drainage to Lower Grand River,-85.6224972812,42.9544229888
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_95,CB1-114,40092350,Direct Drainage to Lower Grand River,-85.6193087735,42.9524043441
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_96,CB3-1174,40083900,Plaster Creek,-85.599208025,42.9343155776
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_97,CB3-995,40100960,Plaster Creek,-85.6099526966,42.9372881277
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_98,CB2-402,40083161,Direct Drainage to Lower Grand River,-85.5980666926,42.9549162861
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_99,CB3-927,40094172,Plaster Creek,-85.598111124,42.9379195732
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_100,CB2-422,40119018,Direct Drainage to Lower Grand River,-85.5954115279,42.9521815975
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_101,CB2-463,40156713,Direct Drainage to Lower Grand River,-85.5945558134,42.9520658791
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_102,CB1-100,40112951,Direct Drainage to Lower Grand River,-85.6228879269,42.9512510636
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_103,CB1-98,40093404,Direct Drainage to Lower Grand River,-85.6228327078,42.9507616579
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_104,CB1-23,40124388,Direct Drainage to Lower Grand River,-85.6292194611,42.9541152469
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_105,CB1-15,40110743,Direct Drainage to Lower Grand River,-85.628173149,42.9554532744
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_106,CB1-3,40098682,Direct Drainage to Lower Grand River,-85.6280572742,42.957998155
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_107,CB2-599,40120227,Direct Drainage to Lower Grand River,-85.6016732394,42.9455809173
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_108,CB1-2004,40117328,Direct Drainage to Lower Grand River,-85.6249822383,42.9556032247
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_109,CB4-1519,40117377,Plaster Creek,-85.6128737374,42.9389123509
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_110,CB3-1125,40118347,Direct Drainage to Lower Grand River,-85.5941470202,42.9352236678
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_111,CB1-286,40101308,Plaster Creek,-85.6174292811,42.9476493812
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_112,CB1-285,40112030,Plaster Creek,-85.6167299162,42.9478791305
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_113,CB3-1287,40112038,Plaster Creek,-85.6094778842,42.9332028537
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_114,CB3-1009,40118189,Plaster Creek,-85.6096969014,42.9358631857
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_115,CB4-1462,40118198,Plaster Creek,-85.6111252139,42.9373717766
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_116,CB3-850,40094727,Direct Drainage to Lower Grand River,-85.5948844304,42.9399867201
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_117,CB5-1918,40102689,Direct Drainage to Lower Grand River,-85.611039791,42.9466879036
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_118,CB1-65,40088060,Direct Drainage to Lower Grand River,-85.6292357744,42.9501693963
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_119,CB3-984,40088462,Plaster Creek,-85.6061426265,42.9380875294
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_120,CB3-1159,40105822,Direct Drainage to Lower Grand River,-85.5967671003,42.9350597562
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_121,CB3-1045,40105823,Plaster Creek,-85.6013015804,42.935063673
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_122,CB3-1162,40106938,Plaster Creek,-85.5978533012,42.9345139519
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_123,CB2-317,40096960,Direct Drainage to Lower Grand River,-85.6049798639,42.9577805661
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_124,CB1-56,40097024,Direct Drainage to Lower Grand River,-85.625104626,42.9517990826
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_125,CB5-1790,40097410,Plaster Creek,-85.6247298175,42.9463932051
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_126,CB5-1764,40119991,Plaster Creek,-85.6267450894,42.944269962
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_127,CB2-416,40106298,Direct Drainage to Lower Grand River,-85.5980667702,42.9536725484
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_128,CB1-127,40106309,Direct Drainage to Lower Grand River,-85.6217551224,42.9527220363
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_129,CB1-2022,40116601,Direct Drainage to Lower Grand River,-85.6162285204,42.9504544373
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_130,CB4-1578,40118912,Plaster Creek,-85.6180196932,42.9406246013
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_131,CB5-1898,40122382,Plaster Creek,-85.6140911174,42.9480102169
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_132,CB1-49,40122405,Direct Drainage to Lower Grand River,-85.6268340859,42.951804009
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_133,CB3-976,40119330,Plaster Creek,-85.606409941,42.938929862
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_134,CB4-1500,40108916,Plaster Creek,-85.6114585444,42.9379742209
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_135,CB4-1355,40090943,Plaster Creek,-85.6106031585,42.9336581781
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_136,CB1-144,40114863,Direct Drainage to Lower Grand River,-85.6218959721,42.9540953831
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_137,CB5-1941,40111245,Plaster Creek,-85.6188037567,42.9446752877
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_138,CB3-1250,40087564,Plaster Creek,-85.6035858336,42.9307603858
+15,City of Grand Rapids,City of East Grand Rapids,EGR_139,CB4-1327,40087426,Plaster Creek,-85.6187737018,42.9325406898
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_140,CB2-505,40116193,Direct Drainage to Lower Grand River,-85.5942171462,42.9450189083
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_141,CB5-1939,40124441,Plaster Creek,-85.6182063491,42.9447064845
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_142,CB5-1893,40114085,Plaster Creek,-85.6155029866,42.9471812566
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_143,CB3-1093,40114091,Plaster Creek,-85.6067622433,42.933764387
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_144,CB4-1636,40114118,Plaster Creek,-85.6176199955,42.9428630508
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_145,CB2-761,40108508,Direct Drainage to Lower Grand River,-85.6102370454,42.9480060008
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_146,CB3-1140,40115247,Direct Drainage to Lower Grand River,-85.5956720067,42.9369146714
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_147,CB2-392,40087979,Direct Drainage to Lower Grand River,-85.5985907716,42.9555065622
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_148,CB1-43,40111625,Direct Drainage to Lower Grand River,-85.6282094475,42.9518366739
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_149,CB1-62,40112963,Direct Drainage to Lower Grand River,-85.6249403748,42.9525268466
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_150,CB3-940,40102037,Plaster Creek,-85.599410493,42.9366397687
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_151,CB3-972,40099538,Plaster Creek,-85.6060587699,42.9391050111
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_152,CB1-19,40089166,Direct Drainage to Lower Grand River,-85.6265872455,42.9554065311
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_153,CB2-328,40086302,Direct Drainage to Lower Grand River,-85.6036749253,42.9578123572
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_154,CB2-775,40095602,Direct Drainage to Lower Grand River,-85.6122815091,42.9531827722
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_155,CB4-1628,40095610,Plaster Creek,-85.6170758508,42.9410456626
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_156,CB3-1119,40094714,Direct Drainage to Lower Grand River,-85.5942607899,42.9344750025
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_157,CB5-1917,40087834,Direct Drainage to Lower Grand River,-85.6115116086,42.9469097824
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_158,CB4-1547,40085687,Plaster Creek,-85.6170783848,42.9389649522
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_159,CB3-1086,40085688,Plaster Creek,-85.6077733211,42.934397704
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_160,CB3-1126,40104314,Direct Drainage to Lower Grand River,-85.5942938541,42.9351775283
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_161,CB4-1577,40118402,Plaster Creek,-85.6179126266,42.9406883941
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_162,CB5-1734,40106125,Plaster Creek,-85.6268221259,42.9426004231
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_163,CB5-1996,40106141,Plaster Creek,-85.6111689048,42.9437944902
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_164,CB3-967,40099046,Plaster Creek,-85.6024193933,42.9388945077
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_165,CB4-1616,40117319,Plaster Creek,-85.6129092831,42.9409880077
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_166,CB1-2017,40104065,Direct Drainage to Lower Grand River,-85.6248172141,42.9542222709
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_167,CB5-1863,40104483,Plaster Creek,-85.6211607175,42.9446583184
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_168,CB3-879,40116808,Plaster Creek,-85.6000964739,42.9398627872
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_169,CB4-1558,40110741,Plaster Creek,-85.6189231764,42.9400537535
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_170,CB4-1575,40094252,Plaster Creek,-85.6181878043,42.9410358283
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_171,CB3-1132,40121117,Direct Drainage to Lower Grand River,-85.5944118423,42.9362014541
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_172,CB3-1102,40103494,Plaster Creek,-85.6048148014,42.9343037255
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_173,CB3-841,40097527,Direct Drainage to Lower Grand River,-85.5939167845,42.9388426182
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_174,CB3-933,40122619,Plaster Creek,-85.5979788636,42.9362382039
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_175,CB5-1896,40085459,Plaster Creek,-85.6146581994,42.9472779732
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_176,CB4-1493,40085468,Plaster Creek,-85.6126246982,42.9380730993
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_177,CB3-1279,40085693,Plaster Creek,-85.6083534111,42.9331940798
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_178,CB3-1066,40101314,Plaster Creek,-85.6065050357,42.9349180217
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_179,CB3-934,40122313,Plaster Creek,-85.5977853196,42.9360560633
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_180,CB3-1289,40097789,Plaster Creek,-85.6096572142,42.9336446793
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_181,CB3-1074,40096741,Plaster Creek,-85.6087402124,42.9349405196
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_182,CB3-1090,40096744,Plaster Creek,-85.6068778202,42.9337674445
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_183,CB4-1482,40096747,Plaster Creek,-85.6151527803,42.9379604821
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_184,CB3-1280,40096748,Plaster Creek,-85.6087830365,42.9332156304
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_185,CB3-1076,40096750,Plaster Creek,-85.6096334572,42.9344251244
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_186,CB2-390,40093298,Direct Drainage to Lower Grand River,-85.5986420275,42.9556845779
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_187,CB2-376,40106213,Direct Drainage to Lower Grand River,-85.6012119536,42.9566914427
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_188,CB2-381,40121353,Direct Drainage to Lower Grand River,-85.6007834822,42.9555282801
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_189,CB5-1970,40116657,Plaster Creek,-85.6198287938,42.9428927311
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_190,CB2-682,40121085,Plaster Creek,-85.6079322316,42.9420434287
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_191,CB2-675,40119926,Plaster Creek,-85.6086384758,42.9427923068
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_192,CB4-1677,40119936,Plaster Creek,-85.6130549095,42.9427522031
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_193,CB2-411,40116926,Direct Drainage to Lower Grand River,-85.5987270173,42.9541223111
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_194,CB4-1691,40096640,Plaster Creek,-85.6100376713,42.9418889614
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_195,CB5-1847,40101051,Plaster Creek,-85.6228927095,42.9449431046
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_196,CB4-1648,40090876,Plaster Creek,-85.6150793442,42.9427624378
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_197,CB5-1862,40084404,Plaster Creek,-85.6211067527,42.9446938983
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_198,CB3-1115,40093529,Plaster Creek,-85.6002255554,42.9342870912
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_199,CB4-1617,40094023,Plaster Creek,-85.6128356345,42.9410904278
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_200,CB3-1269,40120420,Plaster Creek,-85.6077744869,42.9315277111
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_201,CB4-1384,40123080,Plaster Creek,-85.6141620739,42.934290066
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_202,CB4-1343,40123081,Plaster Creek,-85.611897531,42.9334757035
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_203,CB3-1214,40123101,Plaster Creek,-85.6036401249,42.9323624071
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_204,CB4-1393,40123110,Plaster Creek,-85.614649394,42.9342440893
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_205,CB4-1667,40123115,Plaster Creek,-85.6140694036,42.9427239028
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_206,CB2-460,40095172,Direct Drainage to Lower Grand River,-85.5953288987,42.951399776
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_207,CB4-1337,40101520,Plaster Creek,-85.6130265461,42.9329384813
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_208,CB3-1237,40107727,Plaster Creek,-85.6009039762,42.9316440562
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_209,CB3-1114,40102787,Plaster Creek,-85.6003500811,42.9343006242
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_210,CB3-1105,40104279,Plaster Creek,-85.6037046429,42.9341637961
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_211,CB2-419,40109200,Direct Drainage to Lower Grand River,-85.5976500246,42.9533646778
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_212,CB3-881,40091402,Plaster Creek,-85.600177342,42.9399359835
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_213,CB5-1727,40116960,Plaster Creek,-85.6246975363,42.9425382297
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_214,CB2-408,40121795,Direct Drainage to Lower Grand River,-85.5976466,42.954440697
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_215,CB2-429,40106070,Direct Drainage to Lower Grand River,-85.5953532024,42.9539316921
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_216,CB2-424,40107990,Direct Drainage to Lower Grand River,-85.5954056211,42.9522942014
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_217,CB2-452,40114821,Direct Drainage to Lower Grand River,-85.596017308,42.9503781284
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_218,CB2-468,40096440,Direct Drainage to Lower Grand River,-85.5934144882,42.9508310169
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_219,CB2-471,40094838,Direct Drainage to Lower Grand River,-85.5911197834,42.9506568201
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_220,CB4-1411,40118603,Plaster Creek,-85.6165704695,42.9333688652
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_221,CB4-1336,40094598,Plaster Creek,-85.612918456,42.932932522
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_222,CB4-1332,40089886,Plaster Creek,-85.6130302514,42.9320936261
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_223,CB5-1953,40120736,Plaster Creek,-85.6223023658,42.9432174101
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_224,CB2-436,40120751,Direct Drainage to Lower Grand River,-85.5941778421,42.957496735
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_225,CB4-1324,40120778,Plaster Creek,-85.6182942482,42.9319945275
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_226,CB3-1098,40083535,Plaster Creek,-85.6065913854,42.9343162364
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_227,CB1-2046,40117017,Plaster Creek,-85.6270520255,42.948339178
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_228,CB2-461,40122505,Direct Drainage to Lower Grand River,-85.5952252524,42.9514008871
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_229,CB2-335,40116462,Direct Drainage to Lower Grand River,-85.6031574002,42.9594160673
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_230,CB2-325,40110850,Direct Drainage to Lower Grand River,-85.603833638,42.9575639539
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_231,CB2-339,40105254,Direct Drainage to Lower Grand River,-85.6018018735,42.9587594728
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_232,CB2-338,40113643,Direct Drainage to Lower Grand River,-85.6018194926,42.9588316206
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_233,CB2-344,40094656,Direct Drainage to Lower Grand River,-85.6012356297,42.9581654941
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_234,CB2-365,40089091,Direct Drainage to Lower Grand River,-85.6027546433,42.9571739902
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_235,CB5-1951,40096866,Plaster Creek,-85.6234250634,42.9432251904
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_236,CB4-1639,40118231,Plaster Creek,-85.6163311647,42.9428665756
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_237,CB2-547,40114887,Direct Drainage to Lower Grand River,-85.594290703,42.9421831964
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_238,CB4-1680,40105217,Plaster Creek,-85.6131477356,42.9428024558
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_239,CB2-350,40106382,Direct Drainage to Lower Grand River,-85.6023550979,42.957837653
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_240,CB5-1815,40088790,Plaster Creek,-85.6274348338,42.9455510716
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_241,CB2-351,40123190,Direct Drainage to Lower Grand River,-85.602318268,42.9577408771
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_242,CB5-1742,40094413,Plaster Creek,-85.6285783018,42.9431968776
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_243,CB1-105,40230366,Direct Drainage to Lower Grand River,-85.6206064408,42.9526740892
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_244,CB1-106,40230367,Direct Drainage to Lower Grand River,-85.6206886089,42.9526960582
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_245,CB1-108,40230368,Direct Drainage to Lower Grand River,-85.6207741186,42.9528320187
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_246,CB1-103,40232566,Direct Drainage to Lower Grand River,-85.6205919157,42.9517319412
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_247,CB1-104,40232567,Direct Drainage to Lower Grand River,-85.6206717324,42.9517339271
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_248,CB4-1671,40094320,Plaster Creek,-85.6139378616,42.941983732
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_249,CB5-1729,40115648,Plaster Creek,-85.6274348515,42.9420941211
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_250,CB4-1315,40122173,Plaster Creek,-85.6166033185,42.9319947385
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_251,CB5-1848,40122441,Plaster Creek,-85.6230119569,42.9449437182
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_252,CB4-1469,40123591,Plaster Creek,-85.6100695256,42.9372843902
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_253,CB3-974,40106089,Plaster Creek,-85.606312652,42.9391465017
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_254,CB3-1254,40121409,Plaster Creek,-85.6046467155,42.930818521
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_255,CB5-2043,40091055,Plaster Creek,-85.6289675218,42.9410774368
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_256,CB1-298,40124588,Plaster Creek,-85.621497845,42.947506852
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_257,CB5-1990,40113201,Plaster Creek,-85.6132755242,42.9438905275
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_258,CB1-31,40124131,Direct Drainage to Lower Grand River,-85.6282787109,42.9534416564
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_259,CB2-397,40093970,Direct Drainage to Lower Grand River,-85.5986645065,42.9563215447
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_260,CB4-1494,40096751,Plaster Creek,-85.6124444204,42.9380754986
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_261,CB4-1328,40114339,Plaster Creek,-85.6139936363,42.9321526808
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_262,CB4-1339,40119133,Plaster Creek,-85.6129530127,42.9335188375
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_263,CB4-1386,40085543,Plaster Creek,-85.6138656342,42.9337208719
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_264,CB4-1390,40113642,Plaster Creek,-85.6139842429,42.9330204028
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_265,CB4-1372,40089926,Plaster Creek,-85.6123253779,42.9344251154
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_266,CB3-1238,40106672,Plaster Creek,-85.6007930311,42.9316445653
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_267,CB3-1223,40095934,Plaster Creek,-85.6019494945,42.9322937377
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_268,CB3-1226,40088788,Plaster Creek,-85.6021351906,42.9316097925
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_269,CB3-1199,40109629,Plaster Creek,-85.6067480577,42.9330828443
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_270,CB3-1108,40117570,Plaster Creek,-85.6029293685,42.934279052
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_271,CB4-1695,40100533,Plaster Creek,-85.6142076587,42.9436356249
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_272,CB5-1737,40123834,Plaster Creek,-85.6264046055,42.942685283
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_273,CB1-12,40092899,Direct Drainage to Lower Grand River,-85.6282816268,42.9555751045
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_274,CB2-652,40094278,Plaster Creek,-85.6056494178,42.9411510936
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_275,CB-302,40097782,Plaster Creek,-85.6138275944,42.9480373441
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_276,CB5-1944,40119395,Plaster Creek,-85.6198939305,42.9446584308
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_277,CB4-1539,40092246,Plaster Creek,-85.6190509381,42.9384830627
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_278,CB4-1610,40103996,Plaster Creek,-85.6117319223,42.9398582709
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_279,CB4-2039,40104010,Plaster Creek,-85.611410925,42.9410683171
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_280,CB4-1679,40124366,Plaster Creek,-85.6128237879,42.9427994479
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_281,CB5-1922,40107147,Direct Drainage to Lower Grand River,-85.6101177212,42.9446110599
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_282,CB5-1901,40120570,Plaster Creek,-85.6139775698,42.9479590929
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_283,CB1-42,40109456,Direct Drainage to Lower Grand River,-85.628480524,42.9518377563
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_284,CB5-1983,40107244,Plaster Creek,-85.6175663875,42.9430529611
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_285,CB3-990,40099118,Plaster Creek,-85.6062214023,42.9376069025
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_286,CB2-663,40103051,Plaster Creek,-85.6066358632,42.9414967622
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_287,CB2-401,40105588,Direct Drainage to Lower Grand River,-85.5986942952,42.9573066198
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_288,CB5-1786,40121455,Plaster Creek,-85.6249042599,42.9454840165
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_289,CB4-1451,40124372,Plaster Creek,-85.6122307567,42.9371340502
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_290,CB4-1316,40122492,Plaster Creek,-85.6161844949,42.9320528747
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_291,CB4-1398,40123079,Plaster Creek,-85.6153679031,42.9344241865
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_292,CB4-2048,40123088,Plaster Creek,-85.61525497,42.9338435281
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_293,CB5-1960,40123938,Plaster Creek,-85.620956462,42.942727841
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_294,CB4-1690,40119581,Plaster Creek,-85.6111332748,42.9427922707
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_295,CB4-1415,40098128,Plaster Creek,-85.616508749,42.9363308231
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_296,CB5-1745,40085409,Plaster Creek,-85.6285147405,42.9429796846
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_297,CB3-1171,40093197,Plaster Creek,-85.5992279889,42.9350607243
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_298,CB5-1789,40108929,Plaster Creek,-85.6249070146,42.9463832465
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_299,CB2-673,40107278,Plaster Creek,-85.6087567884,42.9437138006
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_300,CB1-137,40090628,Direct Drainage to Lower Grand River,-85.6210243802,42.9534421379
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_301,CB1-204,40087938,Direct Drainage to Lower Grand River,-85.6124014565,42.9531784225
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_302,CB3-800,40107536,Plaster Creek,-85.6026274439,42.9409743168
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_303,CB4-1644,40123108,Plaster Creek,-85.615616682,42.942883476
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_304,CB4-1557,40098600,Plaster Creek,-85.618931756,42.9400347519
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_305,CB3-1130,40114150,Direct Drainage to Lower Grand River,-85.5942281369,42.9361701349
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_306,CB1-283,40114409,Direct Drainage to Lower Grand River,-85.6102766039,42.9470046126
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_307,CB2-699,40116367,Plaster Creek,-85.6099217205,42.9438601138
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_308,CB3-1095,40114090,Plaster Creek,-85.6068757121,42.9343142842
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_309,CB4-1450,40092901,Plaster Creek,-85.6121140863,42.9371289518
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_310,CB5-1768,40107014,Plaster Creek,-85.6261054303,42.9442235636
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_311,CB2-331,40095605,Direct Drainage to Lower Grand River,-85.6032964434,42.9586322167
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_312,CB3-1112,40117925,Plaster Creek,-85.6016568165,42.9341872051
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_313,CB3-1109,40085184,Plaster Creek,-85.6029406936,42.9341953953
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_314,CB2-704,40100758,Plaster Creek,-85.6091988933,42.9442636448
+15,City of Grand Rapids,City of East Grand Rapids,EGR_315,CB1-179,40115429,Direct Drainage to Lower Grand River,-85.6233131227,42.9583633289
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_316,CB2-751,40099138,Direct Drainage to Lower Grand River,-85.6097005175,42.9466500785
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_317,CB2-697,40084877,Plaster Creek,-85.6099085762,42.9428624252
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_318,CB3-1002,40104178,Plaster Creek,-85.6065241991,42.9364983303
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_319,CB3-1051,40088410,Plaster Creek,-85.603355633,42.9350774976
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_320,CB2-389,40118441,Direct Drainage to Lower Grand River,-85.5987248025,42.9556218882
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_321,CB4-1401,40123089,Plaster Creek,-85.6151659626,42.9338357165
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_322,CB3-1245,40095123,Plaster Creek,-85.5996163414,42.9307663182
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_323,CB1-210,40120074,Direct Drainage to Lower Grand River,-85.614450623,42.9527551712
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_324,CB2-316,40094934,Direct Drainage to Lower Grand River,-85.6051667416,42.95789589
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_325,CB1-152,40107614,Direct Drainage to Lower Grand River,-85.6191016094,42.953890635
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_326,CB1-295,40116617,Plaster Creek,-85.6193852229,42.9474440706
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_327,CB3-1003,40086078,Plaster Creek,-85.6063717148,42.9364914731
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_328,CB4-1508,40097807,Plaster Creek,-85.6100770655,42.9377115039
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_329,CB3-1063,40096742,Plaster Creek,-85.6066766372,42.9350720099
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_330,CB4-1670,40123427,Plaster Creek,-85.6140457491,42.9419825576
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_331,CB5-1976,40108256,Plaster Creek,-85.6188463692,42.9429294861
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_332,CB4-1325,40095522,Plaster Creek,-85.618530984,42.9319980607
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_333,CB4-1479,40117090,Plaster Creek,-85.6154021302,42.9379105914
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_334,CB4-1658, ,Plaster Creek,-85.6143642961,42.9428808734
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_335,CB2-654,40117192,Plaster Creek,-85.6063559768,42.9411162289
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_336,CB1-46,40118292,Direct Drainage to Lower Grand River,-85.6271595969,42.951923481
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_337,CB2-668,40121631,Plaster Creek,-85.6078548118,42.9437918229
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_338,CB5-1935,40112865,Plaster Creek,-85.6176213826,42.9445697598
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_339,CB5-1995,40104440,Plaster Creek,-85.6111500479,42.9438820714
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_340,CB1-101,40092831,Direct Drainage to Lower Grand River,-85.6227884691,42.9512247937
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_341,CB4-1684,40098592,Plaster Creek,-85.6121839905,42.9428728143
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_342,CB3-981,40116425,Plaster Creek,-85.6079201997,42.9377418599
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_343,CB5-1770,40101039,Plaster Creek,-85.6262688782,42.9440211904
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_344,CB1-57,40105526,Direct Drainage to Lower Grand River,-85.6249882355,42.9517504155
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_345,CB2-651,40113114,Plaster Creek,-85.6055082792,42.9411517963
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_346,CB1-171,40086021,Direct Drainage to Lower Grand River,-85.6175877593,42.9533857637
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_347,CB1-166,40102616,Direct Drainage to Lower Grand River,-85.6176480487,42.953492683
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_348,CB1-168,40103774,Direct Drainage to Lower Grand River,-85.6174777322,42.9535679673
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_349,CB1-148,40088086,Direct Drainage to Lower Grand River,-85.6194292364,42.953664912
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_350,CB1-163,40099055,Direct Drainage to Lower Grand River,-85.6177315835,42.953757521
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_351,CB1-162,40107802,Direct Drainage to Lower Grand River,-85.6178120908,42.9538506459
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_352,CB3-965,40086626,Plaster Creek,-85.603265711,42.9388912327
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_353,CB5-1796,40104246,Plaster Creek,-85.6252896864,42.948217246
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_354,CB3-1134,40109338,Direct Drainage to Lower Grand River,-85.5945298008,42.9360477205
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_355,CB3-788,40115658,Plaster Creek,-85.6063502426,42.9409810825
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_356,CB1-1,40116089,Direct Drainage to Lower Grand River,-85.6282664681,42.9579250513
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_357,CB1-1999,40119614,Direct Drainage to Lower Grand River,-85.6282733042,42.9544072212
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_358,CB2-309,40087870,Direct Drainage to Lower Grand River,-85.6045830617,42.9589348469
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_359,CB3-1052,40087142,Plaster Creek,-85.6034335086,42.9349152136
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_360,CB2-371,40100854,Direct Drainage to Lower Grand River,-85.6015844728,42.9562382277
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_361,CB2-746,40095141,Direct Drainage to Lower Grand River,-85.6072927619,42.9469672508
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_362,CB1-64,40103377,Direct Drainage to Lower Grand River,-85.6293504029,42.9501646757
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_363,CB4-1380,40091522,Plaster Creek,-85.6139681743,42.9344276328
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_364,CB2-423,40111416,Direct Drainage to Lower Grand River,-85.595457129,42.9522655209
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_365,CB3-888,40118194,Plaster Creek,-85.6063212787,42.9400540367
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_366,CB3-1037,40124391,Plaster Creek,-85.6005421005,42.9357730612
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_367,CB4-1607,40107903,Plaster Creek,-85.6103896244,42.940485609
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_368,CB1-2008,40108538,Direct Drainage to Lower Grand River,-85.624811492,42.9553439303
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_369,CB5-1912,40208393,Plaster Creek,-85.6133688686,42.9468782158
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_370,CB5-1913,40208394,Plaster Creek,-85.6132690955,42.9468774471
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_371,CB1-58,40112366,Direct Drainage to Lower Grand River,-85.6247530881,42.9517185294
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_372,CB4-1673,40112776,Plaster Creek,-85.6130189048,42.9419312172
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_373,CB2-465,40098479,Direct Drainage to Lower Grand River,-85.5944639237,42.9510485098
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_374,CB1-139,40097467,Direct Drainage to Lower Grand River,-85.6212610585,42.9536542288
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_375,CB2-382,40118620,Direct Drainage to Lower Grand River,-85.600720322,42.955611479
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_376,CB3-1068,40092898,Plaster Creek,-85.6080226992,42.9351015339
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_377,CB2-504,40088522,Direct Drainage to Lower Grand River,-85.5940992174,42.9449717633
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_378,CB4-1391,40116495,Plaster Creek,-85.614451574,42.934329806
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_379,CB5-1993,40121659,Plaster Creek,-85.6122569505,42.9439101108
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_380,CB5-2042,40119807,Plaster Creek,-85.619790052,42.9426637912
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_381,CB4-1593,40122191,Plaster Creek,-85.6151814077,42.9396563298
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_382,CB2-431,40084035,Direct Drainage to Lower Grand River,-85.5954613162,42.9539032555
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_383,CB4-1463,40085516,Plaster Creek,-85.6110299091,42.9373296448
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_384,CB2-732,40122389,Direct Drainage to Lower Grand River,-85.6044334129,42.9469327477
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_385,CB4-1496,40122410,Plaster Creek,-85.6124884859,42.9379694212
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_386,CB3-935,40123170,Plaster Creek,-85.5979448117,42.9359854143
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_387,CB5-1948,40114664,Plaster Creek,-85.6198083524,42.9445754753
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_388,CB3-1053,40113069,Plaster Creek,-85.603604336,42.934915071
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_389,CB3-893,40115903,Plaster Creek,-85.6092427715,42.9403195113
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_390,CB5-1755,40105443,Plaster Creek,-85.6278713819,42.9439859189
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_391,CB3-1149,40086575,Direct Drainage to Lower Grand River,-85.5967298229,42.9370598236
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_392,CB2-323,40111197,Direct Drainage to Lower Grand River,-85.6039104828,42.9574160186
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_393,CB2-432,40101384,Direct Drainage to Lower Grand River,-85.5955305471,42.9538150823
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_394,CB4-1300,40120586,Plaster Creek,-85.6141560865,42.9312485776
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_395,CB4-1329,40116940,Plaster Creek,-85.61395684,42.9320503095
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_396,CB4-1373,40095513,Plaster Creek,-85.6122626429,42.9344756603
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_397,CB4-1369,40098935,Plaster Creek,-85.6110011958,42.9344801191
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_398,CB3-1184,40108140,Plaster Creek,-85.6016430647,42.9332533252
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_399,CB4-1456,40102697,Plaster Creek,-85.6135710351,42.937387475
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_400,CB4-1602,40103794,Plaster Creek,-85.6116328693,42.9409309718
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_401,CB4-1635,40114117,Plaster Creek,-85.6176778982,42.9429002618
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_402,CB5-1704,40110251,Plaster Creek,-85.629140788,42.9415875217
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_403,CB3-1219,40123104,Plaster Creek,-85.6031824181,42.932389192
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_404,CB3-902,40111507,Direct Drainage to Lower Grand River,-85.5916138587,42.937780162
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_405,CB5-1982,40119253,Plaster Creek,-85.6176082752,42.9430998694
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_406,CB4-1444,40101319,Plaster Creek,-85.6128689352,42.9365865506
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_407,CB4-1654,40088567,Plaster Creek,-85.6151100516,42.9419039527
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_408,CB4-1480,40103823,Plaster Creek,-85.6155583031,42.9379389661
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_409,CB3-896,40115886,Plaster Creek,-85.6101767412,42.9404661851
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_410,CB2-324,40086416,Direct Drainage to Lower Grand River,-85.6038818523,42.9574994776
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_411,CB2-639,40090670,Plaster Creek,-85.6032786882,42.9411133934
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_412,CB1-2005,40086528,Direct Drainage to Lower Grand River,-85.624818662,42.9555567768
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_413,CB2-360,40085474,Direct Drainage to Lower Grand River,-85.6003102955,42.9584789132
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_414,CB4-1371,40118619,Plaster Creek,-85.612241901,42.9343303038
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_415,CB5-1744,40114655,Plaster Creek,-85.6287423157,42.9429678479
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_416,CB5-1713,40098267,Plaster Creek,-85.6256667869,42.9414436635
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_417,CB4-1621,40118517,Plaster Creek,-85.6139087075,42.9410844059
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_418,CB4-1567,40118588,Plaster Creek,-85.6193369984,42.9409559548
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_419,CB3-891,40108883,Plaster Creek,-85.6065214987,42.9399170187
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_420,CB5-1903,40091429,Plaster Creek,-85.6132560979,42.9476729534
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_421,CB4-1473,40091431,Plaster Creek,-85.6099464067,42.9357506267
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_422,CB3-1137,40107403,Direct Drainage to Lower Grand River,-85.5944374481,42.9368009313
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_423,CB3-1065,40120585,Plaster Creek,-85.6066193687,42.9349185407
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_424,CB3-1288,40112039,Plaster Creek,-85.6096548018,42.9336212697
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_425,CB4-1663,40110736,Plaster Creek,-85.6133108476,42.9429113839
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_426,CB4-1608,40106850,Plaster Creek,-85.6102811224,42.9404393662
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_427,CB4-1591,40115433,Plaster Creek,-85.6149849013,42.9396043818
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_428,CB4-1352,40099097,Plaster Creek,-85.6108576979,42.9337667206
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_429,CB4-1566,40089974,Plaster Creek,-85.6193738675,42.940904454
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_430,CB5-1947,40117859,Plaster Creek,-85.6198517364,42.944524644
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_431,CB5-1892,40098591,Plaster Creek,-85.6155947709,42.9471794879
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_432,CB1-122,40101585,Direct Drainage to Lower Grand River,-85.6222123329,42.952794361
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_433,CB2-388,40105349,Direct Drainage to Lower Grand River,-85.5987601405,42.9554641272
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_434,CB4-1590,40086099,Plaster Creek,-85.6149833509,42.93952756
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_435,CB4-1295,40112212,Plaster Creek,-85.6129263936,42.9311001327
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_436,CB5-1981,40092089,Plaster Creek,-85.6176761519,42.9431315653
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_437,CB4-1341,40123135,Plaster Creek,-85.6128721373,42.933653252
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_438,CB5-1937,40122583,Plaster Creek,-85.6179641222,42.9446758147
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_439,CB3-1124,40118086,Direct Drainage to Lower Grand River,-85.5941452457,42.9351869416
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_440,CB1-141,40090374,Direct Drainage to Lower Grand River,-85.621348398,42.9538214394
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_441,CB4-1662,40097783,Plaster Creek,-85.613425095,42.9429124735
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_442,CB1-2000,40089977,Direct Drainage to Lower Grand River,-85.6281732315,42.9544171043
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_443,CB4-1568,40118455,Plaster Creek,-85.6193613857,42.9410682844
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_444,CB5-1881,40118850,Plaster Creek,-85.6181141316,42.9473044183
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_445,CB4-1581,40112362,Plaster Creek,-85.6175214129,42.9403397012
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_446,CB5-1769,40087422,Plaster Creek,-85.6261240928,42.944112793
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_447,CB3-1103,40111251,Plaster Creek,-85.6048330883,42.9341966947
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_448,CB3-1057,40120651,Plaster Creek,-85.6049967919,42.9349564513
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_449,CB1-22,40098883,Direct Drainage to Lower Grand River,-85.6257661114,42.9554586392
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_450,CB2-679,40117039,Plaster Creek,-85.6087427075,42.9420119516
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_451,CB3-1233,40114987,Plaster Creek,-85.6007699271,42.9322480248
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_452,CB3-1144,40085384,Direct Drainage to Lower Grand River,-85.5958253508,42.9360306737
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_453,CB3-872,40091401,Plaster Creek,-85.5981585107,42.9399170016
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_454,CB3-1008,40091430,Plaster Creek,-85.6098454954,42.93600732
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_455,CB3-1040,40109175,Plaster Creek,-85.600327136,42.9357100906
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_456,CB5-1905,40123445,Plaster Creek,-85.6129977245,42.9475570206
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_457,CB4-1475,40098796,Plaster Creek,-85.6099204821,42.9350424004
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_458,CB4-1595,40094209,Plaster Creek,-85.6143041573,42.9395718125
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_459,CB3-1220,40091705,Plaster Creek,-85.6031806056,42.9322985145
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_460,CB3-1010,40087837,Plaster Creek,-85.609832029,42.9357535417
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_461,CB4-1338,40118732,Plaster Creek,-85.6128054808,42.9335035103
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_462,CB3-1200,40094211,Plaster Creek,-85.6067482059,42.9329654167
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_463,CB3-1195,40115199,Plaster Creek,-85.6060637773,42.9329761707
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_464,CB4-1512,40100305,Plaster Creek,-85.610255633,42.9388130513
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_465,CB4-1428,40102632,Plaster Creek,-85.6133147984,42.9352424288
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_466,CB4-1582,40087307,Plaster Creek,-85.6176051455,42.940269056
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_467,CB1-112,40087522,Direct Drainage to Lower Grand River,-85.6201654703,42.9529454983
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_468,CB3-1251,40090329,Plaster Creek,-85.6039372272,42.9308261853
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_469,CB4-1472,40101565,Plaster Creek,-85.6100105597,42.9366642285
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_470,CB1-39,40113234,Direct Drainage to Lower Grand River,-85.6268359828,42.9525955911
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_471,CB4-1536,40092504,Plaster Creek,-85.6192244764,42.9380777074
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_472,CB3-843,40103930,Direct Drainage to Lower Grand River,-85.59418998,42.9389318156
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_473,CB1-21,40083711,Direct Drainage to Lower Grand River,-85.6264142748,42.9554051393
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_474,CB3-784,40114141,Plaster Creek,-85.6065936696,42.9409440909
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_475,CB1-2011,40107461,Direct Drainage to Lower Grand River,-85.623417781,42.9546870481
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_476,CB2-305,40086901,Direct Drainage to Lower Grand River,-85.6046099345,42.9599691839
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_477,CB4-1399,40123054,Plaster Creek,-85.6153687309,42.9343301323
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_478,CB4-1342,40123085,Plaster Creek,-85.6118190077,42.9336417327
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_479,CB4-1294,40103995,Plaster Creek,-85.6127570821,42.9310934397
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_480,CB5-1971,40120492,Plaster Creek,-85.619990623,42.9422649452
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_481,CB5-1880,40118851,Plaster Creek,-85.6180285399,42.9474165494
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_482,CB5-1910,40113219,Plaster Creek,-85.6143856882,42.9467112923
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_483,CB2-683,40107206,Plaster Creek,-85.6078529101,42.9420981572
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_484,CB5-1980,40108915,Plaster Creek,-85.6177735505,42.9431214185
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_485,CB4-1586,40109227,Plaster Creek,-85.6164978264,42.9398698327
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_486,CB2-708,40085739,Direct Drainage to Lower Grand River,-85.6099039115,42.9462000013
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_487,CB4-1650,40091459,Plaster Creek,-85.6149371965,42.9428003201
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_488,CB3-889,40107587,Plaster Creek,-85.6063541273,42.9399635606
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_489,CB4-1538,40120653,Plaster Creek,-85.6191910204,42.9384839739
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_490,CB5-1959,40088113,Plaster Creek,-85.6210662234,42.9427287526
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_491,CB4-1394,40123091,Plaster Creek,-85.6151741735,42.9342258857
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_492,CB1-36,40101234,Direct Drainage to Lower Grand River,-85.6280634281,42.9533070886
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_493,CB5-1969,40101705,Plaster Creek,-85.6199367295,42.9429251951
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_494,CB3-880,40100928,Plaster Creek,-85.600185126,42.9398655651
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_495,CB4-1306,40123092,Plaster Creek,-85.6171474547,42.9312556759
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_496,CB4-1406,40123107,Plaster Creek,-85.6157485638,42.933862462
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_497,CB3-791,40119683,Plaster Creek,-85.6054197465,42.940970454
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_498,CB5-1989,40119700,Plaster Creek,-85.613400072,42.9438873613
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_499,CB3-973,40123999,Plaster Creek,-85.6061527104,42.9391685668
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_500,CB2-417,40118058,Direct Drainage to Lower Grand River,-85.5980100277,42.9537160228
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_501,CB4-1349,40111662,Plaster Creek,-85.6119279939,42.9328888183
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_502,CB3-1075,40090437,Plaster Creek,-85.6097538626,42.9350456627
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_503,CB4-1309,40099810,Plaster Creek,-85.616631263,42.9315737959
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_504,CB3-1209,40114861,Plaster Creek,-85.6058800967,42.9321479979
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_505,CB3-975,40091284,Plaster Creek,-85.6063959895,42.9390611874
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_506,CB2-635,40118990,Plaster Creek,-85.6029969721,42.9424901685
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_507,CB4-1505,40101349,Plaster Creek,-85.6101156161,42.9381279627
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_508,CB1-2020,40120710,Direct Drainage to Lower Grand River,-85.624954605,42.9540340722
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_509,CB4-1569,40115506,Plaster Creek,-85.6196591527,42.9409593755
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_510,CB5-2040,40115361,Plaster Creek,-85.6191539032,42.9419780178
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_511,CB2-736,40124367,Direct Drainage to Lower Grand River,-85.6060925076,42.9474897597
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_512,CB5-1730,40118274,Plaster Creek,-85.6273862862,42.9419709998
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_513,CB4-1683,40116627,Plaster Creek,-85.6122206265,42.9428019716
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_514,CB1-35,40089436,Direct Drainage to Lower Grand River,-85.6281273413,42.9532791897
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_515,CB5-1782,40083782,Plaster Creek,-85.624663326,42.9441949748
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_516,CB2-600,40095327,Direct Drainage to Lower Grand River,-85.6017595421,42.9456040541
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_517,CB5-1799,40122056,Plaster Creek,-85.626210379,42.9473556477
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_518,CB5-1886,40112029,Plaster Creek,-85.6169090584,42.9476029448
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_519,CB2-387,40114273,Direct Drainage to Lower Grand River,-85.5995254591,42.9554954417
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_520,CB3-844,40113102,Direct Drainage to Lower Grand River,-85.5941893426,42.9390502634
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_521,CB4-1556,40096743,Plaster Creek,-85.6188036863,42.9399465794
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_522,CB2-346,40111563,Direct Drainage to Lower Grand River,-85.6034504221,42.9574352537
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_523,CB3-1172,40093508,Plaster Creek,-85.5990800972,42.935068572
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_524,CB2-400,40112151,Direct Drainage to Lower Grand River,-85.5985590707,42.9573097198
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_525,CB4-1434,40093700,Plaster Creek,-85.611093649,42.9357248351
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_526,CB4-1653,40110635,Plaster Creek,-85.6150514848,42.941857774
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_527,CB1-2018,40110225,Direct Drainage to Lower Grand River,-85.6247414978,42.9541475806
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_528,CB2-649,40086476,Plaster Creek,-85.6054257869,42.9410725017
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_529,CB4-1642,40124281,Plaster Creek,-85.615581634,42.9427996922
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_530,CB2-394,40092225,Direct Drainage to Lower Grand River,-85.5985556358,42.9556088603
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_531,CB3-932,40089770,Plaster Creek,-85.5979777227,42.9371152728
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_532,CB3-1038,40105280,Plaster Creek,-85.6005494776,42.9356897766
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_533,CB5-1754,40082952,Plaster Creek,-85.6279828398,42.9440845552
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_534,CB2-334,40113942,Direct Drainage to Lower Grand River,-85.6032740312,42.9593984535
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_535,CB4-1387,40083205,Plaster Creek,-85.6136305385,42.9338175309
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_536,CB3-1201,40120632,Plaster Creek,-85.6067757251,42.9329614141
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_537,CB5-1771,40100322,Plaster Creek,-85.6264281546,42.9439973484
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_538,CB4-1447,40110286,Plaster Creek,-85.6138198467,42.9366199748
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_539,CB3-1198,40100178,Plaster Creek,-85.6067417395,42.933060163
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_540,CB5-1890,40098590,Plaster Creek,-85.6167494972,42.947186409
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_541,CB3-1285,40090861,Plaster Creek,-85.6095917073,42.9328287042
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_542,CB3-1145,40110154,Direct Drainage to Lower Grand River,-85.5958047338,42.9361490615
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_543,CB1-284,40122383,Direct Drainage to Lower Grand River,-85.6108117015,42.9476554446
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_544,CB5-1835,40097535,Plaster Creek,-85.6230833549,42.9477871751
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_545,CB2-735,40101316,Direct Drainage to Lower Grand River,-85.6060645545,42.9475376744
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_546,CB3-1117,40117993,Plaster Creek,-85.6005172466,42.9341506903
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_547,CB2-748,40101898,Direct Drainage to Lower Grand River,-85.6078160015,42.9470232205
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_548,CB4-1694,40094558,Plaster Creek,-85.6146291956,42.9436506013
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_549,CB4-1305,40123086,Plaster Creek,-85.6172746277,42.9312469332
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_550,CB5-1870,40104739,Plaster Creek,-85.6207532106,42.9464078678
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_551,CB3-1216,40123103,Plaster Creek,-85.6036022261,42.9322526077
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_552,CB3-958,40109814,Plaster Creek,-85.6032000277,42.9379466558
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_553,CB3-1104,40115510,Plaster Creek,-85.6038356407,42.9341535727
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_554,CB2-703,40094652,Plaster Creek,-85.6091990744,42.9441778307
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_555,CB3-1278,40112040,Plaster Creek,-85.6083278616,42.9330580504
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_556,CB3-1142,40112146,Direct Drainage to Lower Grand River,-85.5954917762,42.9359435274
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_557,CB4-1445,40120590,Plaster Creek,-85.6128999112,42.9365075089
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_558,CB2-591,40089387,Direct Drainage to Lower Grand River,-85.6004740446,42.9441408477
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_559,CB4-1363,40119229,Plaster Creek,-85.609785233,42.9336647229
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_560,CB2-592,40102530,Direct Drainage to Lower Grand River,-85.6005991417,42.9441108784
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_561,CB2-359,40110515,Direct Drainage to Lower Grand River,-85.6004406599,42.9585073672
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_562,CB2-304,40117636,Direct Drainage to Lower Grand River,-85.6047269797,42.9599852906
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_563,CB4-1613,40098178,Plaster Creek,-85.6128528944,42.9392589553
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_564,CB5-1841,40120938,Plaster Creek,-85.6215972699,42.9473201156
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_565,CB5-1740,40119967,Plaster Creek,-85.6278003816,42.9430154578
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_566,CB1-159,40118974,Direct Drainage to Lower Grand River,-85.6187613045,42.9544824356
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_567,CB1-153,40100651,Direct Drainage to Lower Grand River,-85.6189334925,42.9539042019
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_568,CB4-1596,40115896,Plaster Creek,-85.6135009489,42.9398639254
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_569,CB4-1668,40118191,Plaster Creek,-85.6139731661,42.9427230843
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_570,CB5-1897,40116624,Plaster Creek,-85.6145773451,42.9472419712
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_571,CB1-26,40116402,Direct Drainage to Lower Grand River,-85.6292140294,42.9539369278
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_572,CB2-695,40106320,Plaster Creek,-85.60988241,42.9418765681
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_573,CB4-1686,40092216,Plaster Creek,-85.6118679658,42.9428718855
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_574,CB4-1530,40090879,Plaster Creek,-85.6164035764,42.9388062328
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_575,CB3-1017,40116810,Plaster Creek,-85.6073488911,42.9358273286
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_576,CB1-176,40096157,Direct Drainage to Lower Grand River,-85.6167659266,42.9526822456
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_577,CB4-1438,40100170,Plaster Creek,-85.6111525758,42.9365430486
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_578,CB5-1887,40087836,Plaster Creek,-85.6167371828,42.9476712577
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_579,CB1-25,40101201,Direct Drainage to Lower Grand River,-85.6293214161,42.9539339885
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_580,CB3-1168,40115720,Plaster Creek,-85.599166695,42.9358589677
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_581,CB3-1203,40104940,Plaster Creek,-85.606932128,42.9329108188
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_582,CB2-684,40084937,Plaster Creek,-85.6077358255,42.9420951992
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_583,CB3-966,40101243,Plaster Creek,-85.6025595402,42.9388086761
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_584,CB3-1180,40090510,Plaster Creek,-85.6004787009,42.933248005
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_585,CB4-1460,40096749,Plaster Creek,-85.6116021452,42.9372091586
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_586,CB2-662,40108336,Plaster Creek,-85.6068064524,42.9412099822
+15,Grand Rapids Township,City of East Grand Rapids,EGR_587,CB1-182,40104478,Direct Drainage to Lower Grand River,-85.622300644,42.9584849901
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_588,CB5-2050,40093201,Plaster Creek,-85.6248059179,42.9417092665
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_589,CB3-1073,40107586,Plaster Creek,-85.608647733,42.9349458306
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_590,CB5-1911,40105948,Plaster Creek,-85.6142976881,42.9466413668
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_591,CB3-1043,40111940,Plaster Creek,-85.6003937139,42.9348947752
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_592,CB4-1643,40123112,Plaster Creek,-85.6155054414,42.942894403
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_593,CB4-1618,40123614,Plaster Creek,-85.6130297957,42.941090731
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_594,CB5-1784,40083667,Plaster Creek,-85.6247103472,42.9434196494
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_595,CB3-1148,40104690,Direct Drainage to Lower Grand River,-85.5956039734,42.9351897733
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_596,CB5-1793,40106828,Plaster Creek,-85.6247480685,42.9475199543
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_597,CB5-1963,40116348,Plaster Creek,-85.6209718857,42.943528908
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_598,CB2-356,40116375,Direct Drainage to Lower Grand River,-85.6004630457,42.9581294115
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_599,CB2-701,40103983,Plaster Creek,-85.6098882821,42.9441682424
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_600,CB5-1825,40118592,Plaster Creek,-85.6288377844,42.9452903474
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_601,CB4-1518,40084738,Plaster Creek,-85.6128635344,42.9389973137
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_602,CB5-1783,40106955,Plaster Creek,-85.6248272033,42.9434258857
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_603,CB2-634,40103808,Plaster Creek,-85.6033539454,42.9424356854
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_604,CB2-366,40115776,Direct Drainage to Lower Grand River,-85.6018808482,42.9568418916
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_605,CB1-154,40112615,Direct Drainage to Lower Grand River,-85.6188903264,42.9539724956
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_606,CB1-167,40120483,Direct Drainage to Lower Grand River,-85.6175810688,42.9535847233
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_607,CB2-500,40091474,Direct Drainage to Lower Grand River,-85.594316618,42.9446537113
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_608,CB3-1007,40104970,Plaster Creek,-85.6052341681,42.9366366513
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_609,CB2-311,40111666,Direct Drainage to Lower Grand River,-85.6045135253,42.9580312938
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_610,CB2-322,40092517,Direct Drainage to Lower Grand River,-85.6050355195,42.9575709372
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_611,CB4-1657,40102403,Plaster Creek,-85.6144261707,42.9428021536
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_612,CB3-1189,40114950,Plaster Creek,-85.6044974889,42.9332003758
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_613,CB3-1060,40097230,Plaster Creek,-85.6063535719,42.9350625256
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_614,CB4-1550,40105384,Plaster Creek,-85.6172470308,42.9390447803
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_615,CB3-783,40109133,Plaster Creek,-85.6068237739,42.9409188785
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_616,CB1-124,40118878,Direct Drainage to Lower Grand River,-85.6219415289,42.9526403297
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_617,CB1-38,40096575,Direct Drainage to Lower Grand River,-85.6271718473,42.9527902512
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_618,CB5-1813,40091869,Plaster Creek,-85.6261599617,42.9456889108
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_619,CB3-1277,40084554,Plaster Creek,-85.6093792457,42.9308564729
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_620,CB1-294,40085385,Plaster Creek,-85.6193294983,42.947451952
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_621,CB3-890,40102696,Plaster Creek,-85.6064013287,42.9399127207
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_622,CB3-1147,40116136,Direct Drainage to Lower Grand River,-85.5954417062,42.9352034785
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_623,CB1-280,40116807,Direct Drainage to Lower Grand River,-85.6109471481,42.9467583661
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_624,CB1-66,40082902,Direct Drainage to Lower Grand River,-85.6292015575,42.9499847017
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_625,CB4-1477,40112084,Plaster Creek,-85.6155026776,42.9372095221
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_626,CB3-1120,40120479,Direct Drainage to Lower Grand River,-85.5941100328,42.9344852071
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_627,CB2-664,40095525,Plaster Creek,-85.6068071061,42.9414903536
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_628,CB4-1627,40106781,Plaster Creek,-85.6171783359,42.9409621072
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_629,CB1-296,40101027,Plaster Creek,-85.6196561665,42.9473962403
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_630,CB3-1281,40101318,Plaster Creek,-85.6091076413,42.9332203984
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_631,CB5-1864,40088237,Plaster Creek,-85.6211677926,42.9445522585
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_632,CB5-1826,40121712,Plaster Creek,-85.6288541365,42.9451928839
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_633,CB2-441,40112694,Direct Drainage to Lower Grand River,-85.5930306697,42.9560376468
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_634,CB2-2036,40099638,Plaster Creek,-85.609885276,42.9442565571
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_635,CB3-1136,40116309,Direct Drainage to Lower Grand River,-85.5942870465,42.9368048755
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_636,CB4-1311,40093635,Plaster Creek,-85.6173345517,42.9314031401
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_637,CB1-145,40121336,Direct Drainage to Lower Grand River,-85.6218259618,42.9541838281
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_638,CB5-1802,40101906,Plaster Creek,-85.626412574,42.947248705
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_639,CB5-1861,40101004,Plaster Creek,-85.6209862275,42.9447020782
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_640,CB3-787,40083831,Plaster Creek,-85.6063931879,42.9409806179
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_641,CB1-278,40112028,Plaster Creek,-85.6120316122,42.947229681
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_642,CB3-1155,40083508,Direct Drainage to Lower Grand River,-85.5966899811,42.9359559175
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_643,CB3-867,40091427,Plaster Creek,-85.5980500651,42.9400681942
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_644,CB5-1852,40089794,Plaster Creek,-85.6236339278,42.9440515506
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_645,CB5-1753,40103764,Plaster Creek,-85.6281884736,42.944088274
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_646,CB4-1448,40083538,Plaster Creek,-85.6138234528,42.9365413405
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_647,CB5-1844,40089827,Plaster Creek,-85.6230021073,42.946358427
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_648,CB1-27,40100830,Direct Drainage to Lower Grand River,-85.6291597682,42.9539691392
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_649,CB4-1603,40109088,Plaster Creek,-85.6115295861,42.9409715286
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_650,CB5-1767,40107648,Plaster Creek,-85.626222628,42.9443070177
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_651,CB3-1222,40100481,Plaster Creek,-85.6019596397,42.9323772452
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_652,CB4-1637,40100959,Plaster Creek,-85.6176175134,42.9427957343
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_653,CB5-1719,40100218,Plaster Creek,-85.6233779672,42.9422511719
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_654,CB4-1307,40110854,Plaster Creek,-85.6168047558,42.9313382306
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_655,CB4-1689,40121145,Plaster Creek,-85.6111349895,42.9428774881
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_656,CB4-1605,40100881,Plaster Creek,-85.6104433152,42.940612743
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_657,CB5-1805,40114156,Plaster Creek,-85.6276263062,42.9466994608
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_658,CB3-1013,40091403,Plaster Creek,-85.6087053998,42.9358052498
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_659,CB4-1522,40087201,Plaster Creek,-85.6142662864,42.9388090246
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_660,CB2-676,40094422,Plaster Creek,-85.6087599467,42.9427978508
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_661,CB3-1143,40106565,Direct Drainage to Lower Grand River,-85.5956373925,42.935907498
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_662,CB3-1253,40111133,Plaster Creek,-85.6045904314,42.930775386
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_663,CB1-115,40087432,Direct Drainage to Lower Grand River,-85.6192102498,42.9524979839
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_664,CB2-502,40118740,Direct Drainage to Lower Grand River,-85.5940188808,42.944883903
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_665,CB1-287,40101309,Plaster Creek,-85.6179774686,42.9475436438
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_666,CB4-1321,40100038,Plaster Creek,-85.6186595825,42.9315060942
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_667,CB4-1374,40095667,Plaster Creek,-85.6121564219,42.9344773364
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_668,CB4-1292,40112551,Plaster Creek,-85.6118438329,42.9310900319
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_669,CB4-1368,40101140,Plaster Creek,-85.6108941522,42.9344761773
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_670,CB3-1196,40096821,Plaster Creek,-85.606086357,42.9330536981
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_671,CB2-656,40124202,Plaster Creek,-85.6063989921,42.941081982
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_672,CB4-1298,40123094,Plaster Creek,-85.6139607286,42.9311799855
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_673,CB3-1215,40123100,Plaster Creek,-85.6035614622,42.9323562586
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_674,CB2-428,40083005,Direct Drainage to Lower Grand River,-85.5955141991,42.9536203355
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_675,CB3-1228,40083198,Plaster Creek,-85.6032608964,42.931616391
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_676,CB3-1193,40100817,Plaster Creek,-85.6052505082,42.9331980281
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_677,CB2-597,40104417,Direct Drainage to Lower Grand River,-85.6018899466,42.945087831
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_678,CB4-1378,40123087,Plaster Creek,-85.6133758916,42.9344247761
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_679,CB3-971,40085433,Plaster Creek,-85.6060462561,42.9389968315
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_680,CB5-1736,40112115,Plaster Creek,-85.6265806838,42.9427089509
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_681,CB1-52,40113332,Direct Drainage to Lower Grand River,-85.6254619527,42.951995131
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_682,CB3-1018,40118507,Plaster Creek,-85.6073525767,42.9357596981
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_683,CB2-458,40083801,Direct Drainage to Lower Grand River,-85.5951861644,42.9505202182
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_684,CB1-74,40085386,Plaster Creek,-85.628398539,42.9487897843
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_685,CB5-1766,40119398,Plaster Creek,-85.6263580093,42.9443662322
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_686,CB4-1360,40120589,Plaster Creek,-85.6096685329,42.9328288586
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_687,CB4-1649,40123113,Plaster Creek,-85.6149840226,42.9427218736
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_688,CB3-1192,40096103,Plaster Creek,-85.6052511459,42.9332783725
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_689,CB4-1674,40108525,Plaster Creek,-85.6128958351,42.9419222649
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_690,CB4-1435,40101638,Plaster Creek,-85.6109517848,42.9357371333
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_691,CB5-1699,40107676,Plaster Creek,-85.6291136159,42.9410742905
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_692,CB4-1322,40113645,Plaster Creek,-85.6185081356,42.9316034958
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_693,CB4-1291,40115667,Plaster Creek,-85.6116724503,42.931097328
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_694,CB3-1158,40113583,Direct Drainage to Lower Grand River,-85.5966130086,42.9350600933
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_695,CB5-1884,40112031,Plaster Creek,-85.6174177412,42.9475423996
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_696,CB1-160,40096400,Direct Drainage to Lower Grand River,-85.618659245,42.9544613823
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_697,CB1-147,40100843,Direct Drainage to Lower Grand River,-85.6195310783,42.9536838077
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_698,CB3-1005,40094579,Plaster Creek,-85.6062548534,42.9367078581
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_699,CB3-939,40099802,Plaster Creek,-85.5991506967,42.9364768942
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_700,CB5-1882,40118188,Plaster Creek,-85.6182239045,42.9472907332
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_701,CB3-1133,40115308,Direct Drainage to Lower Grand River,-85.5945242572,42.936139108
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_702,CB1-288,40097224,Plaster Creek,-85.6181121827,42.9475847085
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_703,CB3-959,40089158,Plaster Creek,-85.603351625,42.9379556948
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_704,CB2-383,40118837,Direct Drainage to Lower Grand River,-85.600595383,42.9555999812
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_705,CB1-2012,40091046,Direct Drainage to Lower Grand River,-85.6228386057,42.9544507522
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_706,CB1-2045,40084112,Direct Drainage to Lower Grand River,-85.6257572341,42.9555731165
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_707,CB3-1077,40123454,Plaster Creek,-85.6096103108,42.9343326476
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_708,CB3-964,40094313,Plaster Creek,-85.6033965501,42.938898019
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_709,CB2-759,40110278,Direct Drainage to Lower Grand River,-85.6104754725,42.947936454
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_710,CB1-2003,40110644,Direct Drainage to Lower Grand River,-85.6264211984,42.954499767
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_711,CB1-54,40094969,Direct Drainage to Lower Grand River,-85.6252665841,42.9519904436
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_712,CB2-594,40099221,Direct Drainage to Lower Grand River,-85.6008925917,42.9446275028
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_713,CB1-126,40124056,Direct Drainage to Lower Grand River,-85.6218411778,42.9526437613
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_714,CB5-1776,40091768,Plaster Creek,-85.6263144404,42.9435402002
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_715,CB5-1840,40106284,Plaster Creek,-85.6230087202,42.9470278391
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_716,CB3-936,40120561,Plaster Creek,-85.5981155931,42.936063491
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_717,CB5-1857,40087557,Plaster Creek,-85.6228769688,42.9442067505
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_718,CB3-1087,40098599,Plaster Creek,-85.6072906277,42.9342482115
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_719,CB3-1248,40111667,Plaster Creek,-85.6020796476,42.9307416208
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_720,CB3-1156,40118578,Direct Drainage to Lower Grand River,-85.5968583242,42.9359527929
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_721,CB5-1698,40114686,Plaster Creek,-85.6292061287,42.9410555983
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_722,CB4-1514,40103670,Plaster Creek,-85.6116754408,42.9390563049
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_723,CB3-938,40100001,Plaster Creek,-85.5990666719,42.9363443185
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_724,CB4-1486,40118197,Plaster Creek,-85.6151863411,42.9383778446
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_725,CB3-1085,40110742,Plaster Creek,-85.6077742944,42.9343252181
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_726,CB4-1453,40085692,Plaster Creek,-85.6123683332,42.9373148544
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_727,CB3-996,40084834,Plaster Creek,-85.6098622494,42.9366216555
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_728,CB5-1821,40109054,Plaster Creek,-85.6292176189,42.9463358635
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_729,CB3-1089,40118515,Plaster Creek,-85.6068615173,42.9338819734
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_730,CB2-747,40105514,Direct Drainage to Lower Grand River,-85.6072675331,42.9470168377
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_731,CB4-1350,40092111,Plaster Creek,-85.6117866825,42.9329226813
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_732,CB5-1721,40092134,Plaster Creek,-85.6235332604,42.9422208188
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_733,CB1-75,40118180,Plaster Creek,-85.6283023704,42.9488148003
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_734,CB3-1270,40120023,Plaster Creek,-85.6078009713,42.9314237743
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_735,CB3-1046,40115258,Plaster Creek,-85.601315035,42.9349724469
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_736,CB4-1396,40123090,Plaster Creek,-85.6152636307,42.9342207945
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_737,CB3-885,40115712,Plaster Creek,-85.6008895253,42.9398541106
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_738,CB3-1139,40113876,Direct Drainage to Lower Grand River,-85.5955071913,42.9369112525
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_739,CB1-77,40095920,Plaster Creek,-85.625030265,42.948321052
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_740,CB5-1818,40103730,Plaster Creek,-85.6291721023,42.947259089
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_741,CB3-894,40094055,Plaster Creek,-85.6093265158,42.9402285373
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_742,CB5-1743,40104236,Plaster Creek,-85.6288111734,42.9430857781
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_743,CB2-409,40086734,Direct Drainage to Lower Grand River,-85.598864105,42.9541268197
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_744,CB4-1432,40106924,Plaster Creek,-85.6121768195,42.9356666056
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_745,CB4-1563,40118210,Plaster Creek,-85.6190988872,42.9404213451
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_746,CB3-1064,40100934,Plaster Creek,-85.6067094675,42.935004997
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_747,CB4-1430,40099732,Plaster Creek,-85.6123362457,42.9357901196
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_748,CB3-1080,40118199,Plaster Creek,-85.6087056354,42.9341987151
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_749,CB3-824,40085207,Direct Drainage to Lower Grand River,-85.5916665121,42.9399975394
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_750,CB2-730,40118516,Direct Drainage to Lower Grand River,-85.6043297663,42.9468905357
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_751,CB4-1511,40118551,Plaster Creek,-85.6102685183,42.9389040476
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_752,CB3-1084,40091436,Plaster Creek,-85.60791422,42.9342536693
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_753,CB4-1631,40086286,Plaster Creek,-85.6176140413,42.941961057
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_754,CB2-368,40089936,Direct Drainage to Lower Grand River,-85.601971426,42.956756558
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_755,CB2-470,40100420,Direct Drainage to Lower Grand River,-85.5934493173,42.9507581691
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_756,CB5-1843,40099203,Plaster Creek,-85.6228999337,42.9463543879
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_757,CB2-671,40121772,Plaster Creek,-85.6081041116,42.9438645339
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_758,CB3-1111,40107046,Plaster Creek,-85.6016485462,42.9342686883
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_759,CB5-1954,40083069,Plaster Creek,-85.6221695753,42.9432045402
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_760,CB2-315,40093102,Direct Drainage to Lower Grand River,-85.6050443735,42.9578880465
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_761,CB5-1720,40092762,Plaster Creek,-85.6235317462,42.9421463018
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_762,CB2-709,40097237,Direct Drainage to Lower Grand River,-85.6098616672,42.9463264611
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_763,CB1-209,40114793,Direct Drainage to Lower Grand River,-85.6145804791,42.9528068308
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_764,CB3-1264,40083300,Plaster Creek,-85.6060562419,42.9313478861
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_765,CB5-1904,40114086,Plaster Creek,-85.6131924991,42.9475886013
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_766,CB4-1487,40097233,Plaster Creek,-85.6150753335,42.9383518038
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_767,CB4-1465,40095154,Plaster Creek,-85.6111942209,42.9371556867
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_768,CB4-1515,40101873,Plaster Creek,-85.6116816496,42.9389453977
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_769,CB4-2049,40096119,Plaster Creek,-85.6165084375,42.9362377693
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_770,CB2-659,40113413,Plaster Creek,-85.6066026449,42.9411290924
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_771,CB5-1808,40112504,Plaster Creek,-85.6275273609,42.946553321
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_772,CB4-1489,40097788,Plaster Creek,-85.6141621703,42.9380431707
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_773,CB1-47,40118958,Direct Drainage to Lower Grand River,-85.6271525625,42.9518056385
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_774,CB3-1116,40124698,Plaster Creek,-85.6002967764,42.9341409623
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_775,CB4-1562,40118209,Plaster Creek,-85.6192107791,42.9404059343
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_776,CB5-1816,40097776,Plaster Creek,-85.6275800921,42.9455430519
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_777,CB5-1800,40089210,Plaster Creek,-85.6261286736,42.9471956508
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_778,CB2-307,40100044,Direct Drainage to Lower Grand River,-85.6046973792,42.9589454398
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_779,CB2-330,40096177,Direct Drainage to Lower Grand River,-85.6032156339,42.9585390714
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_780,CB4-1488,40118196,Plaster Creek,-85.6141606187,42.9379662391
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_781,CB5-1924,40100968,Plaster Creek,-85.613783876,42.9446096392
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_782,CB1-151,40106784,Direct Drainage to Lower Grand River,-85.6193337743,42.9530350166
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_783,CB5-1977,40106537,Plaster Creek,-85.6187571056,42.9429465977
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_784,CB2-546,40093793,Direct Drainage to Lower Grand River,-85.5941926022,42.9422239289
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_785,CB1-7,40100841,Direct Drainage to Lower Grand River,-85.6271919364,42.9574432131
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_786,CB4-1632,40090326,Plaster Creek,-85.6176186989,42.9418976966
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_787,CB3-1127,40108338,Direct Drainage to Lower Grand River,-85.5942957592,42.9352189458
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_788,CB1-299,40115621,Plaster Creek,-85.6229825072,42.9479809262
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_789,CB2-353,40117936,Direct Drainage to Lower Grand River,-85.601266351,42.9578328927
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_790,CB4-1549,40112051,Plaster Creek,-85.6172171917,42.9390135746
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_791,CB1-217,40100899,Direct Drainage to Lower Grand River,-85.6173399961,42.9517647871
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_792,CB4-1587,40114234,Plaster Creek,-85.6164483746,42.9398162831
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_793,CB2-653,40083119,Plaster Creek,-85.6063545415,42.9410818866
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_794,CB4-1620,40100935,Plaster Creek,-85.6140174053,42.9410882995
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_795,CB2-660,40094163,Plaster Creek,-85.6066383408,42.9411862252
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_796,CB3-1186,40123106,Plaster Creek,-85.6035885278,42.9331943583
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_797,CB4-1647,40123114,Plaster Creek,-85.6150469457,42.9428691025
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_798,CB2-407,40112608,Direct Drainage to Lower Grand River,-85.5975958179,42.9545133881
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_799,CB2-451,40115473,Direct Drainage to Lower Grand River,-85.5959717545,42.9504469208
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_800,CB4-1459,40085515,Plaster Creek,-85.6116116892,42.937288089
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_801,CB2-342,40083575,Direct Drainage to Lower Grand River,-85.6011402261,42.9585108118
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_802,CB5-2041,40091568,Plaster Creek,-85.6191537828,42.9418927556
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_803,CB5-1945,40087663,Plaster Creek,-85.619999525,42.9445696798
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_804,CB5-1874,40105488,Plaster Creek,-85.6196829613,42.9472289879
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_805,CB2-447,40120313,Direct Drainage to Lower Grand River,-85.5974621427,42.9515231534
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_806,CB4-1333,40100621,Plaster Creek,-85.6130171482,42.9319937959
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_807,CB3-1167,40111702,Plaster Creek,-85.5993100875,42.9358445273
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_808,CB41299,40123098,Plaster Creek,-85.6140529166,42.9312994266
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_809,CB3-1213,40123102,Plaster Creek,-85.6037830845,42.9323678613
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_810,CB5-1726,40117905,Plaster Creek,-85.624816803,42.9425381826
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_811,CB3-1021,40099290,Plaster Creek,-85.6062941972,42.9357245841
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_812,CB1-9,40103569,Direct Drainage to Lower Grand River,-85.6270790714,42.9575057879
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_813,CB4-1659,40118190,Plaster Creek,-85.6144777582,42.9429170968
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_814,CB3-1255,40092679,Plaster Creek,-85.6047644111,42.9308232316
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_815,CB2-425,40117466,Direct Drainage to Lower Grand River,-85.5952485157,42.9522785147
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_816,CB1-94,40092590,Direct Drainage to Lower Grand River,-85.6219886285,42.9511436014
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_817,CB5-1858,40093465,Plaster Creek,-85.6227767832,42.9441808728
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_818,CB1-2010,40116269,Direct Drainage to Lower Grand River,-85.6237546049,42.9548094244
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_819,CB4-1655,40085099,Plaster Creek,-85.6151156658,42.9419822395
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_820,CB3-1265,40094404,Plaster Creek,-85.6068543632,42.9308035085
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_821,CB1-276,40108507,Plaster Creek,-85.6122115609,42.9473097779
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_822,CB2-372,40108327,Direct Drainage to Lower Grand River,-85.6015463976,42.9564531539
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_823,CB3-1290,40085517,Plaster Creek,-85.6096272525,42.9336962668
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_824,CB2-582,40110508,Direct Drainage to Lower Grand River,-85.5996477185,42.9436017739
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_825,CB2-681,40086549,Plaster Creek,-85.6079904399,42.9419398619
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_826,CB3-1165,40083175,Plaster Creek,-85.5979158894,42.9353279599
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_827,CB5-1773,40083984,Plaster Creek,-85.6267545773,42.9441434579
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_828,CB3-1211,40123099,Plaster Creek,-85.6038455287,42.9322185043
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_829,CB3-868,40092894,Plaster Creek,-85.5979899172,42.9399681273
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_830,CB2-678,40124333,Plaster Creek,-85.6086218751,42.9421088155
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_831,CB5-1703,40092731,Plaster Creek,-85.6289791553,42.9415962179
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_832,CB4-1359,40117022,Plaster Creek,-85.610630398,42.9329809606
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_833,CB5-1807,40082988,Plaster Creek,-85.6278656555,42.946441832
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_834,CB5-1916,40110735,Plaster Creek,-85.612090468,42.9471565113
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_835,CB5-1915,40096736,Plaster Creek,-85.6123396777,42.9472701856
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_836,CB3-1164,40088554,Plaster Creek,-85.5980710949,42.9353122415
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_837,CB3-997,40096770,Plaster Creek,-85.6087648132,42.9367794688
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_838,CB2-583,40084818,Direct Drainage to Lower Grand River,-85.5996060498,42.9436438797
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_839,CB1-69,40113315,Direct Drainage to Lower Grand River,-85.6292210099,42.9491021865
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_840,CB4-1633,40109278,Plaster Creek,-85.6176889138,42.9418456128
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_841,CB3-1042,40119420,Plaster Creek,-85.6002475406,42.9349063655
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_842,CB3-1004,40097111,Plaster Creek,-85.6062584415,42.9366036206
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_843,CB2-449,40091813,Direct Drainage to Lower Grand River,-85.5972540227,42.9516321386
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_844,CB1-76,40114320,Plaster Creek,-85.6283858284,42.9483663506
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_845,CB4-1344,40123084,Plaster Creek,-85.6117751987,42.9334617201
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_846,CB2-413,40104904,Direct Drainage to Lower Grand River,-85.5985982076,42.9540101123
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_847,CB5-1824,40091169,Plaster Creek,-85.6286981332,42.9453278076
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_848,CB3-1079,40100938,Plaster Creek,-85.6095286811,42.9342105912
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_849,CB3-1225,40109137,Plaster Creek,-85.6020283199,42.9316086123
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_850,CB3-1056,40113965,Plaster Creek,-85.6049892211,42.9350465441
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_851,CB2-374,40105873,Direct Drainage to Lower Grand River,-85.6013350141,42.956734107
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_852,CB4-1535,40087799,Plaster Creek,-85.6190680134,42.9380904495
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_853,CB3-1286,40110744,Plaster Creek,-85.6095873044,42.9328753766
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_854,CB1-206,40095735,Direct Drainage to Lower Grand River,-85.6151855241,42.9528909106
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_855,CB5-1994,40095748,Plaster Creek,-85.6122652012,42.9437856249
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_856,CB3-1282,40119230,Plaster Creek,-85.6090146711,42.932834798
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_857,CB3-998,40123933,Plaster Creek,-85.6087555963,42.9366831636
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_858,CB2-467,40086425,Direct Drainage to Lower Grand River,-85.5944650176,42.9509700133
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_859,CB5-1952,40102571,Plaster Creek,-85.6235343597,42.9432325812
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_860,CB1-146,40109761,Direct Drainage to Lower Grand River,-85.6195349787,42.9535241193
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_861,CB1-78,40100313,Plaster Creek,-85.6268848873,42.9483425529
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_862,CB5-1772,40109521,Plaster Creek,-85.62660216,42.9440767747
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_863,CB4-1442,40092902,Plaster Creek,-85.6123512031,42.9364327128
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_864,CB5-1827,40100736,Plaster Creek,-85.6285706246,42.9448637608
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_865,CB4-1383,40123082,Plaster Creek,-85.6143078014,42.9342695165
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_866,CB4-1310,40123093,Plaster Creek,-85.6171226195,42.931512479
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_867,CB4-1308,40123095,Plaster Creek,-85.6165583156,42.9314050798
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_868,CB4-1652,40121708,Plaster Creek,-85.6149346494,42.9419467527
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_869,CB3-1231,40262165,Plaster Creek,-85.6007255093,42.9323653254
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_870,CB4-1561,40088020,Plaster Creek,-85.6191930578,42.9403792893
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_871,CB3-1048,40087865,Plaster Creek,-85.602147772,42.9349904462
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_872,CB5-1972,40115845,Plaster Creek,-85.6198816775,42.9422710764
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_873,CB5-1871,40096022,Plaster Creek,-85.6205358434,42.9462697962
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_874,CB3-1212,40123096,Plaster Creek,-85.6038614206,42.9322979155
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_875,CB3-1185,40123105,Plaster Creek,-85.6035900897,42.9332724699
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_876,CB4-1410,40118491,Plaster Creek,-85.6165650734,42.9332884903
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_877,CB4-1375,40095402,Plaster Creek,-85.6120833963,42.9344267306
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_878,CB4-1611,40108761,Plaster Creek,-85.6116368039,42.9397773615
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_879,CB5-1706,40106288,Plaster Creek,-85.627003311,42.9410654684
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_880,CB5-1712,40107998,Plaster Creek,-85.6259837082,42.9416577171
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_881,CB2-672,40089402,Plaster Creek,-85.6085566161,42.9436489285
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_882,CB1-136,40093054,Direct Drainage to Lower Grand River,-85.6209326234,42.9533554639
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_883,CB4-1464,40119110,Plaster Creek,-85.6110494035,42.937168017
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_884,CB4-1696,40115933,Plaster Creek,-85.6141340596,42.9436516566
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_885,CB5-1851,40101137,Plaster Creek,-85.6235759834,42.9441466979
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_886,CB5-1792,40122181,Plaster Creek,-85.6249311943,42.9475717309
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_887,CB1-53,40105759,Direct Drainage to Lower Grand River,-85.6253059756,42.9520976674
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_888,CB4-1405,40123109,Plaster Creek,-85.6157174834,42.9333608514
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_889,CB2-457,40100940,Direct Drainage to Lower Grand River,-85.5952898622,42.9505217685
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_890,CB3-1161,40093895,Plaster Creek,-85.5979949584,42.9345044164
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_891,CB4-1588,40122496,Plaster Creek,-85.6165048815,42.9397402276
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_892,CB2-385,40106222,Direct Drainage to Lower Grand River,-85.599584048,42.9556888281
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_893,CB3-1202,40100466,Plaster Creek,-85.6068011332,42.9329340809
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_894,CB5-1957,40100094,Plaster Creek,-85.6221628968,42.9424909461
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_895,CB1-2,40091276,Direct Drainage to Lower Grand River,-85.6281642916,42.9579328169
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_896,CB4-1614,40113485,Plaster Creek,-85.6127853894,42.9391675105
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_897,CB4-1439,40099030,Plaster Creek,-85.6110353783,42.9365432512
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_898,CB1-13,40116634,Direct Drainage to Lower Grand River,-85.6282928209,42.9554480603
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_899,CB3-989,40086869,Plaster Creek,-85.6063813614,42.9376082729
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_900,CB1-279,40122381,Direct Drainage to Lower Grand River,-85.6114593512,42.9469823038
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_901,CB5-1715,40108014,Plaster Creek,-85.6246842418,42.9417174904
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_902,CB4-1531,40116824,Plaster Creek,-85.6163946948,42.9388842661
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_903,CB1-2019,40116442,Direct Drainage to Lower Grand River,-85.6247440651,42.9540625909
+15,City of Grand Rapids,City of East Grand Rapids,EGR_904, ,40120112,Plaster Creek,-85.6270273735,42.9409467072
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_905,CB3-1062,40120584,Plaster Creek,-85.6065707526,42.9351389626
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_906,CB2-405,40112824,Direct Drainage to Lower Grand River,-85.5984349567,42.9543444942
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_907,CB1-213,40104189,Direct Drainage to Lower Grand River,-85.6183274266,42.9520237655
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_908,CB1-216,40098771,Direct Drainage to Lower Grand River,-85.6175634575,42.9517178094
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_909,CB3-1175,40091598,Plaster Creek,-85.5990548697,42.9343159627
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_910,CB3-835,40092102,Direct Drainage to Lower Grand River,-85.5916707636,42.938950516
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_911,CB2-754,40105605,Direct Drainage to Lower Grand River,-85.6100701082,42.9470476052
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_912,CB3-842,40101233,Direct Drainage to Lower Grand River,-85.5940838671,42.9388452193
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_913,CB5-1931,40115219,Plaster Creek,-85.6166765244,42.944681223
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_914,CB5-1929,40115880,Plaster Creek,-85.6154468627,42.9446884827
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_915,CB1-289,40083532,Plaster Creek,-85.6182289992,42.9475849421
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_916,CB3-1183,40091019,Plaster Creek,-85.6016397619,42.9331758087
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_917,CB4-1624,40121496,Plaster Creek,-85.6157595243,42.9410600192
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_918,CB4-1601,40121410,Plaster Creek,-85.6119671551,42.940947043
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_919,CB5-1932,40089971,Plaster Creek,-85.6165485128,42.9445740573
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_920,CB3-1012,40118508,Plaster Creek,-85.6086975461,42.9358716906
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_921,CB5-1940,40119180,Plaster Creek,-85.6187177552,42.9445713426
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_922,CB5-1819,40123929,Plaster Creek,-85.6290379234,42.9472665496
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_923,CB4-1379,40084087,Plaster Creek,-85.6133789357,42.9343367626
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_924,CB1-301,40100927,Plaster Creek,-85.6137882917,42.9480223218
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_925,CB2-357,40113194,Direct Drainage to Lower Grand River,-85.6004057065,42.9581318673
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_926,CB5-1739,40083086,Plaster Creek,-85.6277487393,42.943120719
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_927,CB4-1585,40116567,Plaster Creek,-85.6166110771,42.9399198323
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_928,CB5-1875,40109460,Plaster Creek,-85.6195874646,42.947171741
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_929,CB1-97,40108207,Direct Drainage to Lower Grand River,-85.6229260938,42.9507593994
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_930,CB4-1457,40098606,Plaster Creek,-85.6135485866,42.9373132955
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_931,CB4-1687,40111444,Plaster Creek,-85.6118673835,42.9427854484
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_932,CB4-1555,40102695,Plaster Creek,-85.6187780748,42.9399360744
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_933,CB2-596,40098853,Direct Drainage to Lower Grand River,-85.6019192113,42.9450231908
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_934,CB1-205,40086867,Direct Drainage to Lower Grand River,-85.6153215181,42.9529486222
+15,City of Grand Rapids,City of East Grand Rapids,EGR_935, ,40097006,Plaster Creek,-85.6292078678,42.9409358477
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_936,CB3-1032,40094660,Plaster Creek,-85.6024649323,42.9358148793
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_937,CB2-593,40086796,Direct Drainage to Lower Grand River,-85.6009336775,42.9445580703
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_938,CB5-1889,40098589,Plaster Creek,-85.6168400272,42.9471854215
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_939,CB3-941,40105566,Plaster Creek,-85.5994723974,42.9366068854
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_940,CB5-1794,40112579,Plaster Creek,-85.6247444939,42.9475737807
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_941,CB4-1323,40118430,Plaster Creek,-85.618682066,42.9317737143
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_942,CB4-1559,40118232,Plaster Creek,-85.6189316172,42.9400832441
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_943,CB5-1938,40097982,Plaster Creek,-85.6180553348,42.9447068989
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_944,CB3-1276,40089537,Plaster Creek,-85.6092994926,42.9308034136
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_945,CB4-1362,40083537,Plaster Creek,-85.6097808387,42.933620753
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_946,CB2-313,40122348,Direct Drainage to Lower Grand River,-85.6043632619,42.9579999035
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_947,CB1-2023,40086012,Direct Drainage to Lower Grand River,-85.6160151428,42.9505843156
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_948,CB4-1495,40086388,Plaster Creek,-85.6124269635,42.9380618025
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_949,CB4-1389,40123083,Plaster Creek,-85.6140890262,42.9330160786
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_950,CB3-1232,40108353,Plaster Creek,-85.6008953715,42.9322404166
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_951,CB3-1234,40092817,Plaster Creek,-85.6007141916,42.9322847393
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_952,CB3-1227,40122891,Plaster Creek,-85.6033685654,42.9316014527
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_953,CB5-1926,40101098,Plaster Creek,-85.6144606747,42.9445827875
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_954,CB1-244,40087718,Direct Drainage to Lower Grand River,-85.6142625149,42.9503719802
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_955,CB5-1781,40091063,Plaster Creek,-85.6248785695,42.9442212067
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_956,CB3-1188,40106349,Plaster Creek,-85.6044990684,42.9332793104
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_957,CB4-1678,40120559,Plaster Creek,-85.6129567296,42.942743968
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_958,CB1-92,40106809,Direct Drainage to Lower Grand River,-85.6218139128,42.9511145326
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_959,CB3-1242,40090011,Plaster Creek,-85.6008914986,42.9307285212
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_960,CB2-524,40103922,Direct Drainage to Lower Grand River,-85.5928916277,42.9418016357
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_961,CB2-571,40087151,Plaster Creek,-85.5985665942,42.9433586564
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_962,CB3-924,40106838,Plaster Creek,-85.5974729464,42.9390148815
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_963,CB3-952,40112085,Plaster Creek,-85.6032672445,42.9376840961
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_964,CB3-906,40084110,Direct Drainage to Lower Grand River,-85.5939399225,42.937952072
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_965,CB5-1921,40087730,Direct Drainage to Lower Grand River,-85.6100976328,42.9447043623
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_966,CB2-410,40097616,Direct Drainage to Lower Grand River,-85.59888852,42.9540602842
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_967,CB5-1735,40114309,Plaster Creek,-85.6267255756,42.9426759361
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_968,CB5-1801,40119922,Plaster Creek,-85.6264002401,42.9470484835
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_969,CB5-1765,40100165,Plaster Creek,-85.6265070178,42.9443150605
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_970,CB3-983,40091025,Plaster Creek,-85.6063189628,42.9380655065
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_971,CB1-123,40095449,Direct Drainage to Lower Grand River,-85.6220933949,42.9528226123
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_972,CB5-1752,40111443,Plaster Creek,-85.6282727193,42.9440669294
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_973,CB5-1839,40111019,Plaster Creek,-85.6229093677,42.9470248119
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_974,CB2-354,40093736,Direct Drainage to Lower Grand River,-85.6011172608,42.957860157
+15,City of Grand Rapids,City of East Grand Rapids,EGR_975, ,40096136,Plaster Creek,-85.5994631047,42.93078092
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_976,CB1-219,40100431,Direct Drainage to Lower Grand River,-85.6165427943,42.9512332473
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_977,CB2-623,40213720,Direct Drainage to Lower Grand River,-85.6031113572,42.9433185876
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_978,CB4-1422,40084115,Plaster Creek,-85.6152349291,42.935687088
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_979,CB2-760,40118855,Direct Drainage to Lower Grand River,-85.6108178798,42.9479662717
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_980,CB4-1421,40089412,Plaster Creek,-85.6154164235,42.9356879487
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_981,CB3-829,40099825,Direct Drainage to Lower Grand River,-85.5927375736,42.939919593
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_982,CB1-240,40082925,Direct Drainage to Lower Grand River,-85.6141386737,42.9504931124
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_983,CB3-882,40084615,Plaster Creek,-85.600889943,42.9399648908
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_984,CB3-827,40084002,Direct Drainage to Lower Grand River,-85.5927389179,42.9400736156
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_985,CB2-625,40213721,Direct Drainage to Lower Grand River,-85.6030740532,42.9433799086
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_986,CB1-195,40221665,Direct Drainage to Lower Grand River,-85.6144507888,42.9550564767
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_987,CB1-201,40221664,Direct Drainage to Lower Grand River,-85.6142627275,42.9541983516
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_988,CB1-196,40221666,Direct Drainage to Lower Grand River,-85.6143487341,42.9550580799
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_989,CB1-200,40221660,Direct Drainage to Lower Grand River,-85.6143597791,42.9541955834
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_990,CB1-184,40221695,Direct Drainage to Lower Grand River,-85.6163118595,42.9579620425
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_991,CB1-186,40221694,Direct Drainage to Lower Grand River,-85.6162156565,42.9579738161
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_992,CB4-1598,40112860,Plaster Creek,-85.6137670939,42.9399073124
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_993,CB4-1597,40122911,Plaster Creek,-85.6136342912,42.9399328761
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_994,CB3-922,40111880,Plaster Creek,-85.5975709888,42.9388534452
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_995,CB3-826,40110190,Direct Drainage to Lower Grand River,-85.592641567,42.9400699731
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_996,CB3-834,40087800,Direct Drainage to Lower Grand River,-85.5926371852,42.9388679262
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_997,CB3-828,40086589,Direct Drainage to Lower Grand River,-85.5926385816,42.9399193538
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_998,CB3-833,40095959,Direct Drainage to Lower Grand River,-85.5927380218,42.9388720424
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_999,CB4-1423,40084146,Plaster Creek,-85.6152586511,42.935781734
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1000,CB1-223,40115028,Direct Drainage to Lower Grand River,-85.6162473715,42.9513249892
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1001,CB1-267,40117602,Direct Drainage to Lower Grand River,-85.6119448183,42.9497223946
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1002,CB2-536,40087883,Direct Drainage to Lower Grand River,-85.5912958998,42.9411532257
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1003,CB2-645,40120503,Plaster Creek,-85.6044925965,42.9411510326
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1004,CB2-647,40085593,Plaster Creek,-85.6043903206,42.9420073399
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1005,CB2-573,40093203,Direct Drainage to Lower Grand River,-85.5965422924,42.9433220805
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1006,CB3-914,40104556,Direct Drainage to Lower Grand River,-85.5957153648,42.9377868787
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1007,CB3-793,40091680,Plaster Creek,-85.6040488385,42.9409563162
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1008,CB2-763,40208305,Direct Drainage to Lower Grand River,-85.6100713144,42.9483087007
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1009,CB5-1908,40208392,Plaster Creek,-85.6133691287,42.9470164349
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1010,CB2-512,40091146,Direct Drainage to Lower Grand River,-85.5938942038,42.9435549178
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1011,CB3-779,40124346,Plaster Creek,-85.6090452151,42.9410035874
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1012,CB3-782,40112729,Plaster Creek,-85.6076563256,42.940958906
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1013,CB2-479,40095319,Direct Drainage to Lower Grand River,-85.5905864254,42.9416899768
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1014,CB2-489,40113919,Direct Drainage to Lower Grand River,-85.5920562993,42.9440619007
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1015,CB2-490,40116867,Direct Drainage to Lower Grand River,-85.5919784265,42.9440987822
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1016,CB1-18,40116565,Direct Drainage to Lower Grand River,-85.6272223787,42.9554162805
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1017,CB2-619,40124727,Direct Drainage to Lower Grand River,-85.6022122587,42.9429208545
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1018,CB2-485,40113300,Direct Drainage to Lower Grand River,-85.591638695,42.9435447328
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1019,CB2-499,40095734,Direct Drainage to Lower Grand River,-85.5943514343,42.9445375147
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1020,CB2-480,40084912,Direct Drainage to Lower Grand River,-85.590672877,42.9416610863
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1021,CB2-495,40096247,Direct Drainage to Lower Grand River,-85.5931409611,42.9445002641
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1022,CB2-586,40103512,Direct Drainage to Lower Grand River,-85.6000415622,42.9439800126
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1023,CB2-483,40095025,Direct Drainage to Lower Grand River,-85.5908791605,42.9422579952
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1024,CB2-589,40100770,Direct Drainage to Lower Grand River,-85.6001717074,42.9441006202
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1025,CB2-482,40100622,Direct Drainage to Lower Grand River,-85.5909522813,42.942219366
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1026,CB2-484,40097169,Direct Drainage to Lower Grand River,-85.591725763,42.9435225737
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1027,CB2-587,40095389,Direct Drainage to Lower Grand River,-85.6001437253,42.9439688314
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1028,CB2-494,40122093,Direct Drainage to Lower Grand River,-85.5930277881,42.9444885946
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1029,CB2-614,40104909,Direct Drainage to Lower Grand River,-85.602031218,42.9431967905
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1030,CB2-475,40109957,Direct Drainage to Lower Grand River,-85.5903751922,42.9411551019
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1031,CB2-476,40120766,Direct Drainage to Lower Grand River,-85.5904504221,42.9411960948
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1032,CB2-610,40225886,Direct Drainage to Lower Grand River,-85.6013128818,42.9437670893
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1033,CB2-611,40225887,Direct Drainage to Lower Grand River,-85.6012523054,42.9436968739
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1034,CB1-203,40229552,Direct Drainage to Lower Grand River,-85.6140840839,42.953294518
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1035,CB1-202,40229552,Direct Drainage to Lower Grand River,-85.6142431997,42.9532727772
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1036,CB2-688,40113236,Plaster Creek,-85.607696537,42.9411121322
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1037,CB2-444,40229688,Direct Drainage to Lower Grand River,-85.5913043314,42.956634868
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1038,CB2-443,40229689,Direct Drainage to Lower Grand River,-85.5914200509,42.9566676633
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1039,CB2-445,40229708,Direct Drainage to Lower Grand River,-85.5916208615,42.9558114872
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1040,CB1-189,40221669,Direct Drainage to Lower Grand River,-85.6153682865,42.9564643356
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1041,CB1-2044,40221677,Direct Drainage to Lower Grand River,-85.6159596248,42.9571879479
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1042,CB1-190,40221670,Direct Drainage to Lower Grand River,-85.6152821509,42.9564931588
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1043,CB1-188,40221678,Direct Drainage to Lower Grand River,-85.6158617444,42.9572025163
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1044,CB1-197,40221894,Direct Drainage to Lower Grand River,-85.6144570634,42.9543224947
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1045,CB1-193,40221899,Direct Drainage to Lower Grand River,-85.614733826,42.9557891591
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1046,CB1-198,40221895,Direct Drainage to Lower Grand River,-85.6144469348,42.9542559819
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1047,CB1-192,40221903,Direct Drainage to Lower Grand River,-85.6149832968,42.9559741734
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1048,CB1-194,40221900,Direct Drainage to Lower Grand River,-85.6146381278,42.9558211612
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1049,CB1-135,40113885,Direct Drainage to Lower Grand River,-85.620645463,42.9532685198
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1050,CB1-129,40096297,Direct Drainage to Lower Grand River,-85.620747555,42.9531807055
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1051,CB1-134,40105396,Direct Drainage to Lower Grand River,-85.62051605,42.953005364
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1052,CB2-691,40113713,Plaster Creek,-85.6090587782,42.9411060816
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1053,CB3-780,40103079,Plaster Creek,-85.609035937,42.9409558955
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1054,CB3-809,40097473,Direct Drainage to Lower Grand River,-85.5951132221,42.9410385849
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1055,CB2-551,40105048,Direct Drainage to Lower Grand River,-85.5951160314,42.9411418286
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1056,CB2-540,40106702,Direct Drainage to Lower Grand River,-85.5940885007,42.9411917564
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1057,CB2-541,40089535,Direct Drainage to Lower Grand River,-85.5941910786,42.9411469592
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1058,CB3-810,40099359,Direct Drainage to Lower Grand River,-85.5951123093,42.9409887474
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1059,CB2-528,40088719,Direct Drainage to Lower Grand River,-85.592879529,42.9411945465
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1060,CB3-812,40124751,Direct Drainage to Lower Grand River,-85.5940837097,42.9409572654
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1061,CB2-533,40105463,Direct Drainage to Lower Grand River,-85.5919013267,42.9411501017
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1062,CB2-534,40120385,Direct Drainage to Lower Grand River,-85.591906834,42.9411008542
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1063,CB3-918,40112649,Direct Drainage to Lower Grand River,-85.5966405054,42.9379291911
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1064,CB3-910,40097072,Direct Drainage to Lower Grand River,-85.5944513542,42.9377711937
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1065,CB3-911,40121115,Direct Drainage to Lower Grand River,-85.5945664783,42.937828016
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1066,CB3-909,40119288,Direct Drainage to Lower Grand River,-85.5943318902,42.9377718597
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1067,CB3-920,40103154,Direct Drainage to Lower Grand River,-85.5969935477,42.937854176
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1068,CB3-917,40086455,Direct Drainage to Lower Grand River,-85.5966308138,42.9377747331
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1069,CB2-613,40208298,Direct Drainage to Lower Grand River,-85.6021130122,42.9432482291
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1070,CB2-548,40085351,Direct Drainage to Lower Grand River,-85.5951089977,42.9410951715
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1071,CB2-530,40100721,Direct Drainage to Lower Grand River,-85.5931001592,42.9411493359
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1072,CB3-815,40086579,Direct Drainage to Lower Grand River,-85.5929089614,42.9409947982
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1073,CB3-811,40111317,Direct Drainage to Lower Grand River,-85.5941884878,42.9409945382
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1074,CB3-818,40097018,Direct Drainage to Lower Grand River,-85.5919095152,42.9410469409
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1075,CB3-814,40096927,Direct Drainage to Lower Grand River,-85.5931490767,42.9410715503
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1076,CB3-821,40100543,Direct Drainage to Lower Grand River,-85.5912886198,42.9409982409
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1077,CB3-816,40097959,Direct Drainage to Lower Grand River,-85.5919066409,42.9409961177
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1078,CB3-813,40117979,Direct Drainage to Lower Grand River,-85.593928159,42.9409623464
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1079,CB3-820,40087272,Direct Drainage to Lower Grand River,-85.5912943656,42.9410482651
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1080,CB2-542,40096842,Direct Drainage to Lower Grand River,-85.5942261135,42.9410730351
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1081,CB2-537,40107331,Direct Drainage to Lower Grand River,-85.591294245,42.9411024237
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1082,CB2-477,40113262,Direct Drainage to Lower Grand River,-85.5905877543,42.941196988
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1083,CB3-822,40120443,Direct Drainage to Lower Grand River,-85.5904566648,42.9410374186
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1084,CB2-529,40104150,Direct Drainage to Lower Grand River,-85.5930023974,42.9411920533
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1085,CB3-806,40223499,Plaster Creek,-85.598489734,42.9410564135
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1086,CB3-781,40087115,Plaster Creek,-85.607657436,42.94103694
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1087,CB2-686,40098433,Plaster Creek,-85.6079297177,42.9411528471
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1088,CB2-565,40109880,Plaster Creek,-85.5996748992,42.9431518103
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1089,CB2-508,40090925,Direct Drainage to Lower Grand River,-85.594905648,42.9437983801
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1090,CB2-690,40116786,Plaster Creek,-85.6090501674,42.9410606945
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1091,CB2-687,40107192,Plaster Creek,-85.6078071223,42.941154151
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1092,CB1-266,40093060,Direct Drainage to Lower Grand River,-85.6121274143,42.9517342889
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1093,CB1-89,40230205,Direct Drainage to Lower Grand River,-85.6206692821,42.9506672832
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1094,CB1-234,40124368,Direct Drainage to Lower Grand River,-85.6152056275,42.9507930155
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1095,CB1-230,40112036,Direct Drainage to Lower Grand River,-85.6154949788,42.9507898458
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1096,CB1-88,40230207,Direct Drainage to Lower Grand River,-85.6205611334,42.9506112955
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1097,CB1-86,40230208,Direct Drainage to Lower Grand River,-85.6205701639,42.9504569534
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1098,CB1-85,40230209,Direct Drainage to Lower Grand River,-85.6206674405,42.9504564842
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1099,CB1-79,40230210,Plaster Creek,-85.6208547759,42.9493414028
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1100,CB1-80,40230211,Plaster Creek,-85.6205619396,42.9493731798
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1101,CB1-273,40108502,Direct Drainage to Lower Grand River,-85.6116494096,42.9483122883
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1102,CB2-768,40094826,Direct Drainage to Lower Grand River,-85.6115120835,42.9483706372
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1103,CB2-769,40121416,Direct Drainage to Lower Grand River,-85.6116299891,42.9486259078
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1104,CB1-220,40102251,Direct Drainage to Lower Grand River,-85.6164131695,42.9512189484
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1105,CB1-245,40102848,Direct Drainage to Lower Grand River,-85.614186109,42.9504043638
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1106,CB1-242,40104486,Direct Drainage to Lower Grand River,-85.6143989892,42.9503603099
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1107,CB1-233,40110285,Direct Drainage to Lower Grand River,-85.6153847176,42.9507972577
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1108,CB1-2027,40123453,Direct Drainage to Lower Grand River,-85.6158175798,42.95034333
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1109,CB1-268,40114594,Direct Drainage to Lower Grand River,-85.6119259693,42.949586609
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1110,CB2-755,40082913,Direct Drainage to Lower Grand River,-85.6107042376,42.9477459498
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1111,CB1-269,40230588,Direct Drainage to Lower Grand River,-85.6121510367,42.9495446805
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1112,CB1-246,40230649,Direct Drainage to Lower Grand River,-85.6137184382,42.9501467825
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1113,CB1-247,40230650,Direct Drainage to Lower Grand River,-85.6137185413,42.9500312475
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1114,CB1-250,40230655,Direct Drainage to Lower Grand River,-85.6130289725,42.9500482783
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1115,CB1-2028,40231011,Direct Drainage to Lower Grand River,-85.6157732727,42.9502101122
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1116,CB1-235,40231072,Direct Drainage to Lower Grand River,-85.6151308507,42.9508828514
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1117,CB1-228,40231073,Direct Drainage to Lower Grand River,-85.6154261561,42.951134172
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1118,CB1-229,40231073,Direct Drainage to Lower Grand River,-85.615397675,42.9510004865
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1119,CB1-90,40230365,Direct Drainage to Lower Grand River,-85.6205673619,42.9507788024
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1120,CB1-265,40097105,Direct Drainage to Lower Grand River,-85.6121375019,42.9518717133
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1121,CB2-624,40213719,Direct Drainage to Lower Grand River,-85.6030732053,42.943379302
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1122,CB1-107,40232565,Direct Drainage to Lower Grand River,-85.6207995603,42.9527601878
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1123,CB2-2035,40103719,Direct Drainage to Lower Grand River,-85.6055992364,42.9456535361
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1124,CB3-797,40111832,Plaster Creek,-85.6032142002,42.9409661426
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1125,CB3-1026,40089325,Plaster Creek,-85.6035063528,42.9357989117
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1126,CB2-632,40111870,Plaster Creek,-85.6043159601,42.9429000135
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1127,CB2-510,40107415,Direct Drainage to Lower Grand River,-85.594963396,42.9438609007
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1128,CB2-574,40096812,Direct Drainage to Lower Grand River,-85.5965700997,42.9432620986
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1129,CB2-517,40123984,Direct Drainage to Lower Grand River,-85.5949015489,42.9429041129
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1130,CB2-509,40092290,Direct Drainage to Lower Grand River,-85.5948272928,42.9438185136
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1131,CB2-648,40120053,Plaster Creek,-85.604480888,42.9420092996
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1132,CB3-923,40111865,Plaster Creek,-85.5974070853,42.9389110269
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1133,CB3-926,40085453,Plaster Creek,-85.597986871,42.9378375199
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1134,CB2-513,40107441,Direct Drainage to Lower Grand River,-85.5939390179,42.9434861872
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1135,CB3-1024,40101962,Plaster Creek,-85.6048133065,42.9357126773
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1136,CB3-1025,40090793,Plaster Creek,-85.6046449478,42.9357804165
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1137,CB2-729,40107798,Direct Drainage to Lower Grand River,-85.6051081838,42.9455687338
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1138,CB2-558,40118979,Plaster Creek,-85.6006240496,42.9423740132
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1139,CB3-916,40101836,Direct Drainage to Lower Grand River,-85.5964977107,42.9377952686
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1140,CB2-631,40098271,Plaster Creek,-85.6044489954,42.9429461203
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1141,CB3-913,40108676,Direct Drainage to Lower Grand River,-85.5955866841,42.9377884578
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1142,CB3-954,40112076,Plaster Creek,-85.6031584351,42.9377539157
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1143,CB2-576,40225907,Direct Drainage to Lower Grand River,-85.5954671207,42.9447743773
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1144,CB2-577,40225908,Direct Drainage to Lower Grand River,-85.5954517587,42.9448579168
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1145,CB2-579,40225910,Direct Drainage to Lower Grand River,-85.5967075521,42.9450677694
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1146,CB2-578,40225911,Direct Drainage to Lower Grand River,-85.5967149056,42.9451522572
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1147,CB2-580,40225913,Direct Drainage to Lower Grand River,-85.5982956092,42.944889561
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1148,CB2-581,40225914,Direct Drainage to Lower Grand River,-85.5983476602,42.9449633238
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1149,CB2-559,40092449,Plaster Creek,-85.6007107492,42.9424123718
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1150,CB3-1029,40122625,Plaster Creek,-85.6033404833,42.9357122965
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1151,CB2-527,40118614,Direct Drainage to Lower Grand River,-85.5929958243,42.9417695092
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1152,CB3-907,40098182,Direct Drainage to Lower Grand River,-85.5940608016,42.9379536466
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1153,CB2-518,40120668,Direct Drainage to Lower Grand River,-85.5949798897,42.9428574549
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1154,CB3-796,40124679,Plaster Creek,-85.603763817,42.941039666
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1155,CB3-956,40094485,Plaster Creek,-85.6031477454,42.9378351626
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1156,CB2-561,40122172,Plaster Creek,-85.6001504436,42.9429530612
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1157,CB3-795,40095974,Plaster Creek,-85.6038054528,42.9409643967
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1158,CB2-726,40120942,Direct Drainage to Lower Grand River,-85.6054992849,42.9455457256
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1159,CB2-521,40101525,Direct Drainage to Lower Grand River,-85.5928939442,42.942519144
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1160,CB2-570,40089831,Plaster Creek,-85.5985599891,42.9432954506
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1161,CB2-562,40120356,Plaster Creek,-85.6000906639,42.9429200004
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1162,CB2-629,40118476,Direct Drainage to Lower Grand River,-85.6041300846,42.9435944987
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1163,CB3-1020,40089054,Plaster Creek,-85.6063129685,42.9358021046
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1164,CB2-643,40085160,Plaster Creek,-85.6043789945,42.9411546009
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1165,CB3-1027,40105917,Plaster Creek,-85.603480402,42.9356883281
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1166,CB2-520,40113917,Direct Drainage to Lower Grand River,-85.5929986179,42.9425199654
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1167,CB3-1028,40106566,Plaster Creek,-85.6033098031,42.9358008857
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1168,CB2-728,40092878,Direct Drainage to Lower Grand River,-85.6051998331,42.9455866853
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1169,CB3-792,40110196,Plaster Creek,-85.604313933,42.9410383238
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1170,CB3-928,40088864,Plaster Creek,-85.598320692,42.9377976602
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1171,CB3-953,40124497,Plaster Creek,-85.6033708398,42.9376940733
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1172,CB2-511,40099095,Direct Drainage to Lower Grand River,-85.5947529209,42.9438904033
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1173,CB3-794,40087892,Plaster Creek,-85.603942595,42.9409609246
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1174,CB3-921,40228325,Direct Drainage to Lower Grand River,-85.5970198773,42.9380831601
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1175,CB2-446,40229709,Direct Drainage to Lower Grand River,-85.5918687107,42.9556516165
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1176,CB2-421,40233751,Direct Drainage to Lower Grand River,-85.5972349205,42.9531607889
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1177,CB1-175,40261233,Direct Drainage to Lower Grand River,-85.6168750477,42.9527226853
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1178,CB1-28,40261247,Direct Drainage to Lower Grand River,-85.6290352822,42.9540091252
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1179,CB1-37,40261257,Direct Drainage to Lower Grand River,-85.6280274727,42.9534219362
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1180,CB2-710,40261300,Direct Drainage to Lower Grand River,-85.6090760638,42.9458492997
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1181,CB2-712,40261301,Direct Drainage to Lower Grand River,-85.6090041173,42.9459400065
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1182,CB2-714,40261304,Direct Drainage to Lower Grand River,-85.6082053312,42.9454811662
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1183,CB2-715,40261307,Direct Drainage to Lower Grand River,-85.6081527897,42.9455476862
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1184,CB2-718,40261308,Direct Drainage to Lower Grand River,-85.6064000529,42.9447950005
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1185,CB2-719,40261309,Direct Drainage to Lower Grand River,-85.6063956754,42.9446979758
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1186,CB2-717,40261310,Direct Drainage to Lower Grand River,-85.6066141463,42.9447992342
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1187,CB2-720,40261313,Direct Drainage to Lower Grand River,-85.6055939483,42.9444539215
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1188,CB2-721,40261314,Direct Drainage to Lower Grand River,-85.6056468439,42.9443838897
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1189,CB2-722,40261317,Direct Drainage to Lower Grand River,-85.6055152254,42.94416675
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1190,CB2-725,40261318,Direct Drainage to Lower Grand River,-85.6047841558,42.9441096335
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1191,CB2-724,40261320,Direct Drainage to Lower Grand River,-85.60483757,42.9440386496
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1192,CB2-628,40261322,Direct Drainage to Lower Grand River,-85.604007397,42.9437773373
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1193,CB2-2051,40262511,Direct Drainage to Lower Grand River,-85.6029659696,42.9457029564
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1194,CB1-302,40265173,Plaster Creek,-85.6249437188,42.9483826294
+15,City of East Grand Rapids,City of East Grand Rapids,EGR_1195,CB1-303,40265177,Plaster Creek,-85.6249508156,42.9497101697
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1196,CB4-1524,40097738,Plaster Creek,-85.6150134703,42.9386455078
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1197,CB3-804,40105370,Plaster Creek,-85.5999735205,42.9409739328
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1198,CB3-875,40105371,Plaster Creek,-85.5984954365,42.9405312436
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1199,CB4-1525,40124370,Plaster Creek,-85.6150322749,42.9387574051
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1200,CB3-978,40124521,Plaster Creek,-85.6099508468,42.9377907275
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1201,CB4-1548,40091409,Plaster Creek,-85.6170033982,42.9390690911
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1202,CB2-554,40116625,Plaster Creek,-85.5985892203,42.9411291912
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1203,CB4-1504,40124520,Plaster Creek,-85.6102123692,42.9380544648
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1204,CB3-874,40097225,Plaster Creek,-85.5983900275,42.940547964
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1205,CB4-1551,40101315,Plaster Creek,-85.617159122,42.9391175565
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1206,CB4-1526,40122391,Plaster Creek,-85.6150738488,42.9388186152
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1207,cb2-557,40116809,Plaster Creek,-85.5999610063,42.9410694021
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1208,CB3-979,40097808,Plaster Creek,-85.6098758939,42.9377019414
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1209,CB3-1097,40097231,Plaster Creek,-85.6065786035,42.9343996349
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1210,CB4-1527,40107588,Plaster Creek,-85.6151846337,42.9388150755
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1211,CB2-555,40096738,Plaster Creek,-85.5987279996,42.9411694388
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1212,CB3-977,40110767,Plaster Creek,-85.6100020128,42.9378555949
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1213,CB3-1094,40097786,Plaster Creek,-85.606843857,42.9343945138
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1214,CB2-556,40118853,Plaster Creek,-85.5988738254,42.9412212118
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1215,CB3-807,40097226,Plaster Creek,-85.5985380153,42.9409636694
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1216,CB3-957,40232851,Plaster Creek,-85.6031714337,42.937842241
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1217,CB3-955,40232852,Plaster Creek,-85.603185565,42.9377555507
+16,City of East Grand Rapids,City of East Grand Rapids,EGR_1218,CB5-1876,40233374,Plaster Creek,-85.6192537362,42.9471528144
+18,City of East Grand Rapids,City of East Grand Rapids,EGR_1219,CB2-777,40225262,Direct Drainage to Lower Grand River,-85.6133015617,42.9542485845
+18,City of East Grand Rapids,City of East Grand Rapids,EGR_1220,CB2-778,40225284,Direct Drainage to Lower Grand River,-85.6129786471,42.9548968224
+18,City of East Grand Rapids,City of East Grand Rapids,EGR_1221,CB1-87,40230215,Direct Drainage to Lower Grand River,-85.6204527822,42.9505454255
+21,City of East Grand Rapids,City of East Grand Rapids,EGR_1222,CB1-4,40233377,Direct Drainage to Lower Grand River,-85.6277183306,42.9578811005
+21,City of East Grand Rapids,City of East Grand Rapids,EGR_1223,CB1-5,40233378,Direct Drainage to Lower Grand River,-85.6277147976,42.9577104925
