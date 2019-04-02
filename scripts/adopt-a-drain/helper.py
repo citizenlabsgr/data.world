@@ -1,4 +1,5 @@
 import os
+import datetime
 import pandas as pd
 from lib.p3_ProcessLogger import ProcessLogger
 def exportMaintainerConfig(gh_file_name, gh_file_type, dw_title, dw_desc, dw_table_name):
@@ -101,4 +102,25 @@ def open_raw_data(local_config):
 
 def get_temp_password():
     return 'aA1!aaaa'
+
+
+def get_daystamp():
+    '''
+       get current day
+       format a yyyy-mm-dd
+    '''
+    
+    dt = datetime.datetime.now()
+    m = ''
+    dm=''
+    if dt.month < 10:
+        m = '0{}'.format(dt.month)
+    if dt.day < 10:
+        d = '0{}'.format(dt.day)
+
+    rc = '{}-{}-{}'.format(dt.year, m, d )
+    return rc 
+
+
+    
 
