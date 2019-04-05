@@ -67,6 +67,16 @@ def get_clean_data_folder():
         os.makedirs(rc)
     return rc
 
+def get_test_version_folder():
+    '''
+    returns path to test subfolder of clean data from script path
+    '''
+    scripts_path = os.getcwd()
+    rc = get_repo_folder() + '/test-data/' + get_app_name() 
+    if not os.path.exists(rc):
+        os.makedirs(rc)
+    return rc
+
 def get_clean_file(raw_file_name):
     rc = raw_file_name.replace(get_raw_data_folder(), get_clean_data_folder())
     return rc
