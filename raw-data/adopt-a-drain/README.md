@@ -18,7 +18,8 @@ At this point, you have a spreadsheet with drain data.  Use the check sheet belo
 
 |    | Checks | Detail |
 | :- | :- | :- |
-| * | Data Format | Convert spreadsheet (Excel, Numbers, ...) to a CSV-File (if needed)  |
+| * | Data Format | Loads spreadsheets (Excel, CSV) |
+| * | Data Format | Convert Mac Numbers spreadsheets to a CSV-File before loading  |
 | * | File Name | e.g., **catch basins 2018.08.csv** or **gr catch basins 2018.08.29.csv** |
 | * | Columns | SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
 | * |  | Try to keep column names constant. Don't change them from upload to upload ... bad, bad, very bad |
@@ -30,13 +31,13 @@ Raw data needs to be uploaded to GitHub. Use the check sheet below to get yourse
 Warning: Read all the instructions before you attempt an upload.
 
 ### GitHub - Check Sheet
- Finding links and buttons in GitHub can be challenging.  You need to do a little reconnaissance before you upload your CSV-File.
+ Finding links and buttons in GitHub can be challenging.  You need to do a little reconnaissance before you upload your XLS-file or CSV-File.
 
 |    | GitHub Checks |
 | :- | :- |
 | * |  **Confirm** you are in the **data.world/raw-data/adopt-a-drain** GitHub folder   |
 | * |  **Find** the "**upload files**" button  |
-| * |  **Find** the your **CSV-File** file in that easy to find folder on your computer  |
+| * |  **Find** the your **XLS-File** or **CSV-File** file in that easy to find folder on your computer  |
 
 ### Upload Dataset
 Read all before you start pressing buttons
@@ -63,7 +64,7 @@ Notification occurs during what GitHub calls a **pull request.**  Is what it is.
 
 |    | Notification Checks |
 | :- | :- |
-| * | You should be on the **Open a pull request** page after uploading **CSV-File.**  |
+| * | You should be on the **Open a pull request** page after uploading **XLS-File** or **CSV-File.**  |
 | * |  **Find** the "**Assignees**" link  |
 | * |  **Find** the "**Create pull request**" button |
 
