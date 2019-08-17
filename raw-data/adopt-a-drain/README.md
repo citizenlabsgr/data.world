@@ -23,7 +23,7 @@ At this point, you have a spreadsheet with drain data.  Use the check sheet belo
 | * | File Name | e.g., **catch basins 2018.08.csv** or **gr catch basins 2018.08.29.csv** |
 | * | Columns | SUBTYPE, DRAIN_JURISDICTION, DRAIN_OWNER, Soure_ID, LOCAL_ID, FACILITYID, Subwatershed, POINT_X, POINT_Y  |
 | * |  | Try to keep column names constant. Don't change them from upload to upload ... bad, bad, very bad |
-| * | Store | Put **CSV-File** somewhere easy to find on your computer. |
+| * | Store | Put **XLS-File** or **CSV-File** somewhere easy to find on your computer. |
 
 
 ## Upload Dataset
