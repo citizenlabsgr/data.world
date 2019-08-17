@@ -123,8 +123,8 @@ def get_daystamp():
     '''
     
     dt = datetime.datetime.now()
-    m = ''
-    dm=''
+    m = '{}'.format(dt.month)
+    d = '0{}'.format(dt.day)
     if dt.month < 10:
         m = '0{}'.format(dt.month)
     if dt.day < 10:
