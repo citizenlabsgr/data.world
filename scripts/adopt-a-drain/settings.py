@@ -1,3 +1,11 @@
+print('loading settings')
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+assert os.getenv('DW_AUTH_TOKEN')!=None
+print('settings loaded')
+
 '''
 import os
 
