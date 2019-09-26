@@ -15,6 +15,12 @@ def exportMaintainerConfig(gh_file_name, gh_file_type, dw_title, dw_desc, dw_tab
     mantainer_config_file.kill()
     mantainer_config_file.log(maintainer_config) 
 
+def get_file_name(path_file):
+    #scripts_path = os.getcwd()
+    rc = ''
+    pth = path_file.split('/')
+    rc = pth[len(pth) - 1]
+    return rc
 
 def get_app_name():
     '''

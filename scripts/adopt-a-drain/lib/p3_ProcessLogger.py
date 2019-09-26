@@ -6,6 +6,7 @@ class ProcessLogger:
     then prints them
     '''
     def __init__(self,log_file_name=None):
+
         if log_file_name != None:
             self.file_name = log_file_name
         else:
