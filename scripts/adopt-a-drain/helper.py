@@ -2,6 +2,7 @@ import os
 import datetime
 import pandas as pd
 from lib.p3_ProcessLogger import ProcessLogger
+
 def exportMaintainerConfig(gh_file_name, gh_file_type, dw_title, dw_desc, dw_table_name):
     '''
     write variables to file, used by maintainer in 02.Prod.Process.ipynb 
