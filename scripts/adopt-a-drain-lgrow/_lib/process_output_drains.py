@@ -26,7 +26,6 @@ class ProcessOutputDrains(ProcessOutputs):
             if not nm in self.expected_output_columns_list:
                 raise Exception('{} is unexpected output for clean data'.format(nm))
 
-
     def toCSV(self):
         output_name = '{}/{}'.format(Helper().get_clean_data_folder(), self.output_file_name)
 
@@ -35,7 +34,7 @@ class ProcessOutputDrains(ProcessOutputs):
         return self
 
     def toCSVSmall(self):
-        output_name = '{}/{}.csv'.format(Helper().get_clean_data_folder(), self.output_file_name.replace('.csv','-small') )
+        output_name = '{}/small/{}'.format(Helper().get_clean_data_folder(), self.output_file_name )
         df_small = self.get_dataframe().query("dr_jurisdiction == 'Village of Caledonia'").head(5000)
         df_small.to_csv(output_name, index=False)
         return self
