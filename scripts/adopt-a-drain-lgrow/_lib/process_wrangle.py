@@ -216,7 +216,8 @@ class ProcessWrangle(Process):
         ProcessOutputDrains(self.get_dataframe(), self.expected_output_columns_list).run()
         '''
 def main():
-    dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    # dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    dw_source = 'citizenlabs/lgrow-storm-drains-current'
     loadDataWorld = ProcessLoadDataworldPatch20190927(dw_source).run()
     wrangle = ProcessWrangle(loadDataWorld).run()
 

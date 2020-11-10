@@ -9,7 +9,7 @@ class ProcessLoadDataworldPatch20190927(ProcessLoadDataWorld):
 
     * Unsure what caused the missing dr_jurisdictions
     * This patch was run only once on 09-27-2019
-    * This patch affects the dataworld file citizenlabs/grb-storm-drains-2019-04-03
+    * This patch affects the dataworld file citizenlabs/lgrow-storm-drains-current
     * A record of this patch can be found in Patch20190927.ran
     * Patch will not run if ProcessLoadDataworldPatch20190927.ran is found in history/Patch20190927.ran
 
@@ -57,7 +57,8 @@ def main():
     from dotenv import load_dotenv
     from util import Util
     load_dotenv()
-    dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    # dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    dw_source = 'citizenlabs/lgrow-storm-drains-current'
 
     load = ProcessLoadDataworldPatch20190927(dw_source).run()
 

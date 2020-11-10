@@ -33,7 +33,9 @@ class ProcessLoadDataWorld(ProcessLoad):
         # download to ~/.dw/cache/{}/latest/data/grb_drains.csv
         print('self.import_file_name: ' + self.import_file_name)
         self.dataframe = dw.load_dataset(self.import_file_name, auto_update=True)
-        fstr = '~/.dw/cache/{}/latest/data/grb_drains.csv'.format('citizenlabs/grb-storm-drains-2019-04-03')
+        #fstr = '~/.dw/cache/{}/latest/data/grb_drains.csv'.format('citizenlabs/grb-storm-drains-2019-04-03')
+        fstr = '~/.dw/cache/{}/latest/data/lgrow_current.csv'.format('citizenlabs/lgrow-storm-drains-current')
+
         #
         self.dataframe = pd.read_csv(fstr)
 
@@ -52,7 +54,8 @@ def main():
     from dotenv import load_dotenv
     from util import Util
     load_dotenv()
-    dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    #dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    dw_source = 'citizenlabs/lgrow-storm-drains-current'
 
     #import_file_name = '_test_.csv'
     #sampleCSV = SampleCSV(import_file_name).run()
