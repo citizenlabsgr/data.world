@@ -34,6 +34,12 @@ class ProcessOutputDrains(ProcessOutputs):
         #self.get_dataframe().to_csv(local_config["local_clean"], index=False)
         return self
 
+    def toCSVSmall(self):
+        output_name = '{}/{}.csv'.format(Helper().get_clean_data_folder(), self.output_file_name.replace('.csv','-small') )
+        df_small = self.get_dataframe().query("dr_jurisdiction == 'Village of Caledonia'").head(5000)
+        df_small.to_csv(output_name, index=False)
+        return self
+
     def process(self):
         helper = Helper()
         print('* ProcessOutputs')
@@ -41,7 +47,7 @@ class ProcessOutputDrains(ProcessOutputs):
         print('output: ', self.output_file_name)
 
         self.toCSV() # write data to disk
-
+        self.toCSVSmall()
         # print(' - output folder: ','data.world/clean-data/adopt-a-drain/')
         #print(' - output file: ' ,'/data.world/clean-data/adopt-a-drain/', metadata['output_file_name'] )
         #print(' - data.world file: ' ,'/data.world/clean-data/adopt-a-drain/', metadata['copy_file_name'] )
@@ -49,7 +55,9 @@ class ProcessOutputDrains(ProcessOutputs):
         for colname in self.get_dataframe().columns.values:
             print(' -- column: ', colname )
 
-        # OUTPUT_FILE_NAME
+        # OUTPUT Small file
+
+
         '''
         ifn = '{}/{}'.format(helper.get_clean_data_folder(), metadata['output_file_name'])
         ofn = '{}/{}'.format(helper.get_clean_data_folder(), metadata['copy_file_name'])
@@ -72,7 +80,10 @@ def main():
     #output_folder = '{}/myfilename.csv'.format(Helper().get_clean_data_folder())
     #print('output folder: ', Helper().get_clean_data_folder())
 
-    dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    #dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    #dw_source = 'citizenlabs/lgrow-storm-drains-current'
+    dw_source = 'citizenlabs/lgrow-storm-drains-current'
+
     loadDataWorld = ProcessLoadDataworldPatch20190927(dw_source).run()
     wrangle = ProcessWrangle(loadDataWorld).run()
     output = ProcessOutputDrains(wrangle,'current.csv').run()

@@ -137,7 +137,7 @@ from config_region_map import ConfigRegionMap
 '''
 cell_log = Process Logger()
 cell_log.clear()
-table_name = 'grb_drains'
+table_name = 'lgrow_current'
 '''
 
 '''
@@ -187,7 +187,9 @@ def main():
     from process_wrangle import ProcessWrangle
     from process_output_drains import ProcessOutputDrains
 
-    dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    #dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    dw_source = 'citizenlabs/lgrow-storm-drains-current'
+
     output_name =  Helper().get_current_name()
     version_name = Helper().get_version_name()
 
