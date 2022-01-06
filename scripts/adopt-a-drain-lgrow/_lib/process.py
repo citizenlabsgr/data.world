@@ -5,13 +5,20 @@ import os
 
 class Process():
     def __init__(self):
+        #self.filename = 'process.unknown.file'
         self.summary = {}  # stash process results, counts, here
         #self.logger = Process Logger('./{}/{}.ran'.format(self.get_history_folder(), self.getClassName()))
         self.logger = None
         #self.logger = Process Logger('./history/{}.ran'.format(self.getClassName()))
+        self.summary_no='00'
+        self.processPath = []
+
 
     def getClassName(self):
         return self.__class__.__name__
+
+    def get_class_key(self):
+        return '{}.{}'.format(self.getSummaryNo(), self.getClassName().replace('Process',''))
 
     def getLogger(self):
         if self.logger is None:
@@ -31,6 +38,13 @@ class Process():
         rc = '{}/data/_history'.format(rc)
         return rc
     '''
+    def getSummaryNo(self):
+        return self.summary_no
+
+    def setSummaryNo(self, no):
+        self.summary_no = no
+        return self
+
     def getSummary(self):
         return self.summary
 
@@ -41,8 +55,35 @@ class Process():
     def filename(self, in_f):
         ps = in_f.split('/')
         return ps[len(ps) - 1]
+    def diagram(self):
+        print('''
+        [Sample] <--- +
+           |          ^
+           |          |
+        (datum) ----> +
+           |
+           
+        ''')
+
+    def getPath(self):
+        return self.processPath
+
+    def addPath(self, pathString):
+        self.processPath.append(pathString)
+        return self
+
+    def appendPath(self,processPath):
+        self.processPath.extend(processPath)
+        # print('appendPath ',self.processPath)
+        return self
+
+    def showPath(self, msg='-----'):
+        print(msg)
+        print(''.join(self.processPath))
+        return self
 
     def process(self):
+
         raise Exception('Overload process() in {}'.format(self.getClassName()))
 
     def run(self):

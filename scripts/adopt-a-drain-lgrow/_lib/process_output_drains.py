@@ -31,28 +31,29 @@ class ProcessOutputDrains(ProcessOutputs):
 
         self.get_dataframe().to_csv(output_name, index=False)
         #self.get_dataframe().to_csv(local_config["local_clean"], index=False)
+        self.addPath('''
+       |           + --- [Output CSV] <--- ({})'''.format(output_name))
         return self
 
     def toCSVSmall(self):
         output_name = '{}/small/{}'.format(Helper().get_clean_data_folder(), self.output_file_name )
         df_small = self.get_dataframe().query("dr_jurisdiction == 'Village of Caledonia'").head(5000)
         df_small.to_csv(output_name, index=False)
+        self.addPath('''
+       |           + --- [Output Small CSV] <--- ({})'''.format(output_name))
         return self
 
     def process(self):
         helper = Helper()
-        print('* ProcessOutputs')
+        #print('* ProcessOutputs')
         self.validateOutputColumns()
-        print('output: ', self.output_file_name)
+        #print('output: ', self.output_file_name)
 
         self.toCSV() # write data to disk
         self.toCSVSmall()
-        # print(' - output folder: ','data.world/clean-data/adopt-a-drain/')
-        #print(' - output file: ' ,'/data.world/clean-data/adopt-a-drain/', metadata['output_file_name'] )
-        #print(' - data.world file: ' ,'/data.world/clean-data/adopt-a-drain/', metadata['copy_file_name'] )
 
-        for colname in self.get_dataframe().columns.values:
-            print(' -- column: ', colname )
+        #for colname in self.get_dataframe().columns.values:
+        #    print(' -- column: ', colname )
 
         # OUTPUT Small file
 

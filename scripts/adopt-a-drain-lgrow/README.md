@@ -11,6 +11,7 @@
       +-- raw-data/
             +-- adopt-a-drain-lgrow/
                   +-- caledonia/
+                  +-- grandhaven/
       +-- scripts
             +-- adopt-a-drain-lgrow/
                   +-- import_drains.py

@@ -34,9 +34,18 @@ class ProcessLoad(Process):
             rc = pth[len(pth) - 2]
         return rc
 
+    def diagram(self):
+        print('''
+          [Sample] <--- +
+             |          ^
+             |          |
+          (datum) ----> +
+             |
 
+          ''')
 
     def process(self):
+        self.diagram()
         if not self.isLoaded():
             self.dataframe = pd.read_csv(self.import_file_name)
         else:

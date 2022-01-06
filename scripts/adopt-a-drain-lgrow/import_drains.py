@@ -182,22 +182,70 @@ if ENV_ERROR:
 # add column
 #expected_output_columns_list=ConfigOutputColumns()
 
+def countByJursidiction(df):
+    rc = {}
+    jurisdiction = df['dr_jurisdiction'].value_counts()
+
+    for k in jurisdiction.keys():
+        rc[k]=jurisdiction[k]
+    return rc
+
 def main():
     from process_load_dataworld_patch_20190927 import ProcessLoadDataworldPatch20190927
     from process_wrangle import ProcessWrangle
     from process_output_drains import ProcessOutputDrains
+    from report import Report
+    from pprint import pprint
+    import datetime
+    import json
 
-    #dw_source = 'citizenlabs/grb-storm-drains-2019-04-03'
+    dateKey = '{}'.format(datetime.datetime.now())
     dw_source = 'citizenlabs/lgrow-storm-drains-current'
+    finni = {}
 
     output_name =  Helper().get_current_name()
     version_name = Helper().get_version_name()
 
-    loadDataWorld = ProcessLoadDataworldPatch20190927(dw_source).run()
-    wrangle = ProcessWrangle(loadDataWorld).run()
-    current = ProcessOutputDrains(wrangle, output_name).run()
+    loadDataWorld = ProcessLoadDataworldPatch20190927(dw_source)\
+        .addPath('''[Start] source: {}\n   | '''.format('import_drains.main'))\
+        .run()
+
+    before = len(loadDataWorld.get_dataframe())
+
+    loadDataWorld.getSummary()[loadDataWorld.get_class_key()]['before'] = len(loadDataWorld.get_dataframe())
+    loadDataWorld.getSummary()[loadDataWorld.get_class_key()]['ante'] = countByJursidiction(loadDataWorld.get_dataframe())
+
+    finni = {dateKey:loadDataWorld.getSummary()}
+
+    wrangle = ProcessWrangle(loadDataWorld)\
+        .appendPath(loadDataWorld.getPath())\
+        .run()
+
+    finni[dateKey][loadDataWorld.get_class_key()]['post']= countByJursidiction(wrangle.get_dataframe())
+    finni[dateKey][wrangle.get_class_key()]={}
+
+    for x in wrangle.getSummary():
+        finni[dateKey][wrangle.get_class_key()][x]= wrangle.getSummary()[x]
+
+    current = ProcessOutputDrains(wrangle, output_name)\
+        .addPath('''
+       |           + ------ + 
+    [Outputs]      |    source: {}
+       |           |'''.format('import_drains'))\
+        .run()
+
     history = ProcessOutputDrains(wrangle, version_name).run()
 
+    #loadDataWorld.getSummary()[]
+    after = len(wrangle.get_dataframe())
+    finni[dateKey]['03.Finish']= {'before': before, 'after': after, 'diff': after - before }
+    print('#####################')
+    wrangle.appendPath(current.getPath())
+    wrangle.addPath('''
+       =
+    ''')
+    wrangle.showPath('Final')
+    pprint(finni)
     # change the folder name and make production copy
 
 if __name__ == "__main__":

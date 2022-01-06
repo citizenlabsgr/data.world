@@ -10,13 +10,10 @@ class ProcessLoadDrains(ProcessLoad):
 
     def __init__(self, import_file_name):
         ProcessLoad.__init__(self ,import_file_name)
-        # self.import_file_name=import_file_name
-        self.summary_key ='02'
-        #self.logger = Process Logger \
-        #    ('./history/{}.{}.ran'.format(self.getClassName() ,self.filename(self.import_file_name) ))
+        self.setSummaryNo('01')
 
-    def get_class_key(self):
-        return '{}.{}'.format(self.summary_key, self.getClassName())
+    #def get_class_key(self):
+    #    return '{}.{}'.format(self.summary_key, self.getClassName())
 
     '''
     def get_app_name(self):
@@ -57,11 +54,11 @@ class ProcessLoadDrains(ProcessLoad):
         return ps[len(ps ) -1]
 
     def process(self):
-        print('* ProcessLoad Drains', self.filename(self.import_file_name))
+        #print('* ProcessLoad Drains', self.filename(self.import_file_name))
 
         # if path.exists('./history/{}.{}.ran'.format(self.getClassName(),self.filename(self.import_file_name) )):
         if self.isLoaded():
-            print('Already ran {}...skipping'.format(self.import_file_name))
+            #print('Already ran {}...skipping'.format(self.import_file_name))
             self.getSummary()[self.get_class_key() ] ={}
             self.getSummary()[self.get_class_key()]['name' ]= self.filename(self.import_file_name)
             self.getSummary()[self.get_class_key()]['status' ] ='skipped'
