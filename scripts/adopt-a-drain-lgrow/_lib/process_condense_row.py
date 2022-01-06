@@ -7,13 +7,13 @@ import pprint
 class ProcessCondenseRows(ProcessCondense):
     def __init__(self, clean, expected_output_columns_list=ConfigOutputColumns(), extraColumns=ConfigTemporaryColumnList(), outlier_settings=ConfigOutlierSettings()):
         ProcessCondense.__init__(self, clean.get_dataframe(), expected_output_columns_list, extraColumns, outlier_settings)
-        self.summary_key ='04'
+        self.setSummaryNo('03')
 
-    def get_class_key(self):
-        return '{}.{}'.format(self.summary_key, self.getClassName())
+    #def get_class_key(self):
+    #    return '{}.{}'.format(self.summary_key, self.getClassName())
 
     def process(self):
-        print('* RowCondense')
+        #print('* RowCondense')
         self.getSummary()[self.get_class_key() ] ={}
         self.getSummary()[self.get_class_key()]['before' ] =len(self.get_dataframe())
 

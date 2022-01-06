@@ -40,13 +40,15 @@ class ConfigRegionMap(dict):
         "Plainfield Township": "PLATWP",
         "Byron Township": "BYRTWP",
         "OCWRC": "OCWRC",
-        "City of Grand Haven DPW":"CGH",
+        "Village of Spring Lake": "VSL",
         "Village of Spring Lake DPW": "VSL",
         "Ottawa County Road Commission": "OCRC",
         "OCRC": "OCRC",
         "Ottawa County Water Resource Commissioner":"OCRC",
         "Village of Fruitport":"VF",
-        "Village of Caledonia":"VC"
+        "Village of Caledonia":"VC",
+        "City of Grand Haven DPW": "CGH",
+        "OC Facilities":"OCF"
     })
 
 def main():

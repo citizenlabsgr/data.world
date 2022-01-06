@@ -9,7 +9,9 @@ class ConfigTemporaryColumnList(list):
               'dr_local_id',
               'dr_facility_id',
               'dr_location',
-              'dup_coordinate'])
+              'dup_coordinate',
+              'del_shape__area',
+              'del_shape__le_2'])
 
 def main():
     print('finish me')

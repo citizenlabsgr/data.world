@@ -18,28 +18,34 @@ class ProcessLoadDataworldPatch20190927(ProcessLoadDataWorld):
         ProcessLoadDataWorld.__init__(self, import_file_name)
         self.summary_key ='01'
 
-    def get_class_key(self):
-        return '{}.{}'.format(self.summary_key, self.getClassName())
+    #def get_class_key(self):
+    #    # class_key names the process step
+    #    return '{}.{}'.format(self.summary_key, self.getClassName())
 
     def process(self):
         super().process()
+
         # self.getLogger().kill()
         # skip if already run
+        #print('count ',self.get_dataframe().count())
+
 
         history_file = '{}/{}.ran'.format(Helper().get_history_folder(), self.getClassName())
+        self.addPath('''                                  
+       |                                  + --- [Copy DW to repo for History]     source: {}
+       |                                  |        ({}) 
+       |                    + <---------- +'''.format(self.getClassName(),history_file))
         if path.exists(history_file):
-            print('Already ran {}...skipping'.format(self.getClassName()))
-            self.getSummary()[self.get_class_key() ] ={}
-            self.getSummary()[self.get_class_key()]['name' ]= self.filename(self.import_file_name)
+            # print('Already ran {}...skipping'.format(self.getClassName()))
+            self.getSummary()[self.get_class_key() ] = {}
+            self.getSummary()[self.get_class_key()]['source'] = self.import_file_name
+
             self.getSummary()[self.get_class_key()]['status' ] ="skipped"
             return
 
         self.getSummary()[self.get_class_key() ] ={}
-        self.getSummary()[self.get_class_key()]['name' ]= self.filename(self.import_file_name)
         self.getSummary()[self.get_class_key()]['status' ] ="processed"
         self.getSummary()[self.get_class_key()]['before' ] =len(self.get_dataframe())
-
-        print('ProcessLoadDataworldPatch20190927', len(self.get_dataframe()))
         # patch up blanck jurisdiction names with owner
         print(' -- replace dr_jurisdiction with dr_owner')
         self.get_dataframe()['dr_jurisdiction'] = self.get_dataframe()['dr_owner'] # is what it is

@@ -6,13 +6,14 @@ from config_outlier_settings import ConfigOutlierSettings
 class ProcessCondenseColumns(ProcessCondense):
     def __init__(self, condense_row, expected_output_columns_list=ConfigOutputColumns(), extraColumns=ConfigTemporaryColumnList(), outlier_settings=ConfigOutlierSettings()):
         ProcessCondense.__init__(self, condense_row.get_dataframe(), expected_output_columns_list, extraColumns, outlier_settings)
-        self.summary_key ='05'
+        #self.summary_key ='04'
+        self.setSummaryNo('04')
 
-    def get_class_key(self):
-        return '{}.{}'.format(self.summary_key, self.getClassName())
+    #def get_class_key(self):
+    #    return '{}.{}'.format(self.summary_key, self.getClassName())
 
     def process(self):
-        print('* ColCondense')
+        #print('* ColCondense')
         self.getSummary()[self.get_class_key() ] ={}
         self.getSummary()[self.get_class_key()]['from' ] =[c for c in self.get_dataframe().columns]
 
