@@ -48,6 +48,7 @@ class ProcessLoadDataworldPatch20190927(ProcessLoadDataWorld):
         self.getSummary()[self.get_class_key()]['before' ] =len(self.get_dataframe())
         # patch up blanck jurisdiction names with owner
         print(' -- replace dr_jurisdiction with dr_owner')
+        print('dr_jurisdiction B set')
         self.get_dataframe()['dr_jurisdiction'] = self.get_dataframe()['dr_owner'] # is what it is
 
         # self.set_dataframe(data)

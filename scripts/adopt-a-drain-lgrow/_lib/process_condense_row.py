@@ -47,10 +47,10 @@ def main():
 
     assert len(load.get_dataframe()) == 3
     # ProcessClean
-    clean = ProcessCleanDrains(load ).run()
+    cleanDrains = ProcessCleanDrains(load ).run()
 
     # ProcessCondense Rows
-    condense = ProcessCondenseRows(clean).run()
+    condense = ProcessCondenseRows(cleanDrains).run()
 
     assert condense.get_class_key() == '04.ProcessCondenseRows'
     #print(condense_rows.get_dataframe())

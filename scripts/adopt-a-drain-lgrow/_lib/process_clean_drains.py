@@ -2,11 +2,15 @@ from process import Process
 from process_clean import ProcessClean
 from config_common_name_map import ConfigCommonNameMap
 from config_region_map import ConfigRegionMap
+from config_jurisdiction_map import ConfigJurisdictionMap
+from pprint import pprint
+from util import Util
+
 import numpy as np
 
 class ProcessCleanDrains(ProcessClean):
-    def __init__(self, load, commonNameMap=ConfigCommonNameMap(), region_map=ConfigRegionMap()):
-        ProcessClean.__init__(self ,load.get_dataframe(), commonNameMap, region_map)
+    def __init__(self, load, commonNameMap=ConfigCommonNameMap(), region_map=ConfigRegionMap(), jurisdiction_map=ConfigJurisdictionMap()):
+        ProcessClean.__init__(self ,load.get_dataframe(), commonNameMap, region_map, jurisdiction_map)
 
         self.setSummaryNo('02')
 
@@ -147,6 +151,29 @@ class ProcessCleanDrains(ProcessClean):
 
         return rc
 
+    '''
+    def jurisdiction_names(self, df_source , _owner):
+
+        # Fix misnamed jurisdiction names
+
+        rc = []
+
+        # look at data in in the _owner column
+        for jur in self.dataframe[_owner]:
+            # check if jur is in the codes
+            jur = jur.strip()
+            if jur in self.jurisdiction_map:
+                # if jur == 'KENT COUNTY ROAD COMMISSION':
+                print('find ',jur , ' found ', self.jurisdiction_map[jur])
+
+                rc.append(self.jurisdiction_map[jur])
+            else:
+                print('bad name', )
+                raise Exception('Jurisdiction for ({}) is not available... manually add new to ConfigJurisdictionMap'.format(jur))
+                # rc.append('XXX')
+
+        return rc
+    '''
     def formatNameChanges(self):
         names = self.getColumnDict()
         print('names', names)
@@ -196,9 +223,15 @@ class ProcessCleanDrains(ProcessClean):
         self.dataframe['dup_coordinate'] = '(' + self.dataframe['dr_lon'].astype(str) + ' ' + self.dataframe['dr_lat'].astype(str) + ')'
         self.processPath.append('''
        |                    + --- [Add Duplicate Coordinate Column] <--- (dup_coordinate) <--- (dr_lon,dr_lat)''')
+
         self.dataframe['dr_jurisdiction'] = self.dataframe['dr_owner'] # is what it is
         self.processPath.append('''
        |                    + --- [Add Jurisdiction Column] <--- (dr_jurisdiction) <--- (dr_owner)''')
+
+        # self.dataframe['dr_jurisdiction'] = self.jurisdiction_names(self.dataframe, 'dr_owner')
+        # self.processPath.append('''
+        # |                    + --- [Add Jurisdiction Name] ''')
+
         # mark all empties with nan
         #print(' -- identify empty dr_facility_ids')
 
@@ -251,6 +284,18 @@ class ProcessCleanDrains(ProcessClean):
         self.dataframe['dr_discharge'] = self.dataframe['dr_subwatershed']
         self.processPath.append('''
        |                    + --- [Create dr_discharge from dr_subwatershed''')
+        # print('dr_jurisdiction C set')
+        # self.dataframe['dr_jurisdiction'] = ConfigJurisdictionMap().columnValues( self.dataframe)
+        # print('dr_jurisdiction 1')
+        # pprint(Util().uniqueList(self.dataframe['dr_jurisdiction']))
+        # print('dr_jurisdiction 2')
+
+        # pprint(self.dataframe['dr_jurisdiction'])
+        # self.dataframe['dr_jurisdiction'] = self.jurisdiction_names(self.dataframe, 'dr_owner')
+        # pprint(self.jurisdiction_names(self.dataframe, 'dr_owner'))
+        self.processPath.append('''
+       |                    + --- [Add dr_jurisdiction Name] ''')
+
         self.getSummary()[self.get_class_key()]['after' ] =len(self.get_dataframe())
         diff = self.getSummary()[self.get_class_key()]['after']  - self.getSummary()[self.get_class_key()]['before']
         self.getSummary()[self.get_class_key()]['diff'] = diff
@@ -272,15 +317,15 @@ def main():
     #print(list(load.get_dataframe().columns))
 
     # ProcessClean
-    #clean = ProcessCleanDrains(load, ConfigCommonNameMap(), ConfigRegionMap()).run()
-    clean = ProcessCleanDrains(load).run()
+    #clean = Process CleanDrains(load, ConfigCommonNameMap(), ConfigRegionMap()).run()
+    cleanDrains = ProcessCleanDrains(load).run()
 
-    assert clean.get_class_key() == '03.ProcessCleanDrains'
+    assert cleanDrains.get_class_key() == '03.ProcessCleanDrains'
     #print('out ',list(clean.get_dataframe().columns))
     #                                             ['del_fid', 'del_sub_type', 'dr_jurisdiction', 'dr_owner', 'del_source', 'dr_local_id', 'dr_facility_id', 'dr_lat', 'dr_lon', 'dr_subwatershed', 'dup_coordinate', 'source_code', 'dr_asset_id', 'dr_type', 'dr_discharge']
     #                                        out  ['del_fid', 'dr_sub_type', 'dr_jurisdiction', 'dr_owner', 'del_source', 'dr_local_id', 'dr_facility_id', 'dr_lat', 'dr_lon', 'dr_subwatershed', 'dup_coordinate', 'source_code', 'dr_asset_id', 'dr_type', 'dr_discharge']
-    print(list(clean.get_dataframe().columns))
-    assert list(clean.get_dataframe().columns) == ['del_fid', 'dr_subtype', 'dr_jurisdiction', 'dr_owner', 'del_source', 'dr_local_id', 'dr_facility_id', 'dr_lat', 'dr_lon', 'dr_subwatershed', 'dup_coordinate', 'source_code', 'dr_asset_id', 'dr_type', 'dr_discharge']
+    print(list(cleanDrains.get_dataframe().columns))
+    assert list(cleanDrains.get_dataframe().columns) == ['del_fid', 'dr_subtype', 'dr_jurisdiction', 'dr_owner', 'del_source', 'dr_local_id', 'dr_facility_id', 'dr_lat', 'dr_lon', 'dr_subwatershed', 'dup_coordinate', 'source_code', 'dr_asset_id', 'dr_type', 'dr_discharge']
     #print(clean.get_dataframe().dftypes())
     # clean up
     sampleCSV.delete()

@@ -15,6 +15,8 @@ from config_output_columns import ConfigOutputColumns
 from config_temporary_column_list import ConfigTemporaryColumnList
 from config_common_name_map import ConfigCommonNameMap
 from config_region_map import ConfigRegionMap
+from config_jurisdiction_map import ConfigJurisdictionMap
+
 from helper import Helper
 import copy
 
@@ -36,7 +38,8 @@ class ProcessWrangle(Process):
 
         self.maps = {
                       "commonNameMap": ConfigCommonNameMap(),
-                      "region_map": ConfigRegionMap()
+                      "region_map": ConfigRegionMap(),
+                      "jurisdiction_map": ConfigJurisdictionMap()
                     }
         #self.expected_output_columns_list = expected_output_columns_list
         self.expected_output_columns_list = ConfigOutputColumns
@@ -226,10 +229,10 @@ class ProcessWrangle(Process):
 
         #print('A dataframe ',len(self.get_dataframe()))
         self.set_dataframe(pd.concat(self.concat_list))
-        #print('B dataframe ',len(self.get_dataframe()))
-
+        print('B dataframe ',len(self.get_dataframe()))
+        print(' cols ', self.get_dataframe().columns)
         #self.report['dataworld']['combinationCount'] = len(self.get_dataframe())
-
+        self.get_dataframe()['dr_jurisdiction'] = ConfigJurisdictionMap().columnValues(self.dataframe)
         '''
         --------------------------------- ProcessCondense dataset (cols, rows)
         '''
@@ -246,6 +249,8 @@ class ProcessWrangle(Process):
             .run()  # e
         self.appendPath(condense.getPath())
         #self.report['dataworld']['condenseCount'] = len(condense.get_dataframe())
+
+        # print('DATA')
 
         self.set_dataframe(condense.get_dataframe())
         #print('C dataframe ',len(self.get_dataframe()))

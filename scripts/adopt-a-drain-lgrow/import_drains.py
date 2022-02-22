@@ -184,6 +184,7 @@ if ENV_ERROR:
 
 def countByJursidiction(df):
     rc = {}
+    print('dr_jurisdiction A count')
     jurisdiction = df['dr_jurisdiction'].value_counts()
 
     for k in jurisdiction.keys():
@@ -205,7 +206,7 @@ def main():
 
     output_name =  Helper().get_current_name()
     version_name = Helper().get_version_name()
-
+    #
     loadDataWorld = ProcessLoadDataworldPatch20190927(dw_source)\
         .addPath('''[Start] source: {}\n   | '''.format('import_drains.main'))\
         .run()
