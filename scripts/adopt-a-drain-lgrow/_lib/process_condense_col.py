@@ -50,10 +50,10 @@ def main():
     load = ProcessLoadDrains(sampleCSV.getFileName()).run()
 
     # ProcessClean
-    clean = ProcessCleanDrains(load ).run()
+    cleanDrains = ProcessCleanDrains(load ).run()
 
     # ProcessCondense Rows
-    condense_row = ProcessCondenseRows(clean).run()
+    condense_row = ProcessCondenseRows(cleanDrains).run()
 
     # Condense Columns
     condense_c = ProcessCondenseColumns(condense_row).run()

@@ -158,6 +158,14 @@ class Util():
             rc ='{}/{}'.format(rc, suffix)
 
         return rc
+    def uniqueList(self,lst):
+        rc = []
+        for i in lst:
+            if i not in rc:
+                rc.append(i)
+
+        # print('unique ',rc)
+        return rc
 
 def main():
     #from app_settings import AppSettingsTest
